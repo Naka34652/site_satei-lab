@@ -14,13 +14,13 @@ add_editor_style();
  */
 function sateilab_get_post_cta_data() {
   return array(
-    'title'       => 'まずは無料で相場を確認する',
-    'description' => '車を少しでも高く売りたいなら、複数の選択肢を比較しておくのがおすすめです。',
-    'primary_text'=> '無料査定をチェックする',
-    'primary_url' => '#cta-primary-placeholder',
-    'secondary_text' => '関連記事を見る',
-    'secondary_url'  => '#cta-secondary-placeholder',
-    'note'        => '※申し込み前に条件や対応エリアを確認してください。',
+    'title'       => '愛車を少しでも高く売りたいなら、先に査定相場を確認しておきましょう',
+    'description' => '1社だけで決めると、本来より安い査定額になることがあります。まずは複数の選択肢を比較して、愛車の相場感をつかんでおくのがおすすめです。',
+    'primary_text'=> '無料で査定相場をチェックする',
+    'primary_url' => 'https://px.a8.net/svt/ejp?a8mat=457BCE+A4DBRU+14EG+61Z82',
+    'secondary_text' => '他の記事も見る',
+    'secondary_url'  => 'https://satei-lab.com/',
+    'note'        => '※提携先サイトへ移動します。申し込み前に対象エリアや条件をご確認ください。',
   );
 }
 
