@@ -24,6 +24,133 @@ Version:    1.1.3
 }
 
 /************************************
+** satei-lab 共通UI
+************************************/
+/* 記事内で使い回す共通枠 */
+.sl-box,
+.sl-related-box,
+.sl-author-box,
+.sl-cta {
+  margin: 1.25em 0;
+  padding: 1em;
+  border: 1px solid #d7dee8;
+  border-radius: 12px;
+  background: #fff;
+}
+
+.sl-box > :first-child,
+.sl-related-box > :first-child,
+.sl-author-box > :first-child,
+.sl-cta > :first-child {
+  margin-top: 0;
+}
+
+.sl-box > :last-child,
+.sl-related-box > :last-child,
+.sl-author-box > :last-child,
+.sl-cta > :last-child {
+  margin-bottom: 0;
+}
+
+/* 補足・注意向け */
+.sl-box--note {
+  border-color: #d8e3f0;
+  background: #f7fbff;
+}
+
+/* 要点整理やチェック向け */
+.sl-box--check {
+  border-color: #cfe3db;
+  background: #f5fbf7;
+}
+
+/* 記事下CTAの基本レイアウト */
+.sl-cta {
+  padding: 1.25em;
+  text-align: left;
+  box-shadow: 0 2px 10px rgba(31, 53, 84, 0.06);
+}
+
+.sl-cta__title {
+  margin: 0 0 0.4em;
+  font-size: 1.15em;
+  font-weight: 700;
+  line-height: 1.5;
+  color: #1f3554;
+}
+
+.sl-cta__text {
+  margin: 0;
+  color: #43546a;
+  line-height: 1.8;
+}
+
+.sl-cta__actions {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75em;
+  margin-top: 1em;
+}
+
+/* 再利用する共通ボタン */
+.sl-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  min-height: 48px;
+  padding: 0.85em 1.2em;
+  border: 1px solid transparent;
+  border-radius: 999px;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-weight: 700;
+  line-height: 1.4;
+  transition: opacity 0.2s ease, background-color 0.2s ease, border-color 0.2s ease;
+}
+
+.sl-btn:hover,
+.sl-btn:focus {
+  text-decoration: none;
+  opacity: 0.92;
+}
+
+.sl-btn--primary {
+  background: #1f3554;
+  border-color: #1f3554;
+  color: #fff;
+}
+
+.sl-btn--secondary {
+  background: #fff;
+  border-color: #c6d2df;
+  color: #1f3554;
+}
+
+/* 回遊導線と信頼訴求の共通枠 */
+.sl-related-box {
+  background: #f8fafc;
+}
+
+.sl-author-box {
+  background: #fbfcfe;
+}
+
+/* 比較表の横スクロール対策 */
+.sl-table-wrap {
+  width: 100%;
+  margin: 1.25em 0;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+.sl-table-wrap table {
+  width: 100%;
+  min-width: 640px;
+  border-collapse: collapse;
+}
+
+/************************************
 ** レスポンシブデザイン用のメディアクエリ
 ************************************/
 /*1023px以下*/
@@ -33,10 +160,30 @@ Version:    1.1.3
 
 /*834px以下*/
 @media screen and (max-width: 834px){
-  /*必要ならばここにコードを書く*/
+  .sl-box,
+  .sl-related-box,
+  .sl-author-box,
+  .sl-cta {
+    padding: 0.9em;
+  }
 }
 
 /*480px以下*/
 @media screen and (max-width: 480px){
-  /*必要ならばここにコードを書く*/
+  .sl-cta {
+    padding: 1em;
+  }
+
+  .sl-cta__title {
+    font-size: 1.05em;
+  }
+
+  .sl-btn {
+    min-height: 44px;
+    padding: 0.8em 1em;
+  }
+
+  .sl-table-wrap table {
+    min-width: 560px;
+  }
 }
