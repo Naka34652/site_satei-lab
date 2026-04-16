@@ -1,0 +1,13 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+daihatsu-terios,テリオス,,2010,2010年式,root,root,1,7.8,7.8,7.8,7.8,7.8,7.8,7.8,2010年式 / 1.3 CX / 10万km / 埼玉県,2010年式,1.3 CX,10万km,埼玉県,manen
+daihatsu-terios,テリオス,,2006,2006年式,root,root,1,4.2,4.2,4.2,4.2,4.2,4.2,4.2,"2006年式 / 1.3 CX / 111,000km / 三重県",2006年式,1.3 CX,"111,000km",三重県,manen
+daihatsu-terios,テリオス,,2005,2005年式,root,root,7,12.2,24.1,16.5,15.0,14.0,16.3,24.1,"2005年式 / 1.3 CLリミテッド 4WD / 152,000km / 三重県",2005年式,1.3 CLリミテッド 4WD,"152,000km",三重県,manen
+daihatsu-terios,テリオス,,2004,2004年式,root,root,36,3.8,25.4,13.4,10.9,8.4,17.1,25.4,2004年式 / 1.3 CL 4WD / 4万km / 群馬県,2004年式,1.3 CL 4WD,4万km,群馬県,manen
+daihatsu-terios,テリオス,,2003,2003年式,root,root,24,6.9,24.0,14.2,13.6,10.2,15.8,24.0,"2003年式 / 1.3 カスタム メモリアルエディション 4WD / 15,000km / 熊本県",2003年式,1.3 カスタム メモリアルエディション 4WD,"15,000km",熊本県,manen
+daihatsu-terios,テリオス,,2002,2002年式,root,root,25,5.0,24.8,11.9,10.0,7.8,15.0,24.8,2002年式 / 1.3 ターボ エアロダウンカスタム 4WD / 5万km / 静岡県,2002年式,1.3 ターボ エアロダウンカスタム 4WD,5万km,静岡県,manen
+daihatsu-terios,テリオス,,2001,2001年式,root,root,19,7.4,21.9,15.1,15.7,11.6,20.7,21.9,"2001年式 / 1.3 ターボ エアロダウンカスタム 4WD / 32,000km / 埼玉県",2001年式,1.3 ターボ エアロダウンカスタム 4WD,"32,000km",埼玉県,manen
+daihatsu-terios,テリオス,,2000,2000年式,root,root,24,6.0,19.6,10.9,9.7,8.1,12.9,19.6,"2000年式 / 1.3 CX 4WD / 57,000km / 熊本県",2000年式,1.3 CX 4WD,"57,000km",熊本県,manen
+daihatsu-terios,テリオス,,1999,1999年式,root,root,19,4.3,19.0,9.9,9.9,6.2,11.7,19.0,"1999年式 / 1.3 CL / 46,000km / 岡山県",1999年式,1.3 CL,"46,000km",岡山県,manen
+daihatsu-terios,テリオス,,1998,1998年式,root,root,28,4.4,21.9,9.6,9.1,6.1,13.0,21.9,"1998年式 / 1.3 CX 4WD / 46,000km / 愛知県",1998年式,1.3 CX 4WD,"46,000km",愛知県,manen
+daihatsu-terios,テリオス,,1997,1997年式,root,root,47,4.3,25.6,10.5,8.5,6.6,11.0,25.6,"1997年式 / 1.3 CX 4WD / 68,000km / 千葉県",1997年式,1.3 CX 4WD,"68,000km",千葉県,manen
+daihatsu-terios,テリオス,,1996,1996年式,root,root,45,4.0,18.1,8.3,7.6,6.4,9.0,18.1,"1996年式 / 1.3 CX 4WD / 108,000km / 京都府",1996年式,1.3 CX 4WD,"108,000km",京都府,manen

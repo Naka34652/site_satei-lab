@@ -1,0 +1,24 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+daihatsu-move,ムーヴ,,2023,2023年式,root,root,29,48.6,101.0,82.8,86.5,78.8,92.5,101.0,2023年式 / X SAIII / 1万km / 秋田県,2023年式,X SAIII,1万km,秋田県,manen
+daihatsu-move,ムーヴ,,2022,2022年式,root,root,52,37.2,103.5,80.6,81.2,74.5,88.6,103.5,"2022年式 / X リミテッドII SAIII / 9,000km / 神奈川県",2022年式,X リミテッドII SAIII,"9,000km",神奈川県,manen
+daihatsu-move,ムーヴ,,2021,2021年式,root,root,54,19.2,100.5,68.0,69.2,55.5,82.1,100.5,"2021年式 / X リミテッドII SAIII / 22,000km / 富山県",2021年式,X リミテッドII SAIII,"22,000km",富山県,manen
+daihatsu-move,ムーヴ,,2020,2020年式,root,root,52,11.7,95.0,57.0,56.5,43.6,71.9,95.0,"2020年式 / X リミテッドII SAIII / 26,000km / 山形県",2020年式,X リミテッドII SAIII,"26,000km",山形県,manen
+daihatsu-move,ムーヴ,,2019,2019年式,root,root,64,16.3,86.5,51.1,53.0,38.5,61.0,86.5,"2019年式 / L SAIII 4WD / 54,000km / 群馬県",2019年式,L SAIII 4WD,"54,000km",群馬県,manen
+daihatsu-move,ムーヴ,,2018,2018年式,root,root,71,11.7,81.5,46.7,45.0,33.9,58.5,81.5,"2018年式 / X リミテッド SAIII / 26,000km / 長崎県",2018年式,X リミテッド SAIII,"26,000km",長崎県,manen
+daihatsu-move,ムーヴ,,2017,2017年式,root,root,76,5.0,71.5,42.4,41.5,31.4,50.2,71.5,"2017年式 / X ターボ SAIII / 25,000km / 青森県",2017年式,X ターボ SAIII,"25,000km",青森県,manen
+daihatsu-move,ムーヴ,,2016,2016年式,root,root,70,5.0,68.5,31.2,28.3,24.3,37.9,68.5,"2016年式 / X SAII / 21,000km / 福岡県",2016年式,X SAII,"21,000km",福岡県,manen
+daihatsu-move,ムーヴ,,2015,2015年式,root,root,81,3.9,59.5,24.5,24.6,16.7,31.6,59.5,"2015年式 / X ターボ SAII 4WD / 59,000km / 茨城県",2015年式,X ターボ SAII 4WD,"59,000km",茨城県,manen
+daihatsu-move,ムーヴ,,2014,2014年式,root,root,80,5.0,47.5,18.7,18.6,8.6,24.6,47.5,"2014年式 / L スマートセレクション SA 4WD / 28,000km / 大分県",2014年式,L スマートセレクション SA 4WD,"28,000km",大分県,manen
+daihatsu-move,ムーヴ,,2013,2013年式,root,root,81,5.0,43.1,16.0,17.1,5.0,23.9,43.1,2013年式 / X SA / 2万km / 奈良県,2013年式,X SA,2万km,奈良県,manen
+daihatsu-move,ムーヴ,,2012,2012年式,root,root,78,5.0,36.5,14.9,16.4,5.0,22.5,36.5,"2012年式 / X リミテッド / 54,000km / 高知県",2012年式,X リミテッド,"54,000km",高知県,manen
+daihatsu-move,ムーヴ,,2011,2011年式,root,root,59,1.8,33.0,14.3,16.2,5.0,21.5,33.0,"2011年式 / CG / 69,000km / 香川県",2011年式,CG,"69,000km",香川県,manen
+daihatsu-move,ムーヴ,,2010,2010年式,root,root,51,5.0,37.1,13.3,5.0,5.0,23.6,37.1,"2010年式 / X VS III / 55,000km / 宮城県",2010年式,X VS III,"55,000km",宮城県,manen
+daihatsu-move,ムーヴ,,2009,2009年式,root,root,31,5.0,27.7,11.0,5.0,5.0,16.6,27.7,"2009年式 / X リミテッド / 73,000km / 大分県",2009年式,X リミテッド,"73,000km",大分県,manen
+daihatsu-move,ムーヴ,,2008,2008年式,root,root,20,5.0,31.5,11.3,5.0,5.0,18.3,31.5,"2008年式 / L 4WD / 52,000km / 岐阜県",2008年式,L 4WD,"52,000km",岐阜県,manen
+daihatsu-move,ムーヴ,,2007,2007年式,root,root,20,5.0,28.0,11.8,5.0,5.0,20.3,28.0,"2007年式 / R ナビエディション / 74,000km / 新潟県",2007年式,R ナビエディション,"74,000km",新潟県,manen
+daihatsu-move,ムーヴ,,2006,2006年式,root,root,11,5.0,25.6,12.8,5.0,5.0,23.0,25.6,"2006年式 / R ナビエディション / 46,000km / 福井県",2006年式,R ナビエディション,"46,000km",福井県,manen
+daihatsu-move,ムーヴ,,2005,2005年式,root,root,11,5.0,24.4,14.6,20.2,5.0,23.0,24.4,"2005年式 / CL セレクション / 46,000km / 岐阜県",2005年式,CL セレクション,"46,000km",岐阜県,manen
+daihatsu-move,ムーヴ,,2004,2004年式,root,root,2,25.0,26.5,25.8,25.8,25.0,26.5,26.5,"2004年式 / ナビエディション Sパッケージ / 74,000km / 埼玉県",2004年式,ナビエディション Sパッケージ,"74,000km",埼玉県,manen
+daihatsu-move,ムーヴ,,2003,2003年式,root,root,3,5.0,20.8,10.3,5.0,5.0,20.8,20.8,"2003年式 / CL セレクション / 69,000km / 三重県",2003年式,CL セレクション,"69,000km",三重県,manen
+daihatsu-move,ムーヴ,,2001,2001年式,root,root,3,5.0,21.3,10.4,5.0,5.0,21.3,21.3,"2001年式 / RS パルコ ナビエディション / 139,000km / 滋賀県",2001年式,RS パルコ ナビエディション,"139,000km",滋賀県,manen
+daihatsu-move,ムーヴ,,2000,2000年式,root,root,1,5.0,5.0,5.0,5.0,5.0,5.0,5.0,"2000年式 / エアロダウンカスタム Sエディション / 86,000km / 兵庫県",2000年式,エアロダウンカスタム Sエディション,"86,000km",兵庫県,manen

@@ -1,0 +1,11 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+suzuki-sx4,SX4,,2014,2014年式,root,root,16,18.3,35.0,26.8,27.1,21.3,29.8,35.0,"2014年式 / 1.5G / 34,000km / 香川県",2014年式,1.5G,"34,000km",香川県,manen
+suzuki-sx4,SX4,,2013,2013年式,root,root,36,17.6,36.9,22.6,21.0,17.6,26.2,36.9,"2013年式 / 1.5XG 4WD / 46,000km / 島根県",2013年式,1.5XG 4WD,"46,000km",島根県,manen
+suzuki-sx4,SX4,,2012,2012年式,root,root,21,11.0,37.5,23.0,21.2,16.9,29.7,37.5,"2012年式 / 1.5XG 4WD / 36,000km / 栃木県",2012年式,1.5XG 4WD,"36,000km",栃木県,manen
+suzuki-sx4,SX4,,2011,2011年式,root,root,32,5.0,35.9,18.7,17.3,15.6,21.3,35.9,"2011年式 / 1.5G 4WD / 82,000km / 茨城県",2011年式,1.5G 4WD,"82,000km",茨城県,manen
+suzuki-sx4,SX4,,2010,2010年式,root,root,63,5.6,36.7,18.4,17.4,13.6,21.6,36.7,"2010年式 / 1.5G 4WD / 103,000km / 岐阜県",2010年式,1.5G 4WD,"103,000km",岐阜県,manen
+suzuki-sx4,SX4,,2009,2009年式,root,root,125,5.0,37.3,16.5,15.6,11.4,19.5,37.3,"2009年式 / 1.5G / 13,000km / 石川県",2009年式,1.5G,"13,000km",石川県,manen
+suzuki-sx4,SX4,,2008,2008年式,root,root,219,5.1,37.5,17.0,16.8,11.7,20.1,37.5,"2008年式 / 2.0S / 42,000km / 京都府",2008年式,2.0S,"42,000km",京都府,manen
+suzuki-sx4,SX4,,2007,2007年式,root,root,220,5.0,35.6,15.2,14.7,10.6,18.7,35.6,"2007年式 / 1.5XG / 58,000km / 鹿児島県",2007年式,1.5XG,"58,000km",鹿児島県,manen
+suzuki-sx4,SX4,,2006,2006年式,root,root,200,5.0,33.0,14.1,12.8,9.0,18.3,33.0,"2006年式 / 1.5 サロモン リミテッド 4WD / 75,000km / 兵庫県",2006年式,1.5 サロモン リミテッド 4WD,"75,000km",兵庫県,manen
+suzuki-sx4,SX4,,2005,2005年式,root,root,68,5.1,29.6,11.3,9.3,7.2,14.7,29.6,"2005年式 / 2.0S / 39,000km / 兵庫県",2005年式,2.0S,"39,000km",兵庫県,manen

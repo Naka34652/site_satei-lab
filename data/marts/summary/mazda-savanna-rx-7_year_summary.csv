@@ -1,0 +1,4 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+mazda-savanna-rx-7,サバンナRX-7,,1990,1990年式,root,root,2,19.2,171.1,95.2,95.2,19.2,171.1,171.1,"1990年式 / GT-R / 84,000km / 埼玉県",1990年式,GT-R,"84,000km",埼玉県,manen
+mazda-savanna-rx-7,サバンナRX-7,,1989,1989年式,root,root,2,5.0,193.7,99.3,99.3,5.0,193.7,193.7,1989年式 / GT-R / 16万km / 静岡県,1989年式,GT-R,16万km,静岡県,manen
+mazda-savanna-rx-7,サバンナRX-7,,1979,1979年式,root,root,1,163.5,163.5,163.5,163.5,163.5,163.5,163.5,"1979年式 / GT / 72,000km / 埼玉県",1979年式,GT,"72,000km",埼玉県,manen

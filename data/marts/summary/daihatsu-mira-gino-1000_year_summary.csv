@@ -1,0 +1,6 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+daihatsu-mira-gino-1000,ミラジーノ1000,,2004,2004年式,root,root,7,10.8,41.1,20.9,18.0,15.5,19.2,41.1,"2004年式 / 1.0 X / 92,000km / 群馬県",2004年式,1.0 X,"92,000km",群馬県,manen
+daihatsu-mira-gino-1000,ミラジーノ1000,,2003,2003年式,root,root,24,1.0,37.8,19.0,17.4,10.5,28.7,37.8,"2003年式 / 1.0 X / 139,000km / 広島県",2003年式,1.0 X,"139,000km",広島県,manen
+daihatsu-mira-gino-1000,ミラジーノ1000,,2002,2002年式,root,root,33,5.0,40.0,20.8,20.2,16.4,27.0,40.0,"2002年式 / 1.0 X / 62,000km / 岩手県",2002年式,1.0 X,"62,000km",岩手県,manen
+daihatsu-mira-gino-1000,ミラジーノ1000,,2001,2001年式,root,root,14,4.7,30.0,14.7,15.1,6.6,20.3,30.0,"2001年式 / 1.0 / 53,000km / 愛媛県",2001年式,1.0,"53,000km",愛媛県,manen
+daihatsu-mira-gino-1000,ミラジーノ1000,,1987,1987年式,root,root,1,18.4,18.4,18.4,18.4,18.4,18.4,18.4,"1987年式 / 1.0 X 4WD / 82,000km / 大分県",1987年式,1.0 X 4WD,"82,000km",大分県,manen

@@ -1,0 +1,9 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+mazda-mazda3-fastback,MAZDA3 FASTBACK,,2025,2025年式,root,root,11,204.5,251.5,222.5,220.0,211.5,232.0,251.5,"2025年式 / 2.0 20S レトロスポーツエディション / 4,000km / 宮崎県",2025年式,2.0 20S レトロスポーツエディション,"4,000km",宮崎県,manen
+mazda-mazda3-fastback,MAZDA3 FASTBACK,,2024,2024年式,root,root,35,125.3,251.5,188.9,190.0,165.5,210.2,251.5,"2024年式 / 1.8 XD レトロスポーツエディション / 6,000km / 鹿児島県",2024年式,1.8 XD レトロスポーツエディション,"6,000km",鹿児島県,manen
+mazda-mazda3-fastback,MAZDA3 FASTBACK,,2023,2023年式,root,root,98,86.5,245.1,187.0,188.8,169.5,205.5,245.1,"2023年式 / 1.8 XD ブラックトーンエディション / 2,000km / 福井県",2023年式,1.8 XD ブラックトーンエディション,"2,000km",福井県,manen
+mazda-mazda3-fastback,MAZDA3 FASTBACK,,2022,2022年式,root,root,143,95.5,231.0,176.1,177.5,162.3,192.2,231.0,"2022年式 / 1.5 15S ブラックトーンエディション 4WD / 13,000km / 神奈川県",2022年式,1.5 15S ブラックトーンエディション 4WD,"13,000km",神奈川県,manen
+mazda-mazda3-fastback,MAZDA3 FASTBACK,,2021,2021年式,root,root,192,106.2,251.0,173.5,169.2,153.6,193.0,251.0,"2021年式 / 1.8 XD Lパッケージ 4WD / 23,000km / 和歌山県",2021年式,1.8 XD Lパッケージ 4WD,"23,000km",和歌山県,manen
+mazda-mazda3-fastback,MAZDA3 FASTBACK,,2020,2020年式,root,root,241,89.0,251.5,168.1,165.0,147.1,192.5,251.5,"2020年式 / 2.0 X バーガンディ セレクション 4WD / 34,000km / 滋賀県",2020年式,2.0 X バーガンディ セレクション 4WD,"34,000km",滋賀県,manen
+mazda-mazda3-fastback,MAZDA3 FASTBACK,,2019,2019年式,root,root,279,83.0,238.8,161.1,160.1,138.8,182.2,238.8,"2019年式 / 2.0 X バーガンディ セレクション / 4,000km / 滋賀県",2019年式,2.0 X バーガンディ セレクション,"4,000km",滋賀県,manen
+mazda-mazda3-fastback,MAZDA3 FASTBACK,,2018,2018年式,root,root,1,167.5,167.5,167.5,167.5,167.5,167.5,167.5,"2018年式 / 1.5 15S ツーリング / 29,000km / 新潟県",2018年式,1.5 15S ツーリング,"29,000km",新潟県,manen

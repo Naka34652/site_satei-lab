@@ -1,0 +1,22 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+mitsubishi-lancer-cargo,ランサーカーゴ,,2019,2019年式,root,root,6,15.1,35.5,21.4,19.8,15.3,22.7,35.5,"2019年式 / 1.5 15M / 79,000km / 秋田県",2019年式,1.5 15M,"79,000km",秋田県,manen
+mitsubishi-lancer-cargo,ランサーカーゴ,,2018,2018年式,root,root,21,5.5,38.0,24.9,25.4,21.7,31.5,38.0,"2018年式 / 1.5 15M / 18,000km / 東京都",2018年式,1.5 15M,"18,000km",東京都,manen
+mitsubishi-lancer-cargo,ランサーカーゴ,,2017,2017年式,root,root,27,5.0,33.7,20.3,20.7,13.3,26.1,33.7,"2017年式 / 1.6 16M 4WD / 53,000km / 石川県",2017年式,1.6 16M 4WD,"53,000km",石川県,manen
+mitsubishi-lancer-cargo,ランサーカーゴ,,2016,2016年式,root,root,23,8.4,31.8,20.0,20.0,15.2,24.4,31.8,"2016年式 / 1.6 16M 4WD / 59,000km / 奈良県",2016年式,1.6 16M 4WD,"59,000km",奈良県,manen
+mitsubishi-lancer-cargo,ランサーカーゴ,,2015,2015年式,root,root,34,5.1,30.5,16.1,16.2,9.5,21.4,30.5,"2015年式 / 1.6 16M 4WD / 75,000km / 香川県",2015年式,1.6 16M 4WD,"75,000km",香川県,manen
+mitsubishi-lancer-cargo,ランサーカーゴ,,2014,2014年式,root,root,41,5.4,30.7,16.9,17.4,9.9,21.7,30.7,"2014年式 / 1.5 15M / 69,000km / 島根県",2014年式,1.5 15M,"69,000km",島根県,manen
+mitsubishi-lancer-cargo,ランサーカーゴ,,2013,2013年式,root,root,41,5.2,38.3,16.3,15.0,8.7,22.5,38.3,"2013年式 / 1.5 15G / 17,000km / 宮崎県",2013年式,1.5 15G,"17,000km",宮崎県,manen
+mitsubishi-lancer-cargo,ランサーカーゴ,,2012,2012年式,root,root,41,5.4,37.8,15.3,15.5,7.5,19.4,37.8,"2012年式 / 1.6 16G 4WD / 26,000km / 茨城県",2012年式,1.6 16G 4WD,"26,000km",茨城県,manen
+mitsubishi-lancer-cargo,ランサーカーゴ,,2011,2011年式,root,root,53,4.5,33.6,13.0,10.2,7.0,19.2,33.6,"2011年式 / 1.5 15M / 46,000km / 宮崎県",2011年式,1.5 15M,"46,000km",宮崎県,manen
+mitsubishi-lancer-cargo,ランサーカーゴ,,2010,2010年式,root,root,40,3.6,36.2,13.6,10.5,5.3,19.0,36.2,"2010年式 / 1.6 16M 4WD / 59,000km / 東京都",2010年式,1.6 16M 4WD,"59,000km",東京都,manen
+mitsubishi-lancer-cargo,ランサーカーゴ,,2009,2009年式,root,root,37,3.9,36.0,15.4,14.5,8.1,22.5,36.0,"2009年式 / 1.6 16M 4WD / 64,000km / 京都府",2009年式,1.6 16M 4WD,"64,000km",京都府,manen
+mitsubishi-lancer-cargo,ランサーカーゴ,,2008,2008年式,root,root,31,3.6,37.2,15.6,12.4,9.3,19.0,37.2,"2008年式 / 1.5 15G / 46,000km / 大分県",2008年式,1.5 15G,"46,000km",大分県,manen
+mitsubishi-lancer-cargo,ランサーカーゴ,,2007,2007年式,root,root,37,3.9,22.5,8.0,6.0,5.3,9.0,22.5,"2007年式 / 1.5 E 4WD / 56,000km / 岩手県",2007年式,1.5 E 4WD,"56,000km",岩手県,manen
+mitsubishi-lancer-cargo,ランサーカーゴ,,2006,2006年式,root,root,36,3.9,17.1,8.9,8.2,6.1,11.1,17.1,"2006年式 / 1.5 E 4WD / 43,000km / 鳥取県",2006年式,1.5 E 4WD,"43,000km",鳥取県,manen
+mitsubishi-lancer-cargo,ランサーカーゴ,,2005,2005年式,root,root,25,3.7,26.0,8.2,6.0,5.1,8.4,26.0,"2005年式 / 1.6 16M 4WD / 85,000km / 新潟県",2005年式,1.6 16M 4WD,"85,000km",新潟県,manen
+mitsubishi-lancer-cargo,ランサーカーゴ,,2004,2004年式,root,root,17,3.9,11.5,7.1,7.0,5.4,8.2,11.5,2004年式 / 1.5 E / 6万km / 広島県,2004年式,1.5 E,6万km,広島県,manen
+mitsubishi-lancer-cargo,ランサーカーゴ,,2003,2003年式,root,root,12,4.2,27.0,8.8,6.2,5.1,7.3,27.0,"2003年式 / 1.5 15M / 95,000km / 栃木県",2003年式,1.5 15M,"95,000km",栃木県,manen
+mitsubishi-lancer-cargo,ランサーカーゴ,,2002,2002年式,root,root,4,4.1,9.5,6.2,5.5,5.4,5.7,9.5,"2002年式 / 1.5 E / 115,000km / 大阪府",2002年式,1.5 E,"115,000km",大阪府,manen
+mitsubishi-lancer-cargo,ランサーカーゴ,,2001,2001年式,root,root,1,4.6,4.6,4.6,4.6,4.6,4.6,4.6,"2001年式 / 1.5 E / 129,000km / 兵庫県",2001年式,1.5 E,"129,000km",兵庫県,manen
+mitsubishi-lancer-cargo,ランサーカーゴ,,1989,1989年式,root,root,1,19.5,19.5,19.5,19.5,19.5,19.5,19.5,"1989年式 / 1.5 15M / 56,000km / 大分県",1989年式,1.5 15M,"56,000km",大分県,manen
+mitsubishi-lancer-cargo,ランサーカーゴ,,1987,1987年式,root,root,3,5.1,8.5,7.4,8.5,5.1,8.5,8.5,"1987年式 / 1.6 16M 4WD / 156,000km / 東京都",1987年式,1.6 16M 4WD,"156,000km",東京都,manen

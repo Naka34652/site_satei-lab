@@ -1,0 +1,18 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+mitsubishi-diamante,ディアマンテ,,2005,2005年式,root,root,1,15.0,15.0,15.0,15.0,15.0,15.0,15.0,"2005年式 / 2.5 25V-SE / 24,000km / 静岡県",2005年式,2.5 25V-SE,"24,000km",静岡県,manen
+mitsubishi-diamante,ディアマンテ,,2004,2004年式,root,root,17,3.7,21.6,10.0,7.5,5.7,14.5,21.6,"2004年式 / 2.5 25V-SE / 43,000km / 千葉県",2004年式,2.5 25V-SE,"43,000km",千葉県,manen
+mitsubishi-diamante,ディアマンテ,,2003,2003年式,root,root,8,3.9,9.0,6.0,5.2,4.7,6.9,9.0,"2003年式 / 2.5 25V-SE / 87,000km / 鳥取県",2003年式,2.5 25V-SE,"87,000km",鳥取県,manen
+mitsubishi-diamante,ディアマンテ,,2002,2002年式,root,root,6,4.2,14.5,7.2,5.6,4.3,9.0,14.5,"2002年式 / 2.5 25V / 34,000km / 長崎県",2002年式,2.5 25V,"34,000km",長崎県,manen
+mitsubishi-diamante,ディアマンテ,,2001,2001年式,root,root,5,4.0,6.0,5.3,5.8,4.5,6.0,6.0,"2001年式 / 2.5 エスパーダ / 108,000km / 広島県",2001年式,2.5 エスパーダ,"108,000km",広島県,manen
+mitsubishi-diamante,ディアマンテ,,2000,2000年式,root,root,10,3.7,12.1,6.3,5.2,4.8,6.9,12.1,"2000年式 / 2.5 25V / 29,000km / 滋賀県",2000年式,2.5 25V,"29,000km",滋賀県,manen
+mitsubishi-diamante,ディアマンテ,,1999,1999年式,root,root,16,3.6,9.9,5.2,4.8,4.5,5.6,9.9,"1999年式 / 3.0 SE-V / 239,000km / 愛知県",1999年式,3.0 SE-V,"239,000km",愛知県,manen
+mitsubishi-diamante,ディアマンテ,,1998,1998年式,root,root,7,3.6,17.7,6.8,4.3,4.2,5.2,17.7,"1998年式 / 3.0 SE-V / 84,000km / 三重県",1998年式,3.0 SE-V,"84,000km",三重県,manen
+mitsubishi-diamante,ディアマンテ,,1997,1997年式,root,root,10,3.6,18.4,5.9,4.5,4.0,4.9,18.4,"1997年式 / 3.0 SE-V / 94,000km / 群馬県",1997年式,3.0 SE-V,"94,000km",群馬県,manen
+mitsubishi-diamante,ディアマンテ,,1996,1996年式,root,root,4,4.5,8.1,6.3,6.2,5.6,6.9,8.1,"1996年式 / 2.5 25 エスパーダ / 79,000km / 千葉県",1996年式,2.5 25 エスパーダ,"79,000km",千葉県,manen
+mitsubishi-diamante,ディアマンテ,,1995,1995年式,root,root,7,3.6,8.8,5.4,4.2,4.2,5.1,8.8,"1995年式 / 3.0 30R-SE 4WD / 78,000km / 愛媛県",1995年式,3.0 30R-SE 4WD,"78,000km",愛媛県,manen
+mitsubishi-diamante,ディアマンテ,,1994,1994年式,root,root,4,4.2,4.6,4.4,4.4,4.4,4.4,4.6,"1994年式 / 3.0 30M / 74,000km / 東京都",1994年式,3.0 30M,"74,000km",東京都,manen
+mitsubishi-diamante,ディアマンテ,,1993,1993年式,root,root,2,4.3,9.0,6.7,6.7,4.3,9.0,9.0,"1993年式 / 3.0 30R-SE 4WD / 116,000km / 奈良県",1993年式,3.0 30R-SE 4WD,"116,000km",奈良県,manen
+mitsubishi-diamante,ディアマンテ,,1992,1992年式,root,root,1,15.0,15.0,15.0,15.0,15.0,15.0,15.0,"1992年式 / 2.5 25 エスパーダ / 51,000km / 石川県",1992年式,2.5 25 エスパーダ,"51,000km",石川県,manen
+mitsubishi-diamante,ディアマンテ,,1991,1991年式,root,root,2,4.9,9.2,7.0,7.0,4.9,9.2,9.2,"1991年式 / 2.5 25E / 99,000km / 岡山県",1991年式,2.5 25E,"99,000km",岡山県,manen
+mitsubishi-diamante,ディアマンテ,,1990,1990年式,root,root,2,5.0,15.1,10.1,10.1,5.0,15.1,15.1,"1990年式 / 3.0 30R / 118,000km / 山梨県",1990年式,3.0 30R,"118,000km",山梨県,manen
+mitsubishi-diamante,ディアマンテ,,1989,1989年式,root,root,1,9.7,9.7,9.7,9.7,9.7,9.7,9.7,"1989年式 / 2.5 25V-SE / 25,000km / 岡山県",1989年式,2.5 25V-SE,"25,000km",岡山県,manen

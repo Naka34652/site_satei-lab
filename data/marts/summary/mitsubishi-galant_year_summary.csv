@@ -1,0 +1,21 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+mitsubishi-galant,ギャラン,,2021,2021年式,root,root,1,91.5,91.5,91.5,91.5,91.5,91.5,91.5,"2021年式 / 2.0 VR-4 4WD / 122,000km / 福岡県",2021年式,2.0 VR-4 4WD,"122,000km",福岡県,manen
+mitsubishi-galant,ギャラン,,2007,2007年式,root,root,1,23.1,23.1,23.1,23.1,23.1,23.1,23.1,"2007年式 / 2.5 VR-4タイプS 4WD / 111,000km / 宮城県",2007年式,2.5 VR-4タイプS 4WD,"111,000km",宮城県,manen
+mitsubishi-galant,ギャラン,,2005,2005年式,root,root,2,12.7,17.6,15.2,15.2,12.7,17.6,17.6,"2005年式 / 2.0 ヴィエント / 158,000km / 青森県",2005年式,2.0 ヴィエント,"158,000km",青森県,manen
+mitsubishi-galant,ギャラン,,2003,2003年式,root,root,5,4.9,14.1,10.0,11.4,6.0,13.4,14.1,"2003年式 / 2.0 VR-G / 102,000km / 鹿児島県",2003年式,2.0 VR-G,"102,000km",鹿児島県,manen
+mitsubishi-galant,ギャラン,,2002,2002年式,root,root,5,5.0,28.0,13.4,7.3,5.0,21.5,28.0,"2002年式 / 2.5 VR-4タイプV 4WD / 143,000km / 愛媛県",2002年式,2.5 VR-4タイプV 4WD,"143,000km",愛媛県,manen
+mitsubishi-galant,ギャラン,,2001,2001年式,root,root,8,9.0,73.5,32.7,22.2,19.0,32.4,73.5,"2001年式 / 2.5 VR-4タイプV 4WD / 16,000km / 熊本県",2001年式,2.5 VR-4タイプV 4WD,"16,000km",熊本県,manen
+mitsubishi-galant,ギャラン,,2000,2000年式,root,root,19,6.3,85.0,20.1,16.5,9.3,25.0,85.0,"2000年式 / 2.5 VR-4 4WD / 97,000km / 大分県",2000年式,2.5 VR-4 4WD,"97,000km",大分県,manen
+mitsubishi-galant,ギャラン,,1999,1999年式,root,root,28,3.6,91.5,22.5,16.1,6.0,25.8,91.5,"1999年式 / 2.5 VR-4タイプV 4WD / 96,000km / 埼玉県",1999年式,2.5 VR-4タイプV 4WD,"96,000km",埼玉県,manen
+mitsubishi-galant,ギャラン,,1998,1998年式,root,root,24,2.6,96.0,26.7,19.2,15.9,34.6,96.0,"1998年式 / 2.5 VR-4タイプV 4WD / 137,000km / 静岡県",1998年式,2.5 VR-4タイプV 4WD,"137,000km",静岡県,manen
+mitsubishi-galant,ギャラン,,1997,1997年式,root,root,27,3.6,110.0,22.2,17.4,11.5,29.8,110.0,"1997年式 / 2.5 VR-4 4WD / 102,000km / 徳島県",1997年式,2.5 VR-4 4WD,"102,000km",徳島県,manen
+mitsubishi-galant,ギャラン,,1996,1996年式,root,root,17,5.0,100.5,23.2,15.1,10.3,28.0,100.5,"1996年式 / 2.5 VR-4 4WD / 76,000km / 広島県",1996年式,2.5 VR-4 4WD,"76,000km",広島県,manen
+mitsubishi-galant,ギャラン,,1995,1995年式,root,root,8,4.1,20.5,14.4,17.4,13.9,18.6,20.5,"1995年式 / 2.5 VR-4 4WD / 127,000km / 山口県",1995年式,2.5 VR-4 4WD,"127,000km",山口県,manen
+mitsubishi-galant,ギャラン,,1994,1994年式,root,root,2,5.9,8.6,7.2,7.2,5.9,8.6,8.6,"1994年式 / 2.0 ヴィエントII / 49,000km / 山形県",1994年式,2.0 ヴィエントII,"49,000km",山形県,manen
+mitsubishi-galant,ギャラン,,1993,1993年式,root,root,4,5.5,81.5,25.7,7.8,5.5,10.2,81.5,"1993年式 / 2.0 VR-4 4WD / 44,000km / 長崎県",1993年式,2.0 VR-4 4WD,"44,000km",長崎県,manen
+mitsubishi-galant,ギャラン,,1992,1992年式,root,root,5,7.0,91.0,46.7,36.0,29.5,70.0,91.0,"1992年式 / 2.0 VR-4 4WD / 177,000km / 福島県",1992年式,2.0 VR-4 4WD,"177,000km",福島県,manen
+mitsubishi-galant,ギャラン,,1991,1991年式,root,root,7,4.5,33.4,20.8,24.4,15.8,27.0,33.4,"1991年式 / 2.0 VR-4 4WD / 49,000km / 大分県",1991年式,2.0 VR-4 4WD,"49,000km",大分県,manen
+mitsubishi-galant,ギャラン,,1990,1990年式,root,root,16,15.3,110.5,46.2,42.2,28.3,59.0,110.5,"1990年式 / 2.0 VR-4 モンテカルロ 4WD / 45,000km / 岩手県",1990年式,2.0 VR-4 モンテカルロ 4WD,"45,000km",岩手県,manen
+mitsubishi-galant,ギャラン,,1989,1989年式,root,root,5,5.7,79.0,34.2,37.0,11.1,38.0,79.0,1989年式 / 2.0 VR-4 4WD / 8万km / 山口県,1989年式,2.0 VR-4 4WD,8万km,山口県,manen
+mitsubishi-galant,ギャラン,,1988,1988年式,root,root,6,21.3,75.0,39.0,36.0,24.0,41.5,75.0,1988年式 / 2.0 VR-4 4WD / 11万km / 群馬県,1988年式,2.0 VR-4 4WD,11万km,群馬県,manen
+mitsubishi-galant,ギャラン,,1987,1987年式,root,root,1,65.5,65.5,65.5,65.5,65.5,65.5,65.5,"1987年式 / 2.0 VR-4 4WD / 166,000km / 愛媛県",1987年式,2.0 VR-4 4WD,"166,000km",愛媛県,manen

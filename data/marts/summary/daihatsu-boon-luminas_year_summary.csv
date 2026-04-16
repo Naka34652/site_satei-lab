@@ -1,0 +1,7 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+daihatsu-boon-luminas,ブーンルミナス,,2011,2011年式,root,root,14,5.0,30.7,13.5,11.2,7.5,21.3,30.7,"2011年式 / 1.5 CX エアロ / 88,000km / 青森県",2011年式,1.5 CX エアロ,"88,000km",青森県,manen
+daihatsu-boon-luminas,ブーンルミナス,,2010,2010年式,root,root,45,5.8,45.5,21.8,21.5,12.0,30.9,45.5,"2010年式 / 1.5 CX / 53,000km / 東京都",2010年式,1.5 CX,"53,000km",東京都,manen
+daihatsu-boon-luminas,ブーンルミナス,,2009,2009年式,root,root,90,5.0,40.0,16.8,13.9,10.6,21.0,40.0,"2009年式 / 1.5 CL / 38,000km / 富山県",2009年式,1.5 CL,"38,000km",富山県,manen
+daihatsu-boon-luminas,ブーンルミナス,,2008,2008年式,root,root,166,5.2,46.0,19.6,16.9,10.9,28.0,46.0,"2008年式 / 1.5 CX / 37,000km / 高知県",2008年式,1.5 CX,"37,000km",高知県,manen
+daihatsu-boon-luminas,ブーンルミナス,,2007,2007年式,root,root,3,10.0,35.4,20.5,16.0,10.0,35.4,35.4,"2007年式 / 1.5 CX エアロ / 63,000km / 東京都",2007年式,1.5 CX エアロ,"63,000km",東京都,manen
+daihatsu-boon-luminas,ブーンルミナス,,1987,1987年式,root,root,2,8.2,24.7,16.4,16.4,8.2,24.7,24.7,"1987年式 / 1.5 CX エアロ / 35,000km / 愛知県",1987年式,1.5 CX エアロ,"35,000km",愛知県,manen

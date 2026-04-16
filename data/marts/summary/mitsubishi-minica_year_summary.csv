@@ -1,0 +1,21 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+mitsubishi-minica,ミニカ,,2011,2011年式,root,root,16,5.0,16.1,10.0,9.5,6.9,14.5,16.1,"2011年式 / ライラ 4WD / 5,000km / 宮城県",2011年式,ライラ 4WD,"5,000km",宮城県,manen
+mitsubishi-minica,ミニカ,,2010,2010年式,root,root,36,4.0,21.6,10.4,9.1,6.7,13.0,21.6,"2010年式 / ナッティ / 15,000km / 千葉県",2010年式,ナッティ,"15,000km",千葉県,manen
+mitsubishi-minica,ミニカ,,2009,2009年式,root,root,48,4.4,19.5,11.0,9.7,7.0,15.0,19.5,2009年式 / ライラ 4WD / 5万km / 大分県,2009年式,ライラ 4WD,5万km,大分県,manen
+mitsubishi-minica,ミニカ,,2008,2008年式,root,root,19,4.3,22.2,8.1,6.6,5.2,8.7,22.2,"2008年式 / ナッティ / 56,000km / 三重県",2008年式,ナッティ,"56,000km",三重県,manen
+mitsubishi-minica,ミニカ,,2007,2007年式,root,root,31,4.2,25.0,8.8,6.9,5.4,10.4,25.0,"2007年式 / ナッティ / 48,000km / 大阪府",2007年式,ナッティ,"48,000km",大阪府,manen
+mitsubishi-minica,ミニカ,,2006,2006年式,root,root,34,4.7,19.6,10.3,9.0,7.3,13.8,19.6,"2006年式 / ライラ / 15,000km / 長野県",2006年式,ライラ,"15,000km",長野県,manen
+mitsubishi-minica,ミニカ,,2005,2005年式,root,root,35,4.5,20.1,9.1,8.0,5.5,11.5,20.1,"2005年式 / ヴォイス / 47,000km / 静岡県",2005年式,ヴォイス,"47,000km",静岡県,manen
+mitsubishi-minica,ミニカ,,2004,2004年式,root,root,24,3.3,22.5,9.1,8.6,5.0,11.6,22.5,"2004年式 / ヴォイス / 37,000km / 群馬県",2004年式,ヴォイス,"37,000km",群馬県,manen
+mitsubishi-minica,ミニカ,,2003,2003年式,root,root,27,3.6,23.0,9.7,7.0,5.0,15.5,23.0,"2003年式 / Pj / 24,000km / 秋田県",2003年式,Pj,"24,000km",秋田県,manen
+mitsubishi-minica,ミニカ,,2002,2002年式,root,root,12,4.2,15.7,7.9,6.5,5.0,9.4,15.7,"2002年式 / Pc / 82,000km / 熊本県",2002年式,Pc,"82,000km",熊本県,manen
+mitsubishi-minica,ミニカ,,2001,2001年式,root,root,11,3.6,8.4,5.6,5.7,5.0,6.2,8.4,"2001年式 / ヴォイス / 7,000km / 京都府",2001年式,ヴォイス,"7,000km",京都府,manen
+mitsubishi-minica,ミニカ,,2000,2000年式,root,root,7,3.8,7.6,5.5,5.3,4.2,6.3,7.6,"2000年式 / ヴォイス / 46,000km / 大分県",2000年式,ヴォイス,"46,000km",大分県,manen
+mitsubishi-minica,ミニカ,,1999,1999年式,root,root,7,3.6,8.0,5.4,5.4,4.6,5.7,8.0,"1999年式 / Pg / 81,000km / 佐賀県",1999年式,Pg,"81,000km",佐賀県,manen
+mitsubishi-minica,ミニカ,,1998,1998年式,root,root,1,5.0,5.0,5.0,5.0,5.0,5.0,5.0,"1998年式 / グッピー / 29,000km / 福島県",1998年式,グッピー,"29,000km",福島県,manen
+mitsubishi-minica,ミニカ,,1997,1997年式,root,root,2,3.6,17.4,10.5,10.5,3.6,17.4,17.4,"1997年式 / タウンビー / 136,000km / 愛知県",1997年式,タウンビー,"136,000km",愛知県,manen
+mitsubishi-minica,ミニカ,,1996,1996年式,root,root,4,8.7,15.5,12.4,12.8,10.6,15.0,15.5,"1996年式 / タウンビー / 106,000km / 東京都",1996年式,タウンビー,"106,000km",東京都,manen
+mitsubishi-minica,ミニカ,,1995,1995年式,root,root,1,10.8,10.8,10.8,10.8,10.8,10.8,10.8,"1995年式 / ライラ / 81,000km / 宮崎県",1995年式,ライラ,"81,000km",宮崎県,manen
+mitsubishi-minica,ミニカ,,1994,1994年式,root,root,2,21.4,21.4,21.4,21.4,21.4,21.4,21.4,1994年式 / ダンガン-4 4WD / 12万km / 奈良県,1994年式,ダンガン-4 4WD,12万km,奈良県,manen
+mitsubishi-minica,ミニカ,,1993,1993年式,root,root,2,15.0,18.1,16.6,16.6,15.0,18.1,18.1,"1993年式 / ヴォイス / 209,000km / 兵庫県",1993年式,ヴォイス,"209,000km",兵庫県,manen
+mitsubishi-minica,ミニカ,,1990,1990年式,root,root,1,5.8,5.8,5.8,5.8,5.8,5.8,5.8,1990年式 / ダンガンZZ / 0万km / 兵庫県,1990年式,ダンガンZZ,0万km,兵庫県,manen

@@ -1,0 +1,8 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+daihatsu-taft,タフト,,2025,2025年式,root,root,21,100.5,160.4,132.9,137.7,125.5,141.9,160.4,2025年式 / G ターボ ダーククロム ベンチャー / 0万km / 奈良県,2025年式,G ターボ ダーククロム ベンチャー,0万km,奈良県,manen
+daihatsu-taft,タフト,,2024,2024年式,root,root,57,74.8,162.0,129.0,135.3,118.1,143.3,162.0,"2024年式 / G ターボ ダーククロム ベンチャー 4WD / 1,000km / 北海道",2024年式,G ターボ ダーククロム ベンチャー 4WD,"1,000km",北海道,manen
+daihatsu-taft,タフト,,2023,2023年式,root,root,142,84.5,164.5,128.3,128.2,118.0,139.0,164.5,"2023年式 / G ターボ ダーククロム ベンチャー 4WD / 8,000km / 大分県",2023年式,G ターボ ダーククロム ベンチャー 4WD,"8,000km",大分県,manen
+daihatsu-taft,タフト,,2022,2022年式,root,root,210,69.9,158.6,122.7,123.8,113.3,134.9,158.6,"2022年式 / G ダーククロム ベンチャー 4WD / 18,000km / 長野県",2022年式,G ダーククロム ベンチャー 4WD,"18,000km",長野県,manen
+daihatsu-taft,タフト,,2021,2021年式,root,root,284,64.8,159.0,117.9,119.8,108.0,131.5,159.0,"2021年式 / G ターボ クロム ベンチャー / 5,000km / 和歌山県",2021年式,G ターボ クロム ベンチャー,"5,000km",和歌山県,manen
+daihatsu-taft,タフト,,2020,2020年式,root,root,283,64.8,164.0,116.3,118.5,104.9,131.1,164.0,"2020年式 / G 4WD / 5,000km / 山口県",2020年式,G 4WD,"5,000km",山口県,manen
+daihatsu-taft,タフト,,2019,2019年式,root,root,3,110.7,135.4,121.8,119.4,110.7,135.4,135.4,"2019年式 / G / 3,000km / 福島県",2019年式,G,"3,000km",福島県,manen

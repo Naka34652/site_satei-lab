@@ -1,0 +1,12 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+nissan-tiida,ティーダ,,2013,2013年式,root,root,3,20.1,24.5,22.0,21.3,20.1,24.5,24.5,"2013年式 / 1.5 15M / 39,000km / 宮崎県",2013年式,1.5 15M,"39,000km",宮崎県,manen
+nissan-tiida,ティーダ,,2012,2012年式,root,root,102,5.0,27.2,17.0,17.6,13.0,21.9,27.2,"2012年式 / 1.5 15M SV+プラズマ / 74,000km / 富山県",2012年式,1.5 15M SV+プラズマ,"74,000km",富山県,manen
+nissan-tiida,ティーダ,,2011,2011年式,root,root,137,5.0,28.0,16.1,16.3,11.7,20.2,28.0,"2011年式 / 1.5 15M / 15,000km / 埼玉県",2011年式,1.5 15M,"15,000km",埼玉県,manen
+nissan-tiida,ティーダ,,2010,2010年式,root,root,107,5.0,27.6,12.0,10.6,8.1,15.7,27.6,"2010年式 / 1.5 アクシス / 129,000km / 大阪府",2010年式,1.5 アクシス,"129,000km",大阪府,manen
+nissan-tiida,ティーダ,,2009,2009年式,root,root,127,5.0,23.0,10.4,9.3,7.4,12.0,23.0,"2009年式 / 1.5 15M FOUR 4WD / 52,000km / 高知県",2009年式,1.5 15M FOUR 4WD,"52,000km",高知県,manen
+nissan-tiida,ティーダ,,2008,2008年式,root,root,119,5.0,23.1,9.7,9.3,6.0,11.5,23.1,"2008年式 / 1.8 18G / 63,000km / 兵庫県",2008年式,1.8 18G,"63,000km",兵庫県,manen
+nissan-tiida,ティーダ,,2007,2007年式,root,root,108,5.0,27.4,9.9,9.3,7.4,10.8,27.4,"2007年式 / 1.5 15S プラスナビHDD / 35,000km / 愛媛県",2007年式,1.5 15S プラスナビHDD,"35,000km",愛媛県,manen
+nissan-tiida,ティーダ,,2006,2006年式,root,root,115,5.0,17.0,10.6,10.5,8.7,12.6,17.0,"2006年式 / 1.8 18G / 19,000km / 岩手県",2006年式,1.8 18G,"19,000km",岩手県,manen
+nissan-tiida,ティーダ,,2005,2005年式,root,root,92,5.0,16.5,9.9,9.9,7.5,12.0,16.5,"2005年式 / 1.5 15M プレミアムインテリア / 85,000km / 福井県",2005年式,1.5 15M プレミアムインテリア,"85,000km",福井県,manen
+nissan-tiida,ティーダ,,2004,2004年式,root,root,81,5.0,17.1,10.1,10.2,7.2,12.3,17.1,"2004年式 / 1.5 15M / 167,000km / 岐阜県",2004年式,1.5 15M,"167,000km",岐阜県,manen
+nissan-tiida,ティーダ,,2003,2003年式,root,root,9,5.1,11.7,6.8,6.2,5.7,6.6,11.7,"2003年式 / 1.5 15M / 119,000km / 山口県",2003年式,1.5 15M,"119,000km",山口県,manen

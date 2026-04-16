@@ -1,0 +1,3 @@
+2026-04-15 21:44:11,611 INFO generate_market_article_batch: Batch article generation started for 1 active models
+2026-04-15 21:44:11,617 INFO generate_market_article_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-prius-kaitori-soba-2025.md
+2026-04-15 21:44:11,618 INFO generate_market_article_batch: Batch finished successfully with no failures.

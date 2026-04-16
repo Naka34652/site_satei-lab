@@ -1,0 +1,26 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+mitsubishi-lancer-evolution,ランサーエボリューション,,2019,2019年式,root,root,1,5.0,5.0,5.0,5.0,5.0,5.0,5.0,"2019年式 / 2.0 GSR X 4WD / 95,000km / 埼玉県",2019年式,2.0 GSR X 4WD,"95,000km",埼玉県,manen
+mitsubishi-lancer-evolution,ランサーエボリューション,,2016,2016年式,root,root,4,287.0,415.0,375.9,400.8,400.0,401.5,415.0,"2016年式 / 2.0 ファイナルエディション 4WD / 33,000km / 新潟県",2016年式,2.0 ファイナルエディション 4WD,"33,000km",新潟県,manen
+mitsubishi-lancer-evolution,ランサーエボリューション,,2015,2015年式,root,root,43,93.0,435.5,287.2,294.5,254.5,328.5,435.5,"2015年式 / 2.0 ファイナルエディション 4WD / 32,000km / 富山県",2015年式,2.0 ファイナルエディション 4WD,"32,000km",富山県,manen
+mitsubishi-lancer-evolution,ランサーエボリューション,,2014,2014年式,root,root,43,40.0,382.0,235.4,252.0,197.4,275.4,382.0,"2014年式 / 2.0 GSR X プレミアム 4WD / 14,000km / 島根県",2014年式,2.0 GSR X プレミアム 4WD,"14,000km",島根県,manen
+mitsubishi-lancer-evolution,ランサーエボリューション,,2013,2013年式,root,root,25,98.5,345.5,226.6,231.0,200.5,271.5,345.5,"2013年式 / 2.0 GSR X プレミアム 4WD / 44,000km / 山梨県",2013年式,2.0 GSR X プレミアム 4WD,"44,000km",山梨県,manen
+mitsubishi-lancer-evolution,ランサーエボリューション,,2012,2012年式,root,root,43,76.5,329.5,199.6,195.0,131.5,251.5,329.5,"2012年式 / 2.0 GSR X プレミアム 4WD / 89,000km / 長崎県",2012年式,2.0 GSR X プレミアム 4WD,"89,000km",長崎県,manen
+mitsubishi-lancer-evolution,ランサーエボリューション,,2011,2011年式,root,root,54,76.5,325.0,195.9,200.5,141.5,247.0,325.0,"2011年式 / 2.0 GSR 4WD / 41,000km / 徳島県",2011年式,2.0 GSR 4WD,"41,000km",徳島県,manen
+mitsubishi-lancer-evolution,ランサーエボリューション,,2010,2010年式,root,root,62,57.5,329.0,177.1,174.7,127.3,225.0,329.0,"2010年式 / 2.0 GSR 4WD / 31,000km / 鳥取県",2010年式,2.0 GSR 4WD,"31,000km",鳥取県,manen
+mitsubishi-lancer-evolution,ランサーエボリューション,,2009,2009年式,root,root,64,73.5,275.5,144.7,133.8,102.3,175.0,275.5,"2009年式 / 2.0 GSR 4WD / 64,000km / 茨城県",2009年式,2.0 GSR 4WD,"64,000km",茨城県,manen
+mitsubishi-lancer-evolution,ランサーエボリューション,,2008,2008年式,root,root,107,5.0,289.1,140.9,127.3,98.0,179.5,289.1,"2008年式 / 2.0 GSR 4WD / 33,000km / 山梨県",2008年式,2.0 GSR 4WD,"33,000km",山梨県,manen
+mitsubishi-lancer-evolution,ランサーエボリューション,,2007,2007年式,root,root,60,67.5,401.5,171.8,160.8,110.7,213.5,401.5,"2007年式 / 2.0 RS IX MR 4WD / 135,000km / 東京都",2007年式,2.0 RS IX MR 4WD,"135,000km",東京都,manen
+mitsubishi-lancer-evolution,ランサーエボリューション,,2006,2006年式,root,root,40,84.9,413.5,315.8,318.3,269.0,372.5,413.5,"2006年式 / 2.0 GSR IX MR 4WD / 86,000km / 広島県",2006年式,2.0 GSR IX MR 4WD,"86,000km",広島県,manen
+mitsubishi-lancer-evolution,ランサーエボリューション,,2005,2005年式,root,root,42,167.0,366.8,256.7,250.2,217.0,287.5,366.8,"2005年式 / 2.0 GT IX 4WD / 126,000km / 神奈川県",2005年式,2.0 GT IX 4WD,"126,000km",神奈川県,manen
+mitsubishi-lancer-evolution,ランサーエボリューション,,2004,2004年式,root,root,45,74.1,299.5,214.7,220.0,189.1,250.0,299.5,2004年式 / 2.0 RS VIII MR 4WD / 9万km / 大阪府,2004年式,2.0 RS VIII MR 4WD,9万km,大阪府,manen
+mitsubishi-lancer-evolution,ランサーエボリューション,,2003,2003年式,root,root,58,50.6,289.3,174.7,173.8,148.8,210.0,289.3,"2003年式 / 2.0 GSR VIII 4WD / 69,000km / 兵庫県",2003年式,2.0 GSR VIII 4WD,"69,000km",兵庫県,manen
+mitsubishi-lancer-evolution,ランサーエボリューション,,2002,2002年式,root,root,47,19.0,218.2,78.9,74.0,62.0,86.5,218.2,"2002年式 / 2.0 RS VII 4WD / 27,000km / 大阪府",2002年式,2.0 RS VII 4WD,"27,000km",大阪府,manen
+mitsubishi-lancer-evolution,ランサーエボリューション,,2001,2001年式,root,root,69,68.3,240.5,160.8,156.0,125.5,200.7,240.5,"2001年式 / 2.0 GSR VII 4WD / 81,000km / 大阪府",2001年式,2.0 GSR VII 4WD,"81,000km",大阪府,manen
+mitsubishi-lancer-evolution,ランサーエボリューション,,2000,2000年式,root,root,15,85.8,432.5,281.6,250.0,227.5,342.5,432.5,"2000年式 / 2.0 GSR VI トミー・マキネンエディション 4WD / 97,000km / 埼玉県",2000年式,2.0 GSR VI トミー・マキネンエディション 4WD,"97,000km",埼玉県,manen
+mitsubishi-lancer-evolution,ランサーエボリューション,,1999,1999年式,root,root,41,84.0,390.0,201.0,182.0,155.9,249.0,390.0,"1999年式 / 2.0 GSR VI トミー・マキネンエディション 4WD / 128,000km / 静岡県",1999年式,2.0 GSR VI トミー・マキネンエディション 4WD,"128,000km",静岡県,manen
+mitsubishi-lancer-evolution,ランサーエボリューション,,1998,1998年式,root,root,47,99.5,403.3,205.6,199.5,166.0,235.5,403.3,"1998年式 / 2.0 RS V 4WD / 27,000km / 神奈川県",1998年式,2.0 RS V 4WD,"27,000km",神奈川県,manen
+mitsubishi-lancer-evolution,ランサーエボリューション,,1997,1997年式,root,root,20,37.7,289.1,136.0,134.5,102.3,161.5,289.1,"1997年式 / 2.0 GSR V 4WD / 114,000km / 群馬県",1997年式,2.0 GSR V 4WD,"114,000km",群馬県,manen
+mitsubishi-lancer-evolution,ランサーエボリューション,,1996,1996年式,root,root,29,88.0,204.5,156.0,155.0,131.5,181.5,204.5,"1996年式 / 2.0 GSR IV 4WD / 87,000km / 富山県",1996年式,2.0 GSR IV 4WD,"87,000km",富山県,manen
+mitsubishi-lancer-evolution,ランサーエボリューション,,1995,1995年式,root,root,25,84.0,278.5,176.8,169.5,147.5,207.5,278.5,"1995年式 / 2.0 GSR III 4WD / 58,000km / 千葉県",1995年式,2.0 GSR III 4WD,"58,000km",千葉県,manen
+mitsubishi-lancer-evolution,ランサーエボリューション,,1994,1994年式,root,root,13,93.5,374.5,191.5,159.5,130.0,231.0,374.5,1994年式 / 2.0 GSR II 4WD / 2万km / 高知県,1994年式,2.0 GSR II 4WD,2万km,高知県,manen
+mitsubishi-lancer-evolution,ランサーエボリューション,,1993,1993年式,root,root,3,97.5,221.0,171.5,196.0,97.5,221.0,221.0,"1993年式 / 2.0 GSR 4WD / 18,000km / 宮崎県",1993年式,2.0 GSR 4WD,"18,000km",宮崎県,manen

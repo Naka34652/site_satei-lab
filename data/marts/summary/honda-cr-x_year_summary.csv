@@ -1,0 +1,9 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+honda-cr-x,CR-X,,2018,2018年式,root,root,1,102.5,102.5,102.5,102.5,102.5,102.5,102.5,2018年式 / 1.6 SiR / 0万km / 大分県,2018年式,1.6 SiR,0万km,大分県,manen
+honda-cr-x,CR-X,,1994,1994年式,root,root,2,79.0,79.0,79.0,79.0,79.0,79.0,79.0,"1994年式 / 1.6 SiR / 31,000km / 沖縄県",1994年式,1.6 SiR,"31,000km",沖縄県,manen
+honda-cr-x,CR-X,,1993,1993年式,root,root,1,55.4,55.4,55.4,55.4,55.4,55.4,55.4,"1993年式 / 1.6 SiR / 124,000km / 奈良県",1993年式,1.6 SiR,"124,000km",奈良県,manen
+honda-cr-x,CR-X,,1992,1992年式,root,root,12,40.0,160.0,91.5,80.0,63.5,120.5,160.0,"1992年式 / 1.6 SiR / 158,000km / 滋賀県",1992年式,1.6 SiR,"158,000km",滋賀県,manen
+honda-cr-x,CR-X,,1991,1991年式,root,root,19,20.0,204.1,94.4,80.5,50.0,151.5,204.1,"1991年式 / 1.6 SiR / 158,000km / 奈良県",1991年式,1.6 SiR,"158,000km",奈良県,manen
+honda-cr-x,CR-X,,1990,1990年式,root,root,57,18.2,182.5,78.1,66.3,41.0,94.0,182.5,"1990年式 / 1.6 SiR / 138,000km / 山口県",1990年式,1.6 SiR,"138,000km",山口県,manen
+honda-cr-x,CR-X,,1989,1989年式,root,root,40,22.0,196.5,60.8,54.9,40.5,70.2,196.5,1989年式 / 1.6 SiR / 10万km / 神奈川県,1989年式,1.6 SiR,10万km,神奈川県,manen
+honda-cr-x,CR-X,,1988,1988年式,root,root,18,17.0,129.5,64.6,57.4,28.1,100.0,129.5,"1988年式 / 1.6 Si / 33,000km / 広島県",1988年式,1.6 Si,"33,000km",広島県,manen

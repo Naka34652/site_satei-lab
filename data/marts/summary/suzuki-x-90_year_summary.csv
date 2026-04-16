@@ -1,0 +1,6 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+suzuki-x-90,X-90,,1997,1997年式,root,root,2,61.0,78.1,69.5,69.5,61.0,78.1,78.1,"1997年式 / 1.6 4WD / 43,000km / 京都府",1997年式,1.6 4WD,"43,000km",京都府,manen
+suzuki-x-90,X-90,,1996,1996年式,root,root,9,15.9,79.7,45.8,39.5,32.4,62.5,79.7,"1996年式 / 1.6 4WD / 51,000km / 青森県",1996年式,1.6 4WD,"51,000km",青森県,manen
+suzuki-x-90,X-90,,1995,1995年式,root,root,7,7.5,35.0,16.8,12.5,10.0,15.0,35.0,"1995年式 / 1.6 4WD / 104,000km / 広島県",1995年式,1.6 4WD,"104,000km",広島県,manen
+suzuki-x-90,X-90,,1994,1994年式,root,root,2,5.6,19.5,12.6,12.6,5.6,19.5,19.5,"1994年式 / 1.6 4WD / 25,000km / 長崎県",1994年式,1.6 4WD,"25,000km",長崎県,manen
+suzuki-x-90,X-90,,1987,1987年式,root,root,1,5.1,5.1,5.1,5.1,5.1,5.1,5.1,"1987年式 / 1.6 4WD / 74,000km / 宮城県",1987年式,1.6 4WD,"74,000km",宮城県,manen

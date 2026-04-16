@@ -1,0 +1,6 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+nissan-note-aura,ノートオーラ,,2025,2025年式,root,root,25,168.0,295.0,216.0,216.2,187.1,242.5,295.0,2025年式 / 1.2 NISMO / 0万km / 香川県,2025年式,1.2 NISMO,0万km,香川県,manen
+nissan-note-aura,ノートオーラ,,2024,2024年式,root,root,80,110.5,303.7,215.6,212.1,200.4,230.1,303.7,"2024年式 / 1.2 NISMO チューンド e-POWER 4WD / 2,000km / 高知県",2024年式,1.2 NISMO チューンド e-POWER 4WD,"2,000km",高知県,manen
+nissan-note-aura,ノートオーラ,,2023,2023年式,root,root,129,109.7,302.5,206.5,205.4,180.0,228.0,302.5,"2023年式 / 1.2 NISMO / 7,000km / 岩手県",2023年式,1.2 NISMO,"7,000km",岩手県,manen
+nissan-note-aura,ノートオーラ,,2022,2022年式,root,root,173,115.5,290.5,202.3,203.0,175.4,230.5,290.5,"2022年式 / 1.2 NISMO / 3,000km / 島根県",2022年式,1.2 NISMO,"3,000km",島根県,manen
+nissan-note-aura,ノートオーラ,,2021,2021年式,root,root,162,105.5,283.3,191.8,189.1,166.0,220.3,283.3,"2021年式 / 1.2 NISMO / 7,000km / 島根県",2021年式,1.2 NISMO,"7,000km",島根県,manen

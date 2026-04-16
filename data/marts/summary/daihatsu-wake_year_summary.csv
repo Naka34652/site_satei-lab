@@ -1,0 +1,12 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+daihatsu-wake,ウェイク,,2022,2022年式,root,root,52,57.7,147.5,116.8,122.5,110.0,130.5,147.5,"2022年式 / G ターボ VS SAIII / 16,000km / 神奈川県",2022年式,G ターボ VS SAIII,"16,000km",神奈川県,manen
+daihatsu-wake,ウェイク,,2021,2021年式,root,root,97,9.5,149.5,93.9,96.5,66.0,120.2,149.5,2021年式 / G ターボ VS SAIII / 2万km / 岐阜県,2021年式,G ターボ VS SAIII,2万km,岐阜県,manen
+daihatsu-wake,ウェイク,,2020,2020年式,root,root,95,24.0,145.2,85.8,89.0,58.6,110.3,145.2,"2020年式 / G ターボ リミテッド SAIII / 26,000km / 青森県",2020年式,G ターボ リミテッド SAIII,"26,000km",青森県,manen
+daihatsu-wake,ウェイク,,2019,2019年式,root,root,111,18.6,143.9,84.0,91.0,60.8,109.9,143.9,"2019年式 / G ターボ リミテッド SAIII / 27,000km / 秋田県",2019年式,G ターボ リミテッド SAIII,"27,000km",秋田県,manen
+daihatsu-wake,ウェイク,,2018,2018年式,root,root,109,12.2,132.0,68.7,69.4,48.7,85.8,132.0,"2018年式 / G ターボ リミテッド SAIII 4WD / 42,000km / 岡山県",2018年式,G ターボ リミテッド SAIII 4WD,"42,000km",岡山県,manen
+daihatsu-wake,ウェイク,,2017,2017年式,root,root,132,8.0,125.5,62.5,62.5,38.0,81.0,125.5,"2017年式 / G ターボ SAII 4WD / 15,000km / 福島県",2017年式,G ターボ SAII 4WD,"15,000km",福島県,manen
+daihatsu-wake,ウェイク,,2016,2016年式,root,root,121,4.6,112.0,50.3,47.9,31.8,69.3,112.0,"2016年式 / G SA / 7,000km / 山梨県",2016年式,G SA,"7,000km",山梨県,manen
+daihatsu-wake,ウェイク,,2015,2015年式,root,root,164,5.0,111.2,38.2,33.3,25.1,49.4,111.2,"2015年式 / G 4WD / 25,000km / 石川県",2015年式,G 4WD,"25,000km",石川県,manen
+daihatsu-wake,ウェイク,,2014,2014年式,root,root,116,5.0,85.5,39.0,35.8,26.7,52.5,85.5,"2014年式 / X / 61,000km / 新潟県",2014年式,X,"61,000km",新潟県,manen
+daihatsu-wake,ウェイク,,2013,2013年式,root,root,2,25.7,97.0,61.4,61.4,25.7,97.0,97.0,"2013年式 / X SA 4WD / 8,000km / 鳥取県",2013年式,X SA 4WD,"8,000km",鳥取県,manen
+daihatsu-wake,ウェイク,,1952,1952年式,root,root,1,18.8,18.8,18.8,18.8,18.8,18.8,18.8,1952年式 / X SA 4WD / 18万km / 岐阜県,1952年式,X SA 4WD,18万km,岐阜県,manen

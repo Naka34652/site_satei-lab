@@ -1,0 +1,18 @@
+model_slug,model_name,source_page_type,source_variant_label,mileage_band_label,mileage_min_km,mileage_max_km,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+toyota-gr-corolla,GRカローラ,root,root,0万km,0,0,5,500.1,608.5,535.0,511.5,504.0,551.0,608.5,2024年式 / 1.6 RZ 4WD / 0万km / 大阪府,2024年式,1.6 RZ 4WD,0万km,大阪府,manen
+toyota-gr-corolla,GRカローラ,root,root,"1,000km",1000,1000,6,505.6,618.5,548.0,541.2,511.2,570.5,618.5,"2023年式 / 1.6 RZ 4WD / 1,000km / 奈良県",2023年式,1.6 RZ 4WD,"1,000km",奈良県,manen
+toyota-gr-corolla,GRカローラ,root,root,"2,000km",2000,2000,3,504.0,552.0,520.8,506.5,504.0,552.0,552.0,"2023年式 / 1.6 RZ 4WD / 2,000km / 兵庫県",2023年式,1.6 RZ 4WD,"2,000km",兵庫県,manen
+toyota-gr-corolla,GRカローラ,root,root,"3,000km",3000,3000,8,490.5,715.0,569.6,525.2,500.5,590.6,715.0,"2023年式 / 1.6 RZ モリゾウエディション 4WD / 3,000km / 秋田県",2023年式,1.6 RZ モリゾウエディション 4WD,"3,000km",秋田県,manen
+toyota-gr-corolla,GRカローラ,root,root,"4,000km",4000,4000,4,502.5,581.0,526.1,510.4,507.9,513.0,581.0,"2023年式 / 1.6 RZ 4WD / 4,000km / 滋賀県",2023年式,1.6 RZ 4WD,"4,000km",滋賀県,manen
+toyota-gr-corolla,GRカローラ,root,root,"5,000km",5000,5000,7,469.5,507.5,489.8,481.5,478.0,506.5,507.5,"2024年式 / 1.6 RZ 4WD / 5,000km / 熊本県",2024年式,1.6 RZ 4WD,"5,000km",熊本県,manen
+toyota-gr-corolla,GRカローラ,root,root,"6,000km",6000,6000,5,436.5,537.5,502.4,515.0,490.5,532.5,537.5,"2023年式 / 1.6 RZ 4WD / 6,000km / 鹿児島県",2023年式,1.6 RZ 4WD,"6,000km",鹿児島県,manen
+toyota-gr-corolla,GRカローラ,root,root,"7,000km",7000,7000,3,452.5,482.0,472.0,481.5,452.5,482.0,482.0,"2024年式 / 1.6 RZ 4WD / 7,000km / 東京都",2024年式,1.6 RZ 4WD,"7,000km",東京都,manen
+toyota-gr-corolla,GRカローラ,root,root,"8,000km",8000,8000,1,519.0,519.0,519.0,519.0,519.0,519.0,519.0,"2024年式 / 1.6 RZ 4WD / 8,000km / 宮崎県",2024年式,1.6 RZ 4WD,"8,000km",宮崎県,manen
+toyota-gr-corolla,GRカローラ,root,root,"9,000km",9000,9000,1,502.0,502.0,502.0,502.0,502.0,502.0,502.0,"2024年式 / 1.6 RZ 4WD / 9,000km / 広島県",2024年式,1.6 RZ 4WD,"9,000km",広島県,manen
+toyota-gr-corolla,GRカローラ,root,root,1万km,10000,10000,6,478.5,591.5,514.7,504.5,478.5,530.5,591.5,2023年式 / 1.6 RZ 4WD / 1万km / 山梨県,2023年式,1.6 RZ 4WD,1万km,山梨県,manen
+toyota-gr-corolla,GRカローラ,root,root,"11,000km",11000,11000,3,473.0,490.5,478.8,473.0,473.0,490.5,490.5,"2023年式 / 1.6 RZ 4WD / 11,000km / 新潟県",2023年式,1.6 RZ 4WD,"11,000km",新潟県,manen
+toyota-gr-corolla,GRカローラ,root,root,"12,000km",12000,12000,1,522.0,522.0,522.0,522.0,522.0,522.0,522.0,"2023年式 / 1.6 RZ 4WD / 12,000km / 奈良県",2023年式,1.6 RZ 4WD,"12,000km",奈良県,manen
+toyota-gr-corolla,GRカローラ,root,root,"13,000km",13000,13000,1,480.0,480.0,480.0,480.0,480.0,480.0,480.0,"2023年式 / 1.6 RZ 4WD / 13,000km / 新潟県",2023年式,1.6 RZ 4WD,"13,000km",新潟県,manen
+toyota-gr-corolla,GRカローラ,root,root,"17,000km",17000,17000,1,514.0,514.0,514.0,514.0,514.0,514.0,514.0,"2023年式 / 1.6 RZ 4WD / 17,000km / 奈良県",2023年式,1.6 RZ 4WD,"17,000km",奈良県,manen
+toyota-gr-corolla,GRカローラ,root,root,"18,000km",18000,18000,1,496.0,496.0,496.0,496.0,496.0,496.0,496.0,"2023年式 / 1.6 RZ 4WD / 18,000km / 大阪府",2023年式,1.6 RZ 4WD,"18,000km",大阪府,manen
+toyota-gr-corolla,GRカローラ,root,root,2万km,20000,20000,1,464.0,464.0,464.0,464.0,464.0,464.0,464.0,2024年式 / 1.6 RZ 4WD / 2万km / 東京都,2024年式,1.6 RZ 4WD,2万km,東京都,manen

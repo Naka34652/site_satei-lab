@@ -1,0 +1,15 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+suzuki-spacia,スペーシア,,2025,2025年式,root,root,10,101.0,142.6,124.8,123.2,121.0,133.1,142.6,2025年式 / ハイブリッド(HYBRID)  X 4WD / 0万km / 奈良県,2025年式,ハイブリッド(HYBRID)  X 4WD,0万km,奈良県,manen
+suzuki-spacia,スペーシア,,2024,2024年式,root,root,38,65.6,140.6,120.5,127.8,112.5,134.6,140.6,"2024年式 / ハイブリッド(HYBRID)  X 4WD / 1,000km / 青森県",2024年式,ハイブリッド(HYBRID)  X 4WD,"1,000km",青森県,manen
+suzuki-spacia,スペーシア,,2023,2023年式,root,root,66,17.5,148.0,112.6,117.2,99.5,130.0,148.0,2023年式 / ハイブリッド(HYBRID)  X 4WD / 0万km / 福島県,2023年式,ハイブリッド(HYBRID)  X 4WD,0万km,福島県,manen
+suzuki-spacia,スペーシア,,2022,2022年式,root,root,66,5.0,143.0,103.1,108.1,95.5,115.5,143.0,"2022年式 / ハイブリッド(HYBRID)  X 4WD / 5,000km / 鹿児島県",2022年式,ハイブリッド(HYBRID)  X 4WD,"5,000km",鹿児島県,manen
+suzuki-spacia,スペーシア,,2021,2021年式,root,root,69,27.2,134.5,88.7,93.5,73.4,106.4,134.5,"2021年式 / ハイブリッド(HYBRID)  X 4WD / 18,000km / 鹿児島県",2021年式,ハイブリッド(HYBRID)  X 4WD,"18,000km",鹿児島県,manen
+suzuki-spacia,スペーシア,,2020,2020年式,root,root,77,20.0,132.5,79.6,82.6,63.8,100.5,132.5,"2020年式 / ハイブリッド(HYBRID)  X / 23,000km / 茨城県",2020年式,ハイブリッド(HYBRID)  X,"23,000km",茨城県,manen
+suzuki-spacia,スペーシア,,2019,2019年式,root,root,89,5.0,109.0,64.3,67.0,44.0,82.1,109.0,"2019年式 / ハイブリッド(HYBRID)  X / 33,000km / 愛媛県",2019年式,ハイブリッド(HYBRID)  X,"33,000km",愛媛県,manen
+suzuki-spacia,スペーシア,,2018,2018年式,root,root,96,5.0,116.5,56.9,54.8,40.2,72.9,116.5,"2018年式 / ハイブリッド(HYBRID)  X 4WD / 38,000km / 香川県",2018年式,ハイブリッド(HYBRID)  X 4WD,"38,000km",香川県,manen
+suzuki-spacia,スペーシア,,2017,2017年式,root,root,93,2.6,79.9,39.5,39.5,25.8,55.4,79.9,"2017年式 / ハイブリッド(HYBRID)  X / 24,000km / 広島県",2017年式,ハイブリッド(HYBRID)  X,"24,000km",広島県,manen
+suzuki-spacia,スペーシア,,2016,2016年式,root,root,81,5.0,66.0,30.0,28.4,20.8,37.4,66.0,"2016年式 / G リミテッド / 21,000km / 兵庫県",2016年式,G リミテッド,"21,000km",兵庫県,manen
+suzuki-spacia,スペーシア,,2015,2015年式,root,root,103,5.0,71.5,30.7,29.2,16.9,43.7,71.5,"2015年式 / G リミテッド 4WD / 54,000km / 山口県",2015年式,G リミテッド 4WD,"54,000km",山口県,manen
+suzuki-spacia,スペーシア,,2014,2014年式,root,root,117,5.0,67.0,23.0,20.5,5.0,35.0,67.0,"2014年式 / X 4WD / 35,000km / 愛媛県",2014年式,X 4WD,"35,000km",愛媛県,manen
+suzuki-spacia,スペーシア,,2013,2013年式,root,root,94,5.0,70.5,17.9,18.6,5.2,26.2,70.5,"2013年式 / X 4WD / 6,000km / 石川県",2013年式,X 4WD,"6,000km",石川県,manen
+suzuki-spacia,スペーシア,,2012,2012年式,root,root,1,34.9,34.9,34.9,34.9,34.9,34.9,34.9,"2012年式 / T / 46,000km / 福岡県",2012年式,T,"46,000km",福岡県,manen

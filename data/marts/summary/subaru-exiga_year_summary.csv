@@ -1,0 +1,11 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+subaru-exiga,エクシーガ,,2015,2015年式,root,root,50,5.0,60.0,28.5,25.8,18.4,37.5,60.0,"2015年式 / 2.5 エアブレイク 4WD / 56,000km / 熊本県",2015年式,2.5 エアブレイク 4WD,"56,000km",熊本県,manen
+subaru-exiga,エクシーガ,,2014,2014年式,root,root,108,1.6,59.0,27.7,22.4,18.4,35.6,59.0,"2014年式 / 2.5 i アイサイト Sパッケージ 4WD / 51,000km / 山口県",2014年式,2.5 i アイサイト Sパッケージ 4WD,"51,000km",山口県,manen
+subaru-exiga,エクシーガ,,2013,2013年式,root,root,158,1.6,58.7,25.1,21.1,16.6,30.3,58.7,"2013年式 / 2.5 i スペックB アイサイト 4WD / 63,000km / 兵庫県",2013年式,2.5 i スペックB アイサイト 4WD,"63,000km",兵庫県,manen
+subaru-exiga,エクシーガ,,2012,2012年式,root,root,194,3.5,61.5,22.2,19.2,16.0,26.2,61.5,"2012年式 / 2.5 i アイサイト 4WD / 22,000km / 大阪府",2012年式,2.5 i アイサイト 4WD,"22,000km",大阪府,manen
+subaru-exiga,エクシーガ,,2011,2011年式,root,root,140,5.0,57.5,18.7,17.4,12.1,22.8,57.5,"2011年式 / 2.5 i-S 4WD / 43,000km / 愛知県",2011年式,2.5 i-S 4WD,"43,000km",愛知県,manen
+subaru-exiga,エクシーガ,,2010,2010年式,root,root,150,5.0,41.5,16.9,16.4,12.3,19.6,41.5,"2010年式 / 2.0 GT アイサイト 4WD / 24,000km / 埼玉県",2010年式,2.0 GT アイサイト 4WD,"24,000km",埼玉県,manen
+subaru-exiga,エクシーガ,,2009,2009年式,root,root,109,5.0,38.4,15.5,14.4,10.1,20.2,38.4,"2009年式 / 2.0 GT 4WD / 35,000km / 千葉県",2009年式,2.0 GT 4WD,"35,000km",千葉県,manen
+subaru-exiga,エクシーガ,,2008,2008年式,root,root,89,5.0,36.8,14.6,13.0,10.0,18.0,36.8,"2008年式 / 2.0 GT 4WD / 49,000km / 埼玉県",2008年式,2.0 GT 4WD,"49,000km",埼玉県,manen
+subaru-exiga,エクシーガ,,2007,2007年式,root,root,1,38.0,38.0,38.0,38.0,38.0,38.0,38.0,"2007年式 / 2.0 GT 4WD / 54,000km / 福島県",2007年式,2.0 GT 4WD,"54,000km",福島県,manen
+subaru-exiga,エクシーガ,,1946,1946年式,root,root,1,5.0,5.0,5.0,5.0,5.0,5.0,5.0,"1946年式 / 2.0 i / 87,000km / 栃木県",1946年式,2.0 i,"87,000km",栃木県,manen

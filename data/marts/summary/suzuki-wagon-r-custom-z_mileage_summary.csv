@@ -1,0 +1,34 @@
+model_slug,model_name,source_page_type,source_variant_label,mileage_band_label,mileage_min_km,mileage_max_km,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,root,root,0万km,0,0,24,99.8,162.0,128.9,127.6,123.0,133.5,162.0,2022年式 / ハイブリッド(HYBRID) ZX / 0万km / 群馬県,2022年式,ハイブリッド(HYBRID) ZX,0万km,群馬県,manen
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,root,root,"1,000km",1000,1000,13,83.9,148.5,126.7,128.2,116.4,134.1,148.5,"2023年式 / ハイブリッド(HYBRID) ZT / 1,000km / 佐賀県",2023年式,ハイブリッド(HYBRID) ZT,"1,000km",佐賀県,manen
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,root,root,"2,000km",2000,2000,15,118.1,167.2,134.4,131.5,122.5,137.1,167.2,"2023年式 / ハイブリッド(HYBRID) ZX / 2,000km / 秋田県",2023年式,ハイブリッド(HYBRID) ZX,"2,000km",秋田県,manen
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,root,root,"3,000km",3000,3000,21,111.0,160.0,135.9,137.0,125.7,144.9,160.0,"2024年式 / ハイブリッド(HYBRID) ZX / 3,000km / 鳥取県",2024年式,ハイブリッド(HYBRID) ZX,"3,000km",鳥取県,manen
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,root,root,"4,000km",4000,4000,21,107.5,163.0,126.3,122.0,119.0,134.2,163.0,"2024年式 / ハイブリッド(HYBRID) ZT 4WD / 4,000km / 和歌山県",2024年式,ハイブリッド(HYBRID) ZT 4WD,"4,000km",和歌山県,manen
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,root,root,"5,000km",5000,5000,14,106.4,165.0,131.5,129.4,119.6,139.6,165.0,"2023年式 / ハイブリッド(HYBRID) ZX / 5,000km / 愛知県",2023年式,ハイブリッド(HYBRID) ZX,"5,000km",愛知県,manen
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,root,root,"6,000km",6000,6000,21,104.8,163.3,124.0,119.5,117.4,127.4,163.3,"2024年式 / ハイブリッド(HYBRID) ZX / 6,000km / 長野県",2024年式,ハイブリッド(HYBRID) ZX,"6,000km",長野県,manen
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,root,root,"7,000km",7000,7000,11,108.9,144.9,124.5,123.3,116.0,136.0,144.9,"2024年式 / ハイブリッド(HYBRID) ZX 4WD / 7,000km / 秋田県",2024年式,ハイブリッド(HYBRID) ZX 4WD,"7,000km",秋田県,manen
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,root,root,"8,000km",8000,8000,5,118.5,125.6,123.0,125.2,120.1,125.6,125.6,"2024年式 / ハイブリッド(HYBRID) ZX 4WD / 8,000km / 奈良県",2024年式,ハイブリッド(HYBRID) ZX 4WD,"8,000km",奈良県,manen
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,root,root,"9,000km",9000,9000,6,100.8,150.9,127.3,124.5,122.0,140.9,150.9,"2024年式 / ハイブリッド(HYBRID) ZX / 9,000km / 香川県",2024年式,ハイブリッド(HYBRID) ZX,"9,000km",香川県,manen
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,root,root,1万km,10000,10000,9,104.6,145.3,119.1,120.0,110.0,124.2,145.3,2024年式 / ハイブリッド(HYBRID) ZX / 1万km / 愛知県,2024年式,ハイブリッド(HYBRID) ZX,1万km,愛知県,manen
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,root,root,"11,000km",11000,11000,6,108.7,143.9,123.2,120.1,110.0,136.5,143.9,"2023年式 / ハイブリッド(HYBRID) ZT 4WD / 11,000km / 大分県",2023年式,ハイブリッド(HYBRID) ZT 4WD,"11,000km",大分県,manen
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,root,root,"12,000km",12000,12000,10,103.0,153.5,126.7,127.0,107.5,137.7,153.5,"2023年式 / ハイブリッド(HYBRID) ZX / 12,000km / 埼玉県",2023年式,ハイブリッド(HYBRID) ZX,"12,000km",埼玉県,manen
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,root,root,"13,000km",13000,13000,4,89.4,150.0,126.0,132.2,128.0,136.5,150.0,"2023年式 / ハイブリッド(HYBRID) ZT / 13,000km / 高知県",2023年式,ハイブリッド(HYBRID) ZT,"13,000km",高知県,manen
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,root,root,"14,000km",14000,14000,3,103.2,133.0,118.2,118.5,103.2,133.0,133.0,"2023年式 / ハイブリッド(HYBRID) ZX / 14,000km / 佐賀県",2023年式,ハイブリッド(HYBRID) ZX,"14,000km",佐賀県,manen
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,root,root,"15,000km",15000,15000,2,123.5,126.5,125.0,125.0,123.5,126.5,126.5,"2022年式 / ハイブリッド(HYBRID) ZT / 15,000km / 愛媛県",2022年式,ハイブリッド(HYBRID) ZT,"15,000km",愛媛県,manen
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,root,root,"16,000km",16000,16000,2,120.0,123.5,121.8,121.8,120.0,123.5,123.5,"2022年式 / ハイブリッド(HYBRID) ZX / 16,000km / 神奈川県",2022年式,ハイブリッド(HYBRID) ZX,"16,000km",神奈川県,manen
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,root,root,"17,000km",17000,17000,6,92.5,152.8,114.7,109.8,105.5,118.0,152.8,"2023年式 / ハイブリッド(HYBRID) ZT / 17,000km / 岐阜県",2023年式,ハイブリッド(HYBRID) ZT,"17,000km",岐阜県,manen
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,root,root,"18,000km",18000,18000,4,117.1,167.9,141.1,139.7,118.5,160.9,167.9,"2024年式 / ハイブリッド(HYBRID) ZX / 18,000km / 東京都",2024年式,ハイブリッド(HYBRID) ZX,"18,000km",東京都,manen
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,root,root,"19,000km",19000,19000,2,116.0,143.5,129.8,129.8,116.0,143.5,143.5,"2023年式 / ハイブリッド(HYBRID) ZT / 19,000km / 愛知県",2023年式,ハイブリッド(HYBRID) ZT,"19,000km",愛知県,manen
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,root,root,2万km,20000,20000,1,110.5,110.5,110.5,110.5,110.5,110.5,110.5,2022年式 / ハイブリッド(HYBRID) ZX / 2万km / 鳥取県,2022年式,ハイブリッド(HYBRID) ZX,2万km,鳥取県,manen
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,root,root,"21,000km",21000,21000,2,117.5,123.0,120.2,120.2,117.5,123.0,123.0,"2023年式 / ハイブリッド(HYBRID) ZX / 21,000km / 京都府",2023年式,ハイブリッド(HYBRID) ZX,"21,000km",京都府,manen
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,root,root,"22,000km",22000,22000,2,102.5,157.0,129.8,129.8,102.5,157.0,157.0,"2023年式 / ハイブリッド(HYBRID) ZX / 22,000km / 栃木県",2023年式,ハイブリッド(HYBRID) ZX,"22,000km",栃木県,manen
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,root,root,"23,000km",23000,23000,3,108.3,129.9,121.4,126.1,108.3,129.9,129.9,"2022年式 / ハイブリッド(HYBRID) ZT / 23,000km / 香川県",2022年式,ハイブリッド(HYBRID) ZT,"23,000km",香川県,manen
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,root,root,"24,000km",24000,24000,2,113.3,114.5,113.9,113.9,113.3,114.5,114.5,"2022年式 / ハイブリッド(HYBRID) ZX / 24,000km / 新潟県",2022年式,ハイブリッド(HYBRID) ZX,"24,000km",新潟県,manen
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,root,root,"26,000km",26000,26000,1,121.0,121.0,121.0,121.0,121.0,121.0,121.0,"2023年式 / ハイブリッド(HYBRID) ZT / 26,000km / 鳥取県",2023年式,ハイブリッド(HYBRID) ZT,"26,000km",鳥取県,manen
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,root,root,"27,000km",27000,27000,1,110.5,110.5,110.5,110.5,110.5,110.5,110.5,"2024年式 / ハイブリッド(HYBRID) ZX / 27,000km / 滋賀県",2024年式,ハイブリッド(HYBRID) ZX,"27,000km",滋賀県,manen
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,root,root,"31,000km",31000,31000,3,111.1,137.8,120.1,111.5,111.1,137.8,137.8,"2023年式 / ハイブリッド(HYBRID) ZX / 31,000km / 滋賀県",2023年式,ハイブリッド(HYBRID) ZX,"31,000km",滋賀県,manen
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,root,root,"36,000km",36000,36000,2,84.0,94.0,89.0,89.0,84.0,94.0,94.0,"2022年式 / ハイブリッド(HYBRID) ZX / 36,000km / 島根県",2022年式,ハイブリッド(HYBRID) ZX,"36,000km",島根県,manen
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,root,root,"43,000km",43000,43000,1,96.0,96.0,96.0,96.0,96.0,96.0,96.0,"2021年式 / ハイブリッド(HYBRID) ZX / 43,000km / 島根県",2021年式,ハイブリッド(HYBRID) ZX,"43,000km",島根県,manen
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,root,root,5万km,50000,50000,1,80.2,80.2,80.2,80.2,80.2,80.2,80.2,2023年式 / ハイブリッド(HYBRID) ZX 4WD / 5万km / 和歌山県,2023年式,ハイブリッド(HYBRID) ZX 4WD,5万km,和歌山県,manen
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,root,root,"55,000km",55000,55000,1,100.1,100.1,100.1,100.1,100.1,100.1,100.1,"2022年式 / ハイブリッド(HYBRID) ZX / 55,000km / 徳島県",2022年式,ハイブリッド(HYBRID) ZX,"55,000km",徳島県,manen
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,root,root,"62,000km",62000,62000,1,118.4,118.4,118.4,118.4,118.4,118.4,118.4,"2022年式 / ハイブリッド(HYBRID) ZT 4WD / 62,000km / 滋賀県",2022年式,ハイブリッド(HYBRID) ZT 4WD,"62,000km",滋賀県,manen

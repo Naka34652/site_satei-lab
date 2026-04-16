@@ -1,0 +1,14 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+daihatsu-move-canbus,ムーヴキャンバス,,2025,2025年式,root,root,14,73.0,152.6,126.9,133.7,113.7,141.0,152.6,"2025年式 / ストライプス G 4WD / 1,000km / 宮城県",2025年式,ストライプス G 4WD,"1,000km",宮城県,manen
+daihatsu-move-canbus,ムーヴキャンバス,,2024,2024年式,root,root,51,52.5,162.0,128.4,133.5,122.1,140.5,162.0,2024年式 / ストライプス Gターボ / 1万km / 青森県,2024年式,ストライプス Gターボ,1万km,青森県,manen
+daihatsu-move-canbus,ムーヴキャンバス,,2023,2023年式,root,root,92,61.0,170.5,125.6,127.2,116.8,136.5,170.5,"2023年式 / ストライプス Gターボ / 4,000km / 長崎県",2023年式,ストライプス Gターボ,"4,000km",長崎県,manen
+daihatsu-move-canbus,ムーヴキャンバス,,2022,2022年式,root,root,106,16.6,148.5,113.5,119.5,105.0,130.0,148.5,"2022年式 / ストライプス Gターボ / 16,000km / 東京都",2022年式,ストライプス Gターボ,"16,000km",東京都,manen
+daihatsu-move-canbus,ムーヴキャンバス,,2021,2021年式,root,root,106,11.7,142.5,96.8,103.0,80.0,115.8,142.5,"2021年式 / X ブラックインテリア リミテッド SAIII 4WD / 17,000km / 静岡県",2021年式,X ブラックインテリア リミテッド SAIII 4WD,"17,000km",静岡県,manen
+daihatsu-move-canbus,ムーヴキャンバス,,2020,2020年式,root,root,121,24.7,135.8,91.2,96.5,68.5,112.5,135.8,"2020年式 / X ブラックアクセント リミテッド SAIII / 7,000km / 宮城県",2020年式,X ブラックアクセント リミテッド SAIII,"7,000km",宮城県,manen
+daihatsu-move-canbus,ムーヴキャンバス,,2019,2019年式,root,root,123,7.0,127.5,81.1,84.0,60.5,102.0,127.5,"2019年式 / G メイクアップ リミテッド SAIII / 15,000km / 青森県",2019年式,G メイクアップ リミテッド SAIII,"15,000km",青森県,manen
+daihatsu-move-canbus,ムーヴキャンバス,,2018,2018年式,root,root,130,16.8,127.5,69.4,69.0,50.0,89.5,127.5,"2018年式 / G メイクアップ SAIII 4WD / 38,000km / 鳥取県",2018年式,G メイクアップ SAIII 4WD,"38,000km",鳥取県,manen
+daihatsu-move-canbus,ムーヴキャンバス,,2017,2017年式,root,root,148,6.8,119.6,56.8,52.1,37.9,74.1,119.6,"2017年式 / G メイクアップ リミテッド SAIII / 1,000km / 新潟県",2017年式,G メイクアップ リミテッド SAIII,"1,000km",新潟県,manen
+daihatsu-move-canbus,ムーヴキャンバス,,2016,2016年式,root,root,103,5.0,101.2,56.6,52.8,39.4,73.7,101.2,"2016年式 / G メイクアップ SAII / 18,000km / 愛知県",2016年式,G メイクアップ SAII,"18,000km",愛知県,manen
+daihatsu-move-canbus,ムーヴキャンバス,,2015,2015年式,root,root,4,20.8,86.5,41.5,29.4,24.8,34.0,86.5,"2015年式 / X SAIII / 47,000km / 秋田県",2015年式,X SAIII,"47,000km",秋田県,manen
+daihatsu-move-canbus,ムーヴキャンバス,,2013,2013年式,root,root,1,39.7,39.7,39.7,39.7,39.7,39.7,39.7,"2013年式 / X SAII / 8,000km / 青森県",2013年式,X SAII,"8,000km",青森県,manen
+daihatsu-move-canbus,ムーヴキャンバス,,2011,2011年式,root,root,1,21.8,21.8,21.8,21.8,21.8,21.8,21.8,"2011年式 / X リミテッド SAII / 38,000km / 岩手県",2011年式,X リミテッド SAII,"38,000km",岩手県,manen

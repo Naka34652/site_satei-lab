@@ -1,0 +1,32 @@
+2026-04-16 05:59:47,713 INFO mitsubishi_sample_generate: Target model: mitsubishi-outlander-phev
+2026-04-16 05:59:47,714 INFO mitsubishi_sample_generate: Source: kurumaerabi_kaitori
+2026-04-16 05:59:47,714 INFO mitsubishi_sample_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/21978/ (root)
+2026-04-16 05:59:52,317 INFO mitsubishi_sample_generate: Parsed 1021 candidate records
+2026-04-16 05:59:52,377 INFO mitsubishi_sample_generate: Normalized 1021 records
+2026-04-16 05:59:52,402 INFO mitsubishi_sample_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-outlander-phev.csv
+2026-04-16 05:59:52,419 INFO mitsubishi_sample_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-outlander-phev_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-outlander-phev_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-outlander-phev_overall_summary.csv
+2026-04-16 05:59:52,421 INFO mitsubishi_sample_generate: Target model: mitsubishi-delica-d5
+2026-04-16 05:59:52,421 INFO mitsubishi_sample_generate: Source: kurumaerabi_kaitori
+2026-04-16 05:59:52,422 INFO mitsubishi_sample_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/20004/ (root)
+2026-04-16 05:59:54,930 INFO mitsubishi_sample_generate: Parsed 1030 candidate records
+2026-04-16 05:59:55,000 INFO mitsubishi_sample_generate: Normalized 1030 records
+2026-04-16 05:59:55,026 INFO mitsubishi_sample_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-delica-d5.csv
+2026-04-16 05:59:55,044 INFO mitsubishi_sample_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-delica-d5_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-delica-d5_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-delica-d5_overall_summary.csv
+2026-04-16 05:59:55,046 INFO mitsubishi_sample_generate: Target model: mitsubishi-ek-cross-ev
+2026-04-16 05:59:55,046 INFO mitsubishi_sample_generate: Source: kurumaerabi_kaitori
+2026-04-16 05:59:55,047 INFO mitsubishi_sample_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/23277/ (root)
+2026-04-16 05:59:55,731 INFO mitsubishi_sample_generate: Parsed 81 candidate records
+2026-04-16 05:59:55,741 INFO mitsubishi_sample_generate: Normalized 81 records
+2026-04-16 05:59:55,744 INFO mitsubishi_sample_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-ek-cross-ev.csv
+2026-04-16 05:59:55,747 INFO mitsubishi_sample_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-ek-cross-ev_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-ek-cross-ev_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-ek-cross-ev_overall_summary.csv
+2026-04-16 05:59:55,749 INFO mitsubishi_sample_generate: Target model: mitsubishi-lancer-evolution
+2026-04-16 05:59:55,749 INFO mitsubishi_sample_generate: Source: kurumaerabi_kaitori
+2026-04-16 05:59:55,749 INFO mitsubishi_sample_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/1218/ (root)
+2026-04-16 05:59:57,400 INFO mitsubishi_sample_generate: Parsed 1037 candidate records
+2026-04-16 05:59:57,469 INFO mitsubishi_sample_generate: Normalized 1037 records
+2026-04-16 05:59:57,511 INFO mitsubishi_sample_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-lancer-evolution.csv
+2026-04-16 05:59:57,549 INFO mitsubishi_sample_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-lancer-evolution_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-lancer-evolution_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-lancer-evolution_overall_summary.csv
+2026-04-16 05:59:57,633 INFO mitsubishi_sample_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-outlander-phev-kaitori-soba-2026.md
+2026-04-16 05:59:57,649 INFO mitsubishi_sample_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-delica-d5-kaitori-soba-2026.md
+2026-04-16 05:59:57,654 INFO mitsubishi_sample_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-ek-cross-ev-kaitori-soba-2026.md
+2026-04-16 05:59:57,664 INFO mitsubishi_sample_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-lancer-evolution-kaitori-soba-2026.md

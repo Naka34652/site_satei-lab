@@ -1,0 +1,75 @@
+2026-04-15 19:05:11,400 INFO single_model_pipeline: Pipeline started.
+2026-04-15 19:05:11,400 INFO single_model_pipeline: Config loaded from /Users/user/Documents/Site/satei-lab/config.yaml
+2026-04-15 19:05:11,400 INFO single_model_pipeline: Target model: toyota-prius
+2026-04-15 19:05:11,400 INFO single_model_pipeline: Source: carsensor
+2026-04-15 19:05:11,401 INFO single_model_pipeline: Fetching raw HTML from https://www.carsensor.net/usedcar/bTO/s122/index.html
+2026-04-15 19:05:12,331 INFO single_model_pipeline: Parsed 0 candidate records
+2026-04-15 19:05:12,332 INFO single_model_pipeline: Normalized 0 records
+2026-04-15 19:05:12,332 INFO single_model_pipeline: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-prius.csv
+2026-04-15 19:05:12,332 INFO single_model_pipeline: Pipeline finished successfully.
+2026-04-15 19:06:41,651 INFO single_model_pipeline: Pipeline started.
+2026-04-15 19:06:41,651 INFO single_model_pipeline: Config loaded from /Users/user/Documents/Site/satei-lab/config.yaml
+2026-04-15 19:06:41,651 INFO single_model_pipeline: Target model: toyota-prius
+2026-04-15 19:06:41,651 INFO single_model_pipeline: Source: carsensor
+2026-04-15 19:06:41,652 INFO single_model_pipeline: Fetching raw HTML from https://www.carsensor.net/usedcar/bTO/s122/index.html
+2026-04-15 20:49:37,916 INFO single_model_pipeline: Pipeline started.
+2026-04-15 20:49:37,916 INFO single_model_pipeline: Config loaded from /Users/user/Documents/Site/satei-lab/config.yaml
+2026-04-15 20:49:37,917 INFO single_model_pipeline: Target model: toyota-prius
+2026-04-15 20:49:37,917 INFO single_model_pipeline: Source: kurumaerabi_kaitori
+2026-04-15 20:49:37,917 INFO single_model_pipeline: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/155/
+2026-04-15 20:49:49,104 ERROR single_model_pipeline: Pipeline failed.
+Traceback (most recent call last):
+  File "/Users/user/Documents/Site/satei-lab/scripts/pipelines/run_single_model_pipeline.py", line 53, in main
+    parsed_records = parse_source_data(raw_result, config, model_record)
+  File "/Users/user/Documents/Site/satei-lab/scripts/parsers/parse_source_data.py", line 131, in parse_source_data
+    for row in year_rows + mileage_rows + appraisal_rows:
+TypeError: can only concatenate list (not "NoneType") to list
+2026-04-15 20:53:14,136 INFO single_model_pipeline: Pipeline started.
+2026-04-15 20:53:14,136 INFO single_model_pipeline: Config loaded from /Users/user/Documents/Site/satei-lab/config.yaml
+2026-04-15 20:53:14,136 INFO single_model_pipeline: Target model: toyota-prius
+2026-04-15 20:53:14,136 INFO single_model_pipeline: Source: kurumaerabi_kaitori
+2026-04-15 20:53:14,136 INFO single_model_pipeline: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/155/
+2026-04-15 20:53:20,261 INFO single_model_pipeline: Parsed 0 candidate records
+2026-04-15 20:53:20,263 INFO single_model_pipeline: Normalized 0 records
+2026-04-15 20:53:20,264 INFO single_model_pipeline: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-prius.csv
+2026-04-15 20:53:20,265 INFO single_model_pipeline: Pipeline finished successfully.
+2026-04-15 20:57:09,350 INFO single_model_pipeline: Pipeline started.
+2026-04-15 20:57:09,351 INFO single_model_pipeline: Config loaded from /Users/user/Documents/Site/satei-lab/config.yaml
+2026-04-15 20:57:09,351 INFO single_model_pipeline: Target model: toyota-prius
+2026-04-15 20:57:09,351 INFO single_model_pipeline: Source: kurumaerabi_kaitori
+2026-04-15 20:57:09,351 INFO single_model_pipeline: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/155/
+2026-04-15 20:57:16,325 INFO single_model_pipeline: Parsed 1040 candidate records
+2026-04-15 20:57:16,389 INFO single_model_pipeline: Normalized 1040 records
+2026-04-15 20:57:16,416 INFO single_model_pipeline: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-prius.csv
+2026-04-15 20:57:16,416 INFO single_model_pipeline: Pipeline finished successfully.
+2026-04-15 21:05:51,743 INFO single_model_pipeline: Pipeline started.
+2026-04-15 21:05:51,743 INFO single_model_pipeline: Config loaded from /Users/user/Documents/Site/satei-lab/config.yaml
+2026-04-15 21:05:51,744 INFO single_model_pipeline: Target model: toyota-prius
+2026-04-15 21:05:51,744 INFO single_model_pipeline: Source: kurumaerabi_kaitori
+2026-04-15 21:05:51,745 INFO single_model_pipeline: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/155/
+2026-04-15 21:05:58,969 INFO single_model_pipeline: Parsed 1040 candidate records
+2026-04-15 21:05:59,044 INFO single_model_pipeline: Normalized 1040 records
+2026-04-15 21:05:59,070 INFO single_model_pipeline: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-prius.csv
+2026-04-15 21:05:59,087 INFO single_model_pipeline: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-prius_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-prius_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-prius_overall_summary.csv
+2026-04-15 21:05:59,088 INFO single_model_pipeline: Pipeline finished successfully.
+2026-04-15 22:09:22,282 INFO single_model_pipeline: Pipeline started.
+2026-04-15 22:09:22,283 INFO single_model_pipeline: Config loaded from /Users/user/Documents/Site/satei-lab/config.yaml
+2026-04-15 22:09:22,284 INFO single_model_pipeline: Target model: toyota-prius
+2026-04-15 22:09:22,284 INFO single_model_pipeline: Source: kurumaerabi_kaitori
+2026-04-15 22:09:22,284 INFO single_model_pipeline: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/155/
+2026-04-15 22:09:39,621 INFO single_model_pipeline: Parsed 1040 candidate records
+2026-04-15 22:09:39,695 INFO single_model_pipeline: Normalized 1040 records
+2026-04-15 22:09:39,725 INFO single_model_pipeline: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-prius.csv
+2026-04-15 22:09:39,744 INFO single_model_pipeline: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-prius_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-prius_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-prius_overall_summary.csv
+2026-04-15 22:09:39,744 INFO single_model_pipeline: Pipeline finished successfully.
+2026-04-15 22:40:15,434 INFO single_model_pipeline: Pipeline started.
+2026-04-15 22:40:15,435 INFO single_model_pipeline: Config loaded from /Users/user/Documents/Site/satei-lab/config.yaml
+2026-04-15 22:40:15,436 INFO single_model_pipeline: Target model: toyota-prius
+2026-04-15 22:40:15,436 INFO single_model_pipeline: Source: kurumaerabi_kaitori
+2026-04-15 22:40:15,439 INFO single_model_pipeline: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/155/ (root)
+2026-04-15 22:40:23,519 INFO single_model_pipeline: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/155/2y/ (year_variant)
+2026-04-15 22:40:24,892 INFO single_model_pipeline: Parsed 1181 candidate records
+2026-04-15 22:40:24,974 INFO single_model_pipeline: Normalized 1181 records
+2026-04-15 22:40:25,011 INFO single_model_pipeline: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-prius.csv
+2026-04-15 22:40:25,034 INFO single_model_pipeline: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-prius_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-prius_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-prius_overall_summary.csv
+2026-04-15 22:40:25,034 INFO single_model_pipeline: Pipeline finished successfully.

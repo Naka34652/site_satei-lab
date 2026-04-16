@@ -1,0 +1,4 @@
+model_slug,model_name,source_page_type,source_variant_label,mileage_band_label,mileage_min_km,mileage_max_km,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+subaru-alcyone,アルシオーネ,root,root,"72,000km",72000,72000,1,21.6,21.6,21.6,21.6,21.6,21.6,21.6,"1988年式 / 2.7 VX 4WD / 72,000km / 宮崎県",1988年式,2.7 VX 4WD,"72,000km",宮崎県,manen
+subaru-alcyone,アルシオーネ,root,root,"113,000km",113000,113000,1,122.5,122.5,122.5,122.5,122.5,122.5,122.5,"1986年式 / 1.8 VS / 113,000km / 愛知県",1986年式,1.8 VS,"113,000km",愛知県,manen
+subaru-alcyone,アルシオーネ,root,root,16万km,160000,160000,1,40.1,40.1,40.1,40.1,40.1,40.1,40.1,1987年式 / 2.7 VX 4WD / 16万km / 愛知県,1987年式,2.7 VX 4WD,16万km,愛知県,manen

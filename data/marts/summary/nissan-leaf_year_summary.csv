@@ -1,0 +1,16 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+nissan-leaf,リーフ,,2025,2025年式,root,root,4,140.4,192.0,166.2,166.2,140.4,192.0,192.0,2025年式 / X Vセレクション 90周年記念車 / 0万km / 宮城県,2025年式,X Vセレクション 90周年記念車,0万km,宮城県,manen
+nissan-leaf,リーフ,,2024,2024年式,root,root,20,98.2,225.0,180.3,187.7,153.2,202.2,225.0,"2024年式 / NISMO / 1,000km / 大分県",2024年式,NISMO,"1,000km",大分県,manen
+nissan-leaf,リーフ,,2023,2023年式,root,root,43,86.5,227.5,173.2,180.0,145.6,197.2,227.5,"2023年式 / e+ G / 27,000km / 岡山県",2023年式,e+ G,"27,000km",岡山県,manen
+nissan-leaf,リーフ,,2022,2022年式,root,root,99,66.5,229.0,147.9,146.9,125.5,171.5,229.0,"2022年式 / e+ G / 18,000km / 秋田県",2022年式,e+ G,"18,000km",秋田県,manen
+nissan-leaf,リーフ,,2021,2021年式,root,root,130,2.9,197.0,122.8,125.5,94.8,150.0,197.0,"2021年式 / NISMO / 12,000km / 群馬県",2021年式,NISMO,"12,000km",群馬県,manen
+nissan-leaf,リーフ,,2020,2020年式,root,root,132,32.5,227.3,104.4,100.2,82.5,129.5,227.3,"2020年式 / e+ G / 28,000km / 福井県",2020年式,e+ G,"28,000km",福井県,manen
+nissan-leaf,リーフ,,2019,2019年式,root,root,155,29.1,214.5,86.9,83.6,67.2,106.0,214.5,"2019年式 / e+ G / 28,000km / 秋田県",2019年式,e+ G,"28,000km",秋田県,manen
+nissan-leaf,リーフ,,2018,2018年式,root,root,141,6.3,143.3,61.4,60.3,47.6,73.4,143.3,"2018年式 / NISMO / 11,000km / 静岡県",2018年式,NISMO,"11,000km",静岡県,manen
+nissan-leaf,リーフ,,2017,2017年式,root,root,113,5.0,103.4,37.7,30.6,20.5,54.5,103.4,2017年式 / G / 2万km / 富山県,2017年式,G,2万km,富山県,manen
+nissan-leaf,リーフ,,2016,2016年式,root,root,76,1.9,70.7,17.8,17.8,12.8,21.9,70.7,"2016年式 / G / 95,000km / 岐阜県",2016年式,G,"95,000km",岐阜県,manen
+nissan-leaf,リーフ,,2015,2015年式,root,root,39,5.0,25.4,14.8,15.5,12.4,20.0,25.4,2015年式 / 30kWh S / 2万km / 高知県,2015年式,30kWh S,2万km,高知県,manen
+nissan-leaf,リーフ,,2014,2014年式,root,root,26,5.0,25.3,16.1,17.1,12.9,20.7,25.3,"2014年式 / X エアロスタイル / 49,000km / 千葉県",2014年式,X エアロスタイル,"49,000km",千葉県,manen
+nissan-leaf,リーフ,,2013,2013年式,root,root,12,5.0,26.5,14.8,15.6,12.5,18.0,26.5,"2013年式 / G / 6,000km / 広島県",2013年式,G,"6,000km",広島県,manen
+nissan-leaf,リーフ,,2012,2012年式,root,root,7,5.0,18.6,11.7,14.3,5.0,15.6,18.6,"2012年式 / 30kWh X / 31,000km / 和歌山県",2012年式,30kWh X,"31,000km",和歌山県,manen
+nissan-leaf,リーフ,,2011,2011年式,root,root,3,5.0,17.5,9.2,5.0,5.0,17.5,17.5,"2011年式 / X / 44,000km / 東京都",2011年式,X,"44,000km",東京都,manen

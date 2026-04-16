@@ -1,0 +1,13 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+toyota-mirai,MIRAI,,2024,2024年式,root,root,1,274.3,274.3,274.3,274.3,274.3,274.3,274.3,2024年式 / Z / 0万km / 長野県,2024年式,Z,0万km,長野県,manen
+toyota-mirai,MIRAI,,2023,2023年式,root,root,3,240.5,400.0,308.3,284.5,240.5,400.0,400.0,"2023年式 / Z エグゼクティブパッケージ / 5,000km / 岩手県",2023年式,Z エグゼクティブパッケージ,"5,000km",岩手県,manen
+toyota-mirai,MIRAI,,2022,2022年式,root,root,25,136.7,406.5,269.0,277.0,236.5,294.2,406.5,"2022年式 / Z エグゼクティブパッケージ / 5,000km / 新潟県",2022年式,Z エグゼクティブパッケージ,"5,000km",新潟県,manen
+toyota-mirai,MIRAI,,2021,2021年式,root,root,128,28.2,487.5,268.3,259.6,215.1,312.0,487.5,"2021年式 / G エグゼクティブパッケージ / 6,000km / 東京都",2021年式,G エグゼクティブパッケージ,"6,000km",東京都,manen
+toyota-mirai,MIRAI,,2020,2020年式,root,root,35,68.7,485.5,285.5,289.5,241.5,320.4,485.5,2020年式 / Z エグゼクティブパッケージ / 1万km / 宮崎県,2020年式,Z エグゼクティブパッケージ,1万km,宮崎県,manen
+toyota-mirai,MIRAI,,2019,2019年式,root,root,11,47.6,180.1,89.0,80.3,71.9,97.7,180.1,"2019年式 / Z エグゼクティブパッケージ / 68,000km / 滋賀県",2019年式,Z エグゼクティブパッケージ,"68,000km",滋賀県,manen
+toyota-mirai,MIRAI,,2018,2018年式,root,root,5,57.8,133.4,75.0,62.6,58.3,62.8,133.4,"2018年式 / ベースモデル / 14,000km / 千葉県",2018年式,ベースモデル,"14,000km",千葉県,manen
+toyota-mirai,MIRAI,,2017,2017年式,root,root,4,26.2,76.0,50.9,50.6,37.9,63.3,76.0,"2017年式 / ベースモデル / 12,000km / 大阪府",2017年式,ベースモデル,"12,000km",大阪府,manen
+toyota-mirai,MIRAI,,2016,2016年式,root,root,5,21.0,65.1,44.1,49.2,27.2,57.8,65.1,"2016年式 / ベースモデル / 17,000km / 京都府",2016年式,ベースモデル,"17,000km",京都府,manen
+toyota-mirai,MIRAI,,2015,2015年式,root,root,4,28.2,157.1,88.3,83.9,37.4,130.4,157.1,"2015年式 / ベースモデル / 56,000km / 愛知県",2015年式,ベースモデル,"56,000km",愛知県,manen
+toyota-mirai,MIRAI,,2008,2008年式,root,root,2,169.2,191.9,180.6,180.6,169.2,191.9,191.9,"2008年式 / Z / 27,000km / 富山県",2008年式,Z,"27,000km",富山県,manen
+toyota-mirai,MIRAI,,2007,2007年式,root,root,2,110.5,146.0,128.2,128.2,110.5,146.0,146.0,"2007年式 / G Aパッケージ / 49,000km / 山梨県",2007年式,G Aパッケージ,"49,000km",山梨県,manen

@@ -1,0 +1,10 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+suzuki-spacia-gear,スペーシアギア,,2025,2025年式,root,root,5,86.6,175.1,145.2,152.6,152.0,159.5,175.1,"2025年式 / ハイブリッド(HYBRID) XZターボ / 2,000km / 長崎県",2025年式,ハイブリッド(HYBRID) XZターボ,"2,000km",長崎県,manen
+suzuki-spacia-gear,スペーシアギア,,2024,2024年式,root,root,12,129.9,162.5,142.9,142.4,132.5,151.1,162.5,"2024年式 / ハイブリッド(HYBRID) XZターボ 4WD / 7,000km / 愛知県",2024年式,ハイブリッド(HYBRID) XZターボ 4WD,"7,000km",愛知県,manen
+suzuki-spacia-gear,スペーシアギア,,2023,2023年式,root,root,84,71.4,175.5,147.3,149.8,138.5,157.7,175.5,"2023年式 / ハイブリッド(HYBRID) XZターボ 4WD / 3,000km / 山梨県",2023年式,ハイブリッド(HYBRID) XZターボ 4WD,"3,000km",山梨県,manen
+suzuki-spacia-gear,スペーシアギア,,2022,2022年式,root,root,132,64.8,170.3,142.0,145.7,134.3,153.5,170.3,2022年式 / マイ スタイル / 0万km / 三重県,2022年式,マイ スタイル,0万km,三重県,manen
+suzuki-spacia-gear,スペーシアギア,,2021,2021年式,root,root,201,59.3,178.5,134.6,138.4,124.5,148.5,178.5,"2021年式 / ハイブリッド(HYBRID) XZターボ 4WD / 4,000km / 山梨県",2021年式,ハイブリッド(HYBRID) XZターボ 4WD,"4,000km",山梨県,manen
+suzuki-spacia-gear,スペーシアギア,,2020,2020年式,root,root,238,60.0,173.5,127.7,129.4,110.0,147.7,173.5,"2020年式 / ハイブリッド(HYBRID) XZターボ 4WD / 5,000km / 岡山県",2020年式,ハイブリッド(HYBRID) XZターボ 4WD,"5,000km",岡山県,manen
+suzuki-spacia-gear,スペーシアギア,,2019,2019年式,root,root,242,59.5,165.0,117.9,120.7,102.3,136.8,165.0,"2019年式 / ハイブリッド(HYBRID) XZターボ 4WD / 28,000km / 大阪府",2019年式,ハイブリッド(HYBRID) XZターボ 4WD,"28,000km",大阪府,manen
+suzuki-spacia-gear,スペーシアギア,,2018,2018年式,root,root,83,61.5,151.0,118.4,123.0,107.0,134.6,151.0,2018年式 / ハイブリッド(HYBRID) XZ / 0万km / 鳥取県,2018年式,ハイブリッド(HYBRID) XZ,0万km,鳥取県,manen
+suzuki-spacia-gear,スペーシアギア,,2017,2017年式,root,root,3,88.0,124.2,100.1,88.0,88.0,124.2,124.2,"2017年式 / ハイブリッド(HYBRID) XZ / 13,000km / 鹿児島県",2017年式,ハイブリッド(HYBRID) XZ,"13,000km",鹿児島県,manen

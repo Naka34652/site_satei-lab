@@ -1,0 +1,12 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+nissan-juke,ジューク,,2020,2020年式,root,root,17,65.9,117.5,96.2,95.1,92.7,100.4,117.5,"2020年式 / 1.5 15RX Vセレクション スタイルNISMO アラウンドビューモニターパッケージ / 47,000km / 大分県",2020年式,1.5 15RX Vセレクション スタイルNISMO アラウンドビューモニターパッケージ,"47,000km",大分県,manen
+nissan-juke,ジューク,,2019,2019年式,root,root,59,30.3,112.7,85.9,91.1,73.6,99.2,112.7,"2019年式 / 1.5 15RX Vセレクション スタイルNISMO アラウンドビューモニターパッケージ / 22,000km / 佐賀県",2019年式,1.5 15RX Vセレクション スタイルNISMO アラウンドビューモニターパッケージ,"22,000km",佐賀県,manen
+nissan-juke,ジューク,,2018,2018年式,root,root,73,38.0,117.0,81.7,81.5,69.5,91.0,117.0,"2018年式 / 1.5 15RX Vセレクション スタイルNISMO / 28,000km / 京都府",2018年式,1.5 15RX Vセレクション スタイルNISMO,"28,000km",京都府,manen
+nissan-juke,ジューク,,2017,2017年式,root,root,89,20.2,106.0,70.4,73.4,59.3,81.5,106.0,2017年式 / 1.5 15RX V セレクション / 4万km / 熊本県,2017年式,1.5 15RX V セレクション,4万km,熊本県,manen
+nissan-juke,ジューク,,2016,2016年式,root,root,96,5.0,111.7,60.7,58.2,50.0,70.5,111.7,"2016年式 / 1.6 NISMO 4WD / 51,000km / 鳥取県",2016年式,1.6 NISMO 4WD,"51,000km",鳥取県,manen
+nissan-juke,ジューク,,2015,2015年式,root,root,113,28.6,115.4,52.8,50.4,43.0,59.5,115.4,"2015年式 / 1.6 NISMO 4WD / 53,000km / 群馬県",2015年式,1.6 NISMO 4WD,"53,000km",群馬県,manen
+nissan-juke,ジューク,,2014,2014年式,root,root,132,6.9,84.0,37.7,36.8,28.6,43.5,84.0,"2014年式 / 1.6 NISMO 4WD / 49,000km / 和歌山県",2014年式,1.6 NISMO 4WD,"49,000km",和歌山県,manen
+nissan-juke,ジューク,,2013,2013年式,root,root,107,5.0,97.0,32.4,28.5,24.8,35.8,97.0,"2013年式 / 1.6 NISMO 4WD / 33,000km / 岡山県",2013年式,1.6 NISMO 4WD,"33,000km",岡山県,manen
+nissan-juke,ジューク,,2012,2012年式,root,root,122,5.0,51.9,25.3,24.9,22.0,28.6,51.9,"2012年式 / 1.5 15RX アーバンセレクション / 45,000km / 千葉県",2012年式,1.5 15RX アーバンセレクション,"45,000km",千葉県,manen
+nissan-juke,ジューク,,2011,2011年式,root,root,119,5.0,54.6,24.1,24.1,21.1,27.4,54.6,"2011年式 / 1.5 15RX アーバンセレクション / 48,000km / 新潟県",2011年式,1.5 15RX アーバンセレクション,"48,000km",新潟県,manen
+nissan-juke,ジューク,,2010,2010年式,root,root,73,5.0,51.7,24.6,25.9,22.7,28.0,51.7,"2010年式 / 1.6 16GT FOUR 4WD / 36,000km / 新潟県",2010年式,1.6 16GT FOUR 4WD,"36,000km",新潟県,manen

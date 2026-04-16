@@ -1,0 +1,9 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+mazda-familia-s-wagon,ファミリアS-ワゴン,,2004,2004年式,root,root,2,9.6,12.6,11.1,11.1,9.6,12.6,12.6,"2004年式 / 1.5 S-4 4WD / 49,000km / 山形県",2004年式,1.5 S-4 4WD,"49,000km",山形県,manen
+mazda-familia-s-wagon,ファミリアS-ワゴン,,2003,2003年式,root,root,5,3.7,5.1,4.6,5.0,4.3,5.0,5.1,"2003年式 / 1.5 RS / 37,000km / 岡山県",2003年式,1.5 RS,"37,000km",岡山県,manen
+mazda-familia-s-wagon,ファミリアS-ワゴン,,2002,2002年式,root,root,20,3.6,15.4,7.9,6.5,4.5,10.6,15.4,"2002年式 / 2.0 スポルト20 / 93,000km / 徳島県",2002年式,2.0 スポルト20,"93,000km",徳島県,manen
+mazda-familia-s-wagon,ファミリアS-ワゴン,,2001,2001年式,root,root,46,3.6,16.2,6.4,5.4,4.5,7.5,16.2,"2001年式 / 2.0 スポルト20 4WD / 65,000km / 栃木県",2001年式,2.0 スポルト20 4WD,"65,000km",栃木県,manen
+mazda-familia-s-wagon,ファミリアS-ワゴン,,2000,2000年式,root,root,47,3.6,12.3,5.2,4.8,3.9,5.7,12.3,"2000年式 / 1.5 S-f / 81,000km / 山形県",2000年式,1.5 S-f,"81,000km",山形県,manen
+mazda-familia-s-wagon,ファミリアS-ワゴン,,1999,1999年式,root,root,53,3.6,13.8,5.4,4.5,4.2,5.8,13.8,"1999年式 / 1.5 R / 49,000km / 島根県",1999年式,1.5 R,"49,000km",島根県,manen
+mazda-familia-s-wagon,ファミリアS-ワゴン,,1998,1998年式,root,root,21,3.6,14.3,5.5,5.1,4.0,5.7,14.3,"1998年式 / 1.5 R / 44,000km / 鳥取県",1998年式,1.5 R,"44,000km",鳥取県,manen
+mazda-familia-s-wagon,ファミリアS-ワゴン,,1997,1997年式,root,root,5,4.2,5.5,4.6,4.5,4.2,4.5,5.5,"1997年式 / 1.5 S / 103,000km / 香川県",1997年式,1.5 S,"103,000km",香川県,manen

@@ -1,0 +1,12 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+subaru-impreza-xv,インプレッサXV,,2017,2017年式,root,root,25,5.0,178.4,100.0,106.0,68.4,121.1,178.4,"2017年式 / 2.0i-L アイサイト 4WD / 3,000km / 宮崎県",2017年式,2.0i-L アイサイト 4WD,"3,000km",宮崎県,manen
+subaru-impreza-xv,インプレッサXV,,2016,2016年式,root,root,114,7.3,182.9,89.0,88.6,60.9,114.5,182.9,"2016年式 / 2.0i-L アイサイト 4WD / 13,000km / 秋田県",2016年式,2.0i-L アイサイト 4WD,"13,000km",秋田県,manen
+subaru-impreza-xv,インプレッサXV,,2015,2015年式,root,root,166,19.8,179.8,86.7,81.1,58.6,114.9,179.8,"2015年式 / 2.0i-L アイサイト 4WD / 25,000km / 鳥取県",2015年式,2.0i-L アイサイト 4WD,"25,000km",鳥取県,manen
+subaru-impreza-xv,インプレッサXV,,2014,2014年式,root,root,157,13.4,184.0,85.5,79.9,49.2,115.5,184.0,"2014年式 / 2.0i-L アイサイト 4WD / 6,000km / 滋賀県",2014年式,2.0i-L アイサイト 4WD,"6,000km",滋賀県,manen
+subaru-impreza-xv,インプレッサXV,,2013,2013年式,root,root,192,5.0,183.5,70.8,69.0,39.0,87.3,183.5,"2013年式 / 2.0i-L アイサイト 4WD / 33,000km / 茨城県",2013年式,2.0i-L アイサイト 4WD,"33,000km",茨城県,manen
+subaru-impreza-xv,インプレッサXV,,2012,2012年式,root,root,130,5.0,174.2,77.3,68.0,40.5,108.7,174.2,"2012年式 / 2.0i-L アイサイト 4WD / 52,000km / 茨城県",2012年式,2.0i-L アイサイト 4WD,"52,000km",茨城県,manen
+subaru-impreza-xv,インプレッサXV,,2011,2011年式,root,root,67,5.0,170.8,59.1,38.0,18.7,107.5,170.8,"2011年式 / 2.0i-L アイサイト 4WD / 6,000km / 石川県",2011年式,2.0i-L アイサイト 4WD,"6,000km",石川県,manen
+subaru-impreza-xv,インプレッサXV,,2010,2010年式,root,root,97,5.0,66.7,23.8,18.9,14.9,30.9,66.7,"2010年式 / 1.5i / 51,000km / 広島県",2010年式,1.5i,"51,000km",広島県,manen
+subaru-impreza-xv,インプレッサXV,,2009,2009年式,root,root,50,5.0,67.6,30.8,27.2,17.3,45.5,67.6,"2009年式 / 2.0i 4WD / 53,000km / 奈良県",2009年式,2.0i 4WD,"53,000km",奈良県,manen
+subaru-impreza-xv,インプレッサXV,,2008,2008年式,root,root,1,17.1,17.1,17.1,17.1,17.1,17.1,17.1,"2008年式 / 1.5i 4WD / 42,000km / 岐阜県",2008年式,1.5i 4WD,"42,000km",岐阜県,manen
+subaru-impreza-xv,インプレッサXV,,2007,2007年式,root,root,1,5.0,5.0,5.0,5.0,5.0,5.0,5.0,"2007年式 / 1.5i / 45,000km / 愛知県",2007年式,1.5i,"45,000km",愛知県,manen

@@ -1,0 +1,4 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+mitsubishi-ek-cross-ev,eKクロス EV,,2024,2024年式,root,root,2,111.5,119.1,115.3,115.3,111.5,119.1,119.1,"2024年式 / P / 11,000km / 岐阜県",2024年式,P,"11,000km",岐阜県,manen
+mitsubishi-ek-cross-ev,eKクロス EV,,2023,2023年式,root,root,30,67.3,182.9,109.5,102.0,91.0,127.5,182.9,"2023年式 / P / 4,000km / 島根県",2023年式,P,"4,000km",島根県,manen
+mitsubishi-ek-cross-ev,eKクロス EV,,2022,2022年式,root,root,42,70.5,179.4,117.3,110.7,100.4,133.4,179.4,"2022年式 / P / 1,000km / 神奈川県",2022年式,P,"1,000km",神奈川県,manen

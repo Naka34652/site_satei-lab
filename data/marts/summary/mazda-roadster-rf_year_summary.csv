@@ -1,0 +1,10 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+mazda-roadster-rf,ロードスターRF,,2023,2023年式,root,root,34,182.2,329.5,272.3,272.7,251.0,293.0,329.5,"2023年式 / 2.0 RS / 2,000km / 京都府",2023年式,2.0 RS,"2,000km",京都府,manen
+mazda-roadster-rf,ロードスターRF,,2022,2022年式,root,root,74,169.2,323.0,267.1,273.6,252.0,287.1,323.0,"2022年式 / 2.0 RS / 3,000km / 東京都",2022年式,2.0 RS,"3,000km",東京都,manen
+mazda-roadster-rf,ロードスターRF,,2021,2021年式,root,root,70,147.3,320.8,250.6,252.0,227.0,269.5,320.8,"2021年式 / 2.0 RS ホワイトリミテッドセレクション / 11,000km / 愛知県",2021年式,2.0 RS ホワイトリミテッドセレクション,"11,000km",愛知県,manen
+mazda-roadster-rf,ロードスターRF,,2020,2020年式,root,root,84,140.0,325.0,241.6,240.9,223.1,258.0,325.0,"2020年式 / 2.0 100周年 特別記念車 / 2,000km / 宮崎県",2020年式,2.0 100周年 特別記念車,"2,000km",宮崎県,manen
+mazda-roadster-rf,ロードスターRF,,2019,2019年式,root,root,113,142.5,330.4,225.9,225.1,199.9,255.0,330.4,"2019年式 / 2.0 30周年記念車 / 9,000km / 神奈川県",2019年式,2.0 30周年記念車,"9,000km",神奈川県,manen
+mazda-roadster-rf,ロードスターRF,,2018,2018年式,root,root,133,120.5,323.0,213.7,216.5,193.6,236.0,323.0,"2018年式 / 2.0 RS / 7,000km / 岩手県",2018年式,2.0 RS,"7,000km",岩手県,manen
+mazda-roadster-rf,ロードスターRF,,2017,2017年式,root,root,230,115.5,302.5,198.5,199.5,174.2,225.0,302.5,"2017年式 / 2.0 RS / 19,000km / 山形県",2017年式,2.0 RS,"19,000km",山形県,manen
+mazda-roadster-rf,ロードスターRF,,2016,2016年式,root,root,186,113.1,301.5,215.1,219.2,190.5,236.0,301.5,2016年式 / 2.0 RS / 0万km / 岩手県,2016年式,2.0 RS,0万km,岩手県,manen
+mazda-roadster-rf,ロードスターRF,,2015,2015年式,root,root,61,170.0,320.0,239.4,232.5,221.5,259.0,320.0,"2015年式 / 2.0 RS / 3,000km / 栃木県",2015年式,2.0 RS,"3,000km",栃木県,manen

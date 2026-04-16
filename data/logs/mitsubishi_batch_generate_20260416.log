@@ -1,0 +1,280 @@
+2026-04-16 06:15:15,465 INFO mitsubishi_batch_generate: Target model: mitsubishi-outlander-phev
+2026-04-16 06:15:15,465 INFO mitsubishi_batch_generate: Source: kurumaerabi_kaitori
+2026-04-16 06:15:15,466 INFO mitsubishi_batch_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/21978/ (root)
+2026-04-16 06:15:19,736 INFO mitsubishi_batch_generate: Parsed 1021 candidate records
+2026-04-16 06:15:19,790 INFO mitsubishi_batch_generate: Normalized 1021 records
+2026-04-16 06:15:19,810 INFO mitsubishi_batch_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-outlander-phev.csv
+2026-04-16 06:15:19,825 INFO mitsubishi_batch_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-outlander-phev_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-outlander-phev_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-outlander-phev_overall_summary.csv
+2026-04-16 06:15:19,835 INFO mitsubishi_batch_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-outlander-phev-kaitori-soba-2026.md
+2026-04-16 06:15:19,837 INFO mitsubishi_batch_generate: Target model: mitsubishi-eclipse-cross
+2026-04-16 06:15:19,837 INFO mitsubishi_batch_generate: Source: kurumaerabi_kaitori
+2026-04-16 06:15:19,837 INFO mitsubishi_batch_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/22736/ (root)
+2026-04-16 06:15:21,394 INFO mitsubishi_batch_generate: Parsed 1021 candidate records
+2026-04-16 06:15:21,450 INFO mitsubishi_batch_generate: Normalized 1021 records
+2026-04-16 06:15:21,479 INFO mitsubishi_batch_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-eclipse-cross.csv
+2026-04-16 06:15:21,491 INFO mitsubishi_batch_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-eclipse-cross_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-eclipse-cross_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-eclipse-cross_overall_summary.csv
+2026-04-16 06:15:21,498 INFO mitsubishi_batch_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-eclipse-cross-kaitori-soba-2026.md
+2026-04-16 06:15:21,500 INFO mitsubishi_batch_generate: Target model: mitsubishi-delica-d5
+2026-04-16 06:15:21,500 INFO mitsubishi_batch_generate: Source: kurumaerabi_kaitori
+2026-04-16 06:15:21,500 INFO mitsubishi_batch_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/20004/ (root)
+2026-04-16 06:15:23,133 INFO mitsubishi_batch_generate: Parsed 1030 candidate records
+2026-04-16 06:15:23,184 INFO mitsubishi_batch_generate: Normalized 1030 records
+2026-04-16 06:15:23,200 INFO mitsubishi_batch_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-delica-d5.csv
+2026-04-16 06:15:23,213 INFO mitsubishi_batch_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-delica-d5_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-delica-d5_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-delica-d5_overall_summary.csv
+2026-04-16 06:15:23,221 INFO mitsubishi_batch_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-delica-d5-kaitori-soba-2026.md
+2026-04-16 06:15:23,223 INFO mitsubishi_batch_generate: Target model: mitsubishi-delica-mini
+2026-04-16 06:15:23,223 INFO mitsubishi_batch_generate: Source: kurumaerabi_kaitori
+2026-04-16 06:15:23,223 INFO mitsubishi_batch_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/23379/ (root)
+2026-04-16 06:15:23,983 INFO mitsubishi_batch_generate: Parsed 183 candidate records
+2026-04-16 06:15:23,997 INFO mitsubishi_batch_generate: Normalized 183 records
+2026-04-16 06:15:24,003 INFO mitsubishi_batch_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-delica-mini.csv
+2026-04-16 06:15:24,006 INFO mitsubishi_batch_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-delica-mini_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-delica-mini_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-delica-mini_overall_summary.csv
+2026-04-16 06:15:24,011 INFO mitsubishi_batch_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-delica-mini-kaitori-soba-2026.md
+2026-04-16 06:15:24,012 INFO mitsubishi_batch_generate: Target model: mitsubishi-ek-cross-ev
+2026-04-16 06:15:24,012 INFO mitsubishi_batch_generate: Source: kurumaerabi_kaitori
+2026-04-16 06:15:24,012 INFO mitsubishi_batch_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/23277/ (root)
+2026-04-16 06:15:24,635 INFO mitsubishi_batch_generate: Parsed 81 candidate records
+2026-04-16 06:15:24,645 INFO mitsubishi_batch_generate: Normalized 81 records
+2026-04-16 06:15:24,648 INFO mitsubishi_batch_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-ek-cross-ev.csv
+2026-04-16 06:15:24,652 INFO mitsubishi_batch_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-ek-cross-ev_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-ek-cross-ev_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-ek-cross-ev_overall_summary.csv
+2026-04-16 06:15:24,654 INFO mitsubishi_batch_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-ek-cross-ev-kaitori-soba-2026.md
+2026-04-16 06:15:24,656 INFO mitsubishi_batch_generate: Target model: mitsubishi-ek-cross
+2026-04-16 06:15:24,656 INFO mitsubishi_batch_generate: Source: kurumaerabi_kaitori
+2026-04-16 06:15:24,656 INFO mitsubishi_batch_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/22898/ (root)
+2026-04-16 06:15:25,917 INFO mitsubishi_batch_generate: Parsed 661 candidate records
+2026-04-16 06:15:25,945 INFO mitsubishi_batch_generate: Normalized 661 records
+2026-04-16 06:15:25,959 INFO mitsubishi_batch_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-ek-cross.csv
+2026-04-16 06:15:25,965 INFO mitsubishi_batch_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-ek-cross_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-ek-cross_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-ek-cross_overall_summary.csv
+2026-04-16 06:15:25,971 INFO mitsubishi_batch_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-ek-cross-kaitori-soba-2026.md
+2026-04-16 06:15:25,973 INFO mitsubishi_batch_generate: Target model: mitsubishi-ek-wagon
+2026-04-16 06:15:25,973 INFO mitsubishi_batch_generate: Source: kurumaerabi_kaitori
+2026-04-16 06:15:25,973 INFO mitsubishi_batch_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/6151/ (root)
+2026-04-16 06:15:27,522 INFO mitsubishi_batch_generate: Parsed 1036 candidate records
+2026-04-16 06:15:27,600 INFO mitsubishi_batch_generate: Normalized 1036 records
+2026-04-16 06:15:27,623 INFO mitsubishi_batch_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-ek-wagon.csv
+2026-04-16 06:15:27,636 INFO mitsubishi_batch_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-ek-wagon_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-ek-wagon_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-ek-wagon_overall_summary.csv
+2026-04-16 06:15:27,646 INFO mitsubishi_batch_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-ek-wagon-kaitori-soba-2026.md
+2026-04-16 06:15:27,648 INFO mitsubishi_batch_generate: Target model: mitsubishi-town-box
+2026-04-16 06:15:27,648 INFO mitsubishi_batch_generate: Source: kurumaerabi_kaitori
+2026-04-16 06:15:27,648 INFO mitsubishi_batch_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/5503/ (root)
+2026-04-16 06:15:29,386 INFO mitsubishi_batch_generate: Parsed 1035 candidate records
+2026-04-16 06:15:29,449 INFO mitsubishi_batch_generate: Normalized 1035 records
+2026-04-16 06:15:29,475 INFO mitsubishi_batch_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-town-box.csv
+2026-04-16 06:15:29,485 INFO mitsubishi_batch_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-town-box_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-town-box_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-town-box_overall_summary.csv
+2026-04-16 06:15:29,492 INFO mitsubishi_batch_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-town-box-kaitori-soba-2026.md
+2026-04-16 06:15:29,494 INFO mitsubishi_batch_generate: Target model: mitsubishi-airtrek
+2026-04-16 06:15:29,495 INFO mitsubishi_batch_generate: Source: kurumaerabi_kaitori
+2026-04-16 06:15:29,495 INFO mitsubishi_batch_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/368/ (root)
+2026-04-16 06:15:31,378 INFO mitsubishi_batch_generate: Parsed 1016 candidate records
+2026-04-16 06:15:31,429 INFO mitsubishi_batch_generate: Normalized 1016 records
+2026-04-16 06:15:31,451 INFO mitsubishi_batch_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-airtrek.csv
+2026-04-16 06:15:31,471 INFO mitsubishi_batch_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-airtrek_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-airtrek_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-airtrek_overall_summary.csv
+2026-04-16 06:15:31,481 INFO mitsubishi_batch_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-airtrek-kaitori-soba-2026.md
+2026-04-16 06:15:31,483 INFO mitsubishi_batch_generate: Target model: mitsubishi-galant
+2026-04-16 06:15:31,483 INFO mitsubishi_batch_generate: Source: kurumaerabi_kaitori
+2026-04-16 06:15:31,483 INFO mitsubishi_batch_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/373/ (root)
+2026-04-16 06:15:32,178 INFO mitsubishi_batch_generate: Parsed 216 candidate records
+2026-04-16 06:15:32,195 INFO mitsubishi_batch_generate: Normalized 216 records
+2026-04-16 06:15:32,200 INFO mitsubishi_batch_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-galant.csv
+2026-04-16 06:15:32,207 INFO mitsubishi_batch_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-galant_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-galant_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-galant_overall_summary.csv
+2026-04-16 06:15:32,217 INFO mitsubishi_batch_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-galant-kaitori-soba-2026.md
+2026-04-16 06:15:32,220 INFO mitsubishi_batch_generate: Target model: mitsubishi-galant-fortis
+2026-04-16 06:15:32,220 INFO mitsubishi_batch_generate: Source: kurumaerabi_kaitori
+2026-04-16 06:15:32,221 INFO mitsubishi_batch_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/20183/ (root)
+2026-04-16 06:15:33,658 INFO mitsubishi_batch_generate: Parsed 1020 candidate records
+2026-04-16 06:15:33,749 INFO mitsubishi_batch_generate: Normalized 1020 records
+2026-04-16 06:15:33,764 INFO mitsubishi_batch_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-galant-fortis.csv
+2026-04-16 06:15:33,773 INFO mitsubishi_batch_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-galant-fortis_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-galant-fortis_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-galant-fortis_overall_summary.csv
+2026-04-16 06:15:33,781 INFO mitsubishi_batch_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-galant-fortis-kaitori-soba-2026.md
+2026-04-16 06:15:33,782 INFO mitsubishi_batch_generate: Target model: mitsubishi-galant-fortis-sportback
+2026-04-16 06:15:33,782 INFO mitsubishi_batch_generate: Source: kurumaerabi_kaitori
+2026-04-16 06:15:33,783 INFO mitsubishi_batch_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/22501/ (root)
+2026-04-16 06:15:35,102 INFO mitsubishi_batch_generate: Parsed 872 candidate records
+2026-04-16 06:15:35,157 INFO mitsubishi_batch_generate: Normalized 872 records
+2026-04-16 06:15:35,185 INFO mitsubishi_batch_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-galant-fortis-sportback.csv
+2026-04-16 06:15:35,195 INFO mitsubishi_batch_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-galant-fortis-sportback_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-galant-fortis-sportback_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-galant-fortis-sportback_overall_summary.csv
+2026-04-16 06:15:35,210 INFO mitsubishi_batch_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-galant-fortis-sportback-kaitori-soba-2026.md
+2026-04-16 06:15:35,212 INFO mitsubishi_batch_generate: Target model: mitsubishi-grandis
+2026-04-16 06:15:35,213 INFO mitsubishi_batch_generate: Source: kurumaerabi_kaitori
+2026-04-16 06:15:35,213 INFO mitsubishi_batch_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/6068/ (root)
+2026-04-16 06:15:36,293 INFO mitsubishi_batch_generate: Parsed 788 candidate records
+2026-04-16 06:15:36,345 INFO mitsubishi_batch_generate: Normalized 788 records
+2026-04-16 06:15:36,365 INFO mitsubishi_batch_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-grandis.csv
+2026-04-16 06:15:36,375 INFO mitsubishi_batch_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-grandis_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-grandis_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-grandis_overall_summary.csv
+2026-04-16 06:15:36,385 INFO mitsubishi_batch_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-grandis-kaitori-soba-2026.md
+2026-04-16 06:15:36,387 INFO mitsubishi_batch_generate: Target model: mitsubishi-triton
+2026-04-16 06:15:36,387 INFO mitsubishi_batch_generate: Source: kurumaerabi_kaitori
+2026-04-16 06:15:36,387 INFO mitsubishi_batch_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/20005/ (root)
+2026-04-16 06:15:37,069 INFO mitsubishi_batch_generate: Parsed 177 candidate records
+2026-04-16 06:15:37,078 INFO mitsubishi_batch_generate: Normalized 177 records
+2026-04-16 06:15:37,083 INFO mitsubishi_batch_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-triton.csv
+2026-04-16 06:15:37,088 INFO mitsubishi_batch_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-triton_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-triton_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-triton_overall_summary.csv
+2026-04-16 06:15:37,092 INFO mitsubishi_batch_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-triton-kaitori-soba-2026.md
+2026-04-16 06:15:37,094 INFO mitsubishi_batch_generate: Target model: mitsubishi-pajero
+2026-04-16 06:15:37,094 INFO mitsubishi_batch_generate: Source: kurumaerabi_kaitori
+2026-04-16 06:15:37,095 INFO mitsubishi_batch_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/1447/ (root)
+2026-04-16 06:15:38,579 INFO mitsubishi_batch_generate: Parsed 1042 candidate records
+2026-04-16 06:15:38,636 INFO mitsubishi_batch_generate: Normalized 1042 records
+2026-04-16 06:15:38,654 INFO mitsubishi_batch_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-pajero.csv
+2026-04-16 06:15:38,672 INFO mitsubishi_batch_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-pajero_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-pajero_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-pajero_overall_summary.csv
+2026-04-16 06:15:38,681 INFO mitsubishi_batch_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-pajero-kaitori-soba-2026.md
+2026-04-16 06:15:38,683 INFO mitsubishi_batch_generate: Target model: mitsubishi-pajero-io
+2026-04-16 06:15:38,684 INFO mitsubishi_batch_generate: Source: kurumaerabi_kaitori
+2026-04-16 06:15:38,684 INFO mitsubishi_batch_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/409/ (root)
+2026-04-16 06:15:40,075 INFO mitsubishi_batch_generate: Parsed 1022 candidate records
+2026-04-16 06:15:40,137 INFO mitsubishi_batch_generate: Normalized 1022 records
+2026-04-16 06:15:40,156 INFO mitsubishi_batch_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-pajero-io.csv
+2026-04-16 06:15:40,170 INFO mitsubishi_batch_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-pajero-io_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-pajero-io_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-pajero-io_overall_summary.csv
+2026-04-16 06:15:40,181 INFO mitsubishi_batch_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-pajero-io-kaitori-soba-2026.md
+2026-04-16 06:15:40,183 INFO mitsubishi_batch_generate: Target model: mitsubishi-pajero-mini
+2026-04-16 06:15:40,183 INFO mitsubishi_batch_generate: Source: kurumaerabi_kaitori
+2026-04-16 06:15:40,183 INFO mitsubishi_batch_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/5485/ (root)
+2026-04-16 06:15:41,682 INFO mitsubishi_batch_generate: Parsed 1031 candidate records
+2026-04-16 06:15:41,743 INFO mitsubishi_batch_generate: Normalized 1031 records
+2026-04-16 06:15:41,763 INFO mitsubishi_batch_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-pajero-mini.csv
+2026-04-16 06:15:41,774 INFO mitsubishi_batch_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-pajero-mini_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-pajero-mini_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-pajero-mini_overall_summary.csv
+2026-04-16 06:15:41,781 INFO mitsubishi_batch_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-pajero-mini-kaitori-soba-2026.md
+2026-04-16 06:15:41,782 INFO mitsubishi_batch_generate: Target model: mitsubishi-pajero-junior
+2026-04-16 06:15:41,782 INFO mitsubishi_batch_generate: Source: kurumaerabi_kaitori
+2026-04-16 06:15:41,782 INFO mitsubishi_batch_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/3486/ (root)
+2026-04-16 06:15:42,650 INFO mitsubishi_batch_generate: Parsed 380 candidate records
+2026-04-16 06:15:42,673 INFO mitsubishi_batch_generate: Normalized 380 records
+2026-04-16 06:15:42,680 INFO mitsubishi_batch_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-pajero-junior.csv
+2026-04-16 06:15:42,689 INFO mitsubishi_batch_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-pajero-junior_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-pajero-junior_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-pajero-junior_overall_summary.csv
+2026-04-16 06:15:42,697 INFO mitsubishi_batch_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-pajero-junior-kaitori-soba-2026.md
+2026-04-16 06:15:42,698 INFO mitsubishi_batch_generate: Target model: mitsubishi-proudia
+2026-04-16 06:15:42,698 INFO mitsubishi_batch_generate: Source: kurumaerabi_kaitori
+2026-04-16 06:15:42,698 INFO mitsubishi_batch_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/19990/ (root)
+2026-04-16 06:15:43,405 INFO mitsubishi_batch_generate: Parsed 190 candidate records
+2026-04-16 06:15:43,418 INFO mitsubishi_batch_generate: Normalized 190 records
+2026-04-16 06:15:43,423 INFO mitsubishi_batch_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-proudia.csv
+2026-04-16 06:15:43,430 INFO mitsubishi_batch_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-proudia_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-proudia_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-proudia_overall_summary.csv
+2026-04-16 06:15:43,436 INFO mitsubishi_batch_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-proudia-kaitori-soba-2026.md
+2026-04-16 06:15:43,437 INFO mitsubishi_batch_generate: Target model: mitsubishi-mini-cab-truck
+2026-04-16 06:15:43,437 INFO mitsubishi_batch_generate: Source: kurumaerabi_kaitori
+2026-04-16 06:15:43,438 INFO mitsubishi_batch_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/5808/ (root)
+2026-04-16 06:15:45,062 INFO mitsubishi_batch_generate: Parsed 1046 candidate records
+2026-04-16 06:15:45,135 INFO mitsubishi_batch_generate: Normalized 1046 records
+2026-04-16 06:15:45,197 INFO mitsubishi_batch_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-mini-cab-truck.csv
+2026-04-16 06:15:45,215 INFO mitsubishi_batch_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-mini-cab-truck_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-mini-cab-truck_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-mini-cab-truck_overall_summary.csv
+2026-04-16 06:15:45,223 INFO mitsubishi_batch_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-mini-cab-truck-kaitori-soba-2026.md
+2026-04-16 06:15:45,225 INFO mitsubishi_batch_generate: Target model: mitsubishi-mirage
+2026-04-16 06:15:45,225 INFO mitsubishi_batch_generate: Source: kurumaerabi_kaitori
+2026-04-16 06:15:45,226 INFO mitsubishi_batch_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/3946/ (root)
+2026-04-16 06:15:46,580 INFO mitsubishi_batch_generate: Parsed 1025 candidate records
+2026-04-16 06:15:46,630 INFO mitsubishi_batch_generate: Normalized 1025 records
+2026-04-16 06:15:46,659 INFO mitsubishi_batch_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-mirage.csv
+2026-04-16 06:15:46,675 INFO mitsubishi_batch_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-mirage_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-mirage_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-mirage_overall_summary.csv
+2026-04-16 06:15:46,682 INFO mitsubishi_batch_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-mirage-kaitori-soba-2026.md
+2026-04-16 06:15:46,683 INFO mitsubishi_batch_generate: Target model: mitsubishi-lancer-evolution
+2026-04-16 06:15:46,683 INFO mitsubishi_batch_generate: Source: kurumaerabi_kaitori
+2026-04-16 06:15:46,684 INFO mitsubishi_batch_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/1218/ (root)
+2026-04-16 06:15:48,038 INFO mitsubishi_batch_generate: Parsed 1037 candidate records
+2026-04-16 06:15:48,095 INFO mitsubishi_batch_generate: Normalized 1037 records
+2026-04-16 06:15:48,119 INFO mitsubishi_batch_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-lancer-evolution.csv
+2026-04-16 06:15:48,136 INFO mitsubishi_batch_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-lancer-evolution_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-lancer-evolution_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-lancer-evolution_overall_summary.csv
+2026-04-16 06:15:48,145 INFO mitsubishi_batch_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-lancer-evolution-kaitori-soba-2026.md
+2026-04-16 06:15:48,147 INFO mitsubishi_batch_generate: Target model: mitsubishi-lancer-evolution-wagon
+2026-04-16 06:15:48,147 INFO mitsubishi_batch_generate: Source: kurumaerabi_kaitori
+2026-04-16 06:15:48,147 INFO mitsubishi_batch_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/20341/ (root)
+2026-04-16 06:15:48,941 INFO mitsubishi_batch_generate: Parsed 396 candidate records
+2026-04-16 06:15:48,967 INFO mitsubishi_batch_generate: Normalized 396 records
+2026-04-16 06:15:48,975 INFO mitsubishi_batch_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-lancer-evolution-wagon.csv
+2026-04-16 06:15:48,987 INFO mitsubishi_batch_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-lancer-evolution-wagon_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-lancer-evolution-wagon_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-lancer-evolution-wagon_overall_summary.csv
+2026-04-16 06:15:48,998 INFO mitsubishi_batch_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-lancer-evolution-wagon-kaitori-soba-2026.md
+2026-04-16 06:15:49,001 INFO mitsubishi_batch_generate: Target model: mitsubishi-lancer-cedia-wagon
+2026-04-16 06:15:49,001 INFO mitsubishi_batch_generate: Source: kurumaerabi_kaitori
+2026-04-16 06:15:49,001 INFO mitsubishi_batch_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/3934/ (root)
+2026-04-16 06:15:49,681 INFO mitsubishi_batch_generate: Parsed 78 candidate records
+2026-04-16 06:15:49,685 INFO mitsubishi_batch_generate: Normalized 78 records
+2026-04-16 06:15:49,688 INFO mitsubishi_batch_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-lancer-cedia-wagon.csv
+2026-04-16 06:15:49,694 INFO mitsubishi_batch_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-lancer-cedia-wagon_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-lancer-cedia-wagon_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-lancer-cedia-wagon_overall_summary.csv
+2026-04-16 06:15:49,699 INFO mitsubishi_batch_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-lancer-cedia-wagon-kaitori-soba-2026.md
+2026-04-16 06:15:49,701 INFO mitsubishi_batch_generate: Target model: mitsubishi-lancer-cedia
+2026-04-16 06:15:49,701 INFO mitsubishi_batch_generate: Source: kurumaerabi_kaitori
+2026-04-16 06:15:49,701 INFO mitsubishi_batch_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/424/ (root)
+2026-04-16 06:15:50,278 INFO mitsubishi_batch_generate: Parsed 63 candidate records
+2026-04-16 06:15:50,284 INFO mitsubishi_batch_generate: Normalized 63 records
+2026-04-16 06:15:50,286 INFO mitsubishi_batch_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-lancer-cedia.csv
+2026-04-16 06:15:50,290 INFO mitsubishi_batch_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-lancer-cedia_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-lancer-cedia_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-lancer-cedia_overall_summary.csv
+2026-04-16 06:15:50,296 INFO mitsubishi_batch_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-lancer-cedia-kaitori-soba-2026.md
+2026-04-16 06:15:50,297 INFO mitsubishi_batch_generate: Target model: mitsubishi-lancer-cargo
+2026-04-16 06:15:50,297 INFO mitsubishi_batch_generate: Source: kurumaerabi_kaitori
+2026-04-16 06:15:50,298 INFO mitsubishi_batch_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/19994/ (root)
+2026-04-16 06:15:51,291 INFO mitsubishi_batch_generate: Parsed 559 candidate records
+2026-04-16 06:15:51,330 INFO mitsubishi_batch_generate: Normalized 559 records
+2026-04-16 06:15:51,347 INFO mitsubishi_batch_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-lancer-cargo.csv
+2026-04-16 06:15:51,362 INFO mitsubishi_batch_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-lancer-cargo_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-lancer-cargo_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-lancer-cargo_overall_summary.csv
+2026-04-16 06:15:51,377 INFO mitsubishi_batch_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-lancer-cargo-kaitori-soba-2026.md
+2026-04-16 06:15:51,380 INFO mitsubishi_batch_generate: Target model: mitsubishi-lancer-wagon
+2026-04-16 06:15:51,380 INFO mitsubishi_batch_generate: Source: kurumaerabi_kaitori
+2026-04-16 06:15:51,380 INFO mitsubishi_batch_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/2732/ (root)
+2026-04-16 06:15:52,014 INFO mitsubishi_batch_generate: Parsed 188 candidate records
+2026-04-16 06:15:52,027 INFO mitsubishi_batch_generate: Normalized 188 records
+2026-04-16 06:15:52,032 INFO mitsubishi_batch_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-lancer-wagon.csv
+2026-04-16 06:15:52,040 INFO mitsubishi_batch_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-lancer-wagon_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-lancer-wagon_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-lancer-wagon_overall_summary.csv
+2026-04-16 06:15:52,049 INFO mitsubishi_batch_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-lancer-wagon-kaitori-soba-2026.md
+2026-04-16 06:15:52,051 INFO mitsubishi_batch_generate: Target model: mitsubishi-legnum
+2026-04-16 06:15:52,051 INFO mitsubishi_batch_generate: Source: kurumaerabi_kaitori
+2026-04-16 06:15:52,051 INFO mitsubishi_batch_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/7734/ (root)
+2026-04-16 06:15:54,055 INFO mitsubishi_batch_generate: Parsed 237 candidate records
+2026-04-16 06:15:54,069 INFO mitsubishi_batch_generate: Normalized 237 records
+2026-04-16 06:15:54,073 INFO mitsubishi_batch_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-legnum.csv
+2026-04-16 06:15:54,083 INFO mitsubishi_batch_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-legnum_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-legnum_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-legnum_overall_summary.csv
+2026-04-16 06:15:54,090 INFO mitsubishi_batch_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-legnum-kaitori-soba-2026.md
+2026-04-16 06:15:54,091 INFO mitsubishi_batch_generate: Target model: mitsubishi-colt
+2026-04-16 06:15:54,091 INFO mitsubishi_batch_generate: Source: kurumaerabi_kaitori
+2026-04-16 06:15:54,092 INFO mitsubishi_batch_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/4755/ (root)
+2026-04-16 06:15:56,097 INFO mitsubishi_batch_generate: Parsed 1022 candidate records
+2026-04-16 06:15:56,154 INFO mitsubishi_batch_generate: Normalized 1022 records
+2026-04-16 06:15:56,173 INFO mitsubishi_batch_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-colt.csv
+2026-04-16 06:15:56,189 INFO mitsubishi_batch_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-colt_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-colt_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-colt_overall_summary.csv
+2026-04-16 06:15:56,197 INFO mitsubishi_batch_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-colt-kaitori-soba-2026.md
+2026-04-16 06:15:56,199 INFO mitsubishi_batch_generate: Target model: mitsubishi-colt-plus
+2026-04-16 06:15:56,199 INFO mitsubishi_batch_generate: Source: kurumaerabi_kaitori
+2026-04-16 06:15:56,199 INFO mitsubishi_batch_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/8176/ (root)
+2026-04-16 06:15:57,627 INFO mitsubishi_batch_generate: Parsed 919 candidate records
+2026-04-16 06:15:57,673 INFO mitsubishi_batch_generate: Normalized 919 records
+2026-04-16 06:15:57,692 INFO mitsubishi_batch_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-colt-plus.csv
+2026-04-16 06:15:57,703 INFO mitsubishi_batch_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-colt-plus_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-colt-plus_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-colt-plus_overall_summary.csv
+2026-04-16 06:15:57,714 INFO mitsubishi_batch_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-colt-plus-kaitori-soba-2026.md
+2026-04-16 06:15:57,716 INFO mitsubishi_batch_generate: Target model: mitsubishi-dion
+2026-04-16 06:15:57,716 INFO mitsubishi_batch_generate: Source: kurumaerabi_kaitori
+2026-04-16 06:15:57,716 INFO mitsubishi_batch_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/3482/ (root)
+2026-04-16 06:15:58,363 INFO mitsubishi_batch_generate: Parsed 144 candidate records
+2026-04-16 06:15:58,369 INFO mitsubishi_batch_generate: Normalized 144 records
+2026-04-16 06:15:58,373 INFO mitsubishi_batch_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-dion.csv
+2026-04-16 06:15:58,379 INFO mitsubishi_batch_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-dion_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-dion_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-dion_overall_summary.csv
+2026-04-16 06:15:58,384 INFO mitsubishi_batch_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-dion-kaitori-soba-2026.md
+2026-04-16 06:15:58,386 INFO mitsubishi_batch_generate: Target model: mitsubishi-delica-space-gear
+2026-04-16 06:15:58,386 INFO mitsubishi_batch_generate: Source: kurumaerabi_kaitori
+2026-04-16 06:15:58,386 INFO mitsubishi_batch_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/7973/ (root)
+2026-04-16 06:16:00,464 INFO mitsubishi_batch_generate: Parsed 1027 candidate records
+2026-04-16 06:16:00,513 INFO mitsubishi_batch_generate: Normalized 1027 records
+2026-04-16 06:16:00,530 INFO mitsubishi_batch_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-delica-space-gear.csv
+2026-04-16 06:16:00,553 INFO mitsubishi_batch_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-delica-space-gear_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-delica-space-gear_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-delica-space-gear_overall_summary.csv
+2026-04-16 06:16:00,563 INFO mitsubishi_batch_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-delica-space-gear-kaitori-soba-2026.md
+2026-04-16 06:16:00,565 INFO mitsubishi_batch_generate: Target model: mitsubishi-delica-van
+2026-04-16 06:16:00,566 INFO mitsubishi_batch_generate: Source: kurumaerabi_kaitori
+2026-04-16 06:16:00,566 INFO mitsubishi_batch_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/15586/ (root)
+2026-04-16 06:16:01,497 INFO mitsubishi_batch_generate: Parsed 512 candidate records
+2026-04-16 06:16:01,530 INFO mitsubishi_batch_generate: Normalized 512 records
+2026-04-16 06:16:01,538 INFO mitsubishi_batch_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-delica-van.csv
+2026-04-16 06:16:01,556 INFO mitsubishi_batch_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-delica-van_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-delica-van_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-delica-van_overall_summary.csv
+2026-04-16 06:16:01,568 INFO mitsubishi_batch_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-delica-van-kaitori-soba-2026.md
+2026-04-16 06:16:01,570 INFO mitsubishi_batch_generate: Target model: mitsubishi-diamante
+2026-04-16 06:16:01,570 INFO mitsubishi_batch_generate: Source: kurumaerabi_kaitori
+2026-04-16 06:16:01,571 INFO mitsubishi_batch_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/13573/ (root)
+2026-04-16 06:16:02,317 INFO mitsubishi_batch_generate: Parsed 123 candidate records
+2026-04-16 06:16:02,325 INFO mitsubishi_batch_generate: Normalized 123 records
+2026-04-16 06:16:02,328 INFO mitsubishi_batch_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-diamante.csv
+2026-04-16 06:16:02,331 INFO mitsubishi_batch_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-diamante_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-diamante_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-diamante_overall_summary.csv
+2026-04-16 06:16:02,336 INFO mitsubishi_batch_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-diamante-kaitori-soba-2026.md
+2026-04-16 06:16:02,338 INFO mitsubishi_batch_generate: Target model: mitsubishi-minica
+2026-04-16 06:16:02,338 INFO mitsubishi_batch_generate: Source: kurumaerabi_kaitori
+2026-04-16 06:16:02,338 INFO mitsubishi_batch_generate: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/6/17178/ (root)
+2026-04-16 06:16:03,182 INFO mitsubishi_batch_generate: Parsed 344 candidate records
+2026-04-16 06:16:03,200 INFO mitsubishi_batch_generate: Normalized 344 records
+2026-04-16 06:16:03,207 INFO mitsubishi_batch_generate: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/mitsubishi-minica.csv
+2026-04-16 06:16:03,211 INFO mitsubishi_batch_generate: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-minica_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-minica_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/mitsubishi-minica_overall_summary.csv
+2026-04-16 06:16:03,218 INFO mitsubishi_batch_generate: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/mitsubishi-minica-kaitori-soba-2026.md

@@ -1,0 +1,14 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+nissan-murano,ムラーノ,,2021,2021年式,root,root,1,49.8,49.8,49.8,49.8,49.8,49.8,49.8,"2021年式 / 2.5 250XV FOUR 4WD / 109,000km / 石川県",2021年式,2.5 250XV FOUR 4WD,"109,000km",石川県,manen
+nissan-murano,ムラーノ,,2015,2015年式,root,root,9,22.0,54.5,40.8,44.0,32.5,49.7,54.5,"2015年式 / 3.5 350XV FOUR  4WD / 97,000km / 沖縄県",2015年式,3.5 350XV FOUR  4WD,"97,000km",沖縄県,manen
+nissan-murano,ムラーノ,,2014,2014年式,root,root,44,16.8,60.5,38.1,35.8,31.0,47.6,60.5,"2014年式 / 2.5 250XV モード・ビアネロ / 89,000km / 山形県",2014年式,2.5 250XV モード・ビアネロ,"89,000km",山形県,manen
+nissan-murano,ムラーノ,,2013,2013年式,root,root,119,5.0,65.5,32.5,28.9,22.5,40.2,65.5,"2013年式 / 2.5 250XV / 49,000km / 滋賀県",2013年式,2.5 250XV,"49,000km",滋賀県,manen
+nissan-murano,ムラーノ,,2012,2012年式,root,root,135,5.0,62.5,27.0,25.8,19.5,31.0,62.5,"2012年式 / 2.5 250XV FOUR 4WD / 55,000km / 岩手県",2012年式,2.5 250XV FOUR 4WD,"55,000km",岩手県,manen
+nissan-murano,ムラーノ,,2011,2011年式,root,root,142,5.0,65.5,25.3,23.6,17.1,29.9,65.5,"2011年式 / 2.5 250XV FOUR 4WD / 57,000km / 山形県",2011年式,2.5 250XV FOUR 4WD,"57,000km",山形県,manen
+nissan-murano,ムラーノ,,2010,2010年式,root,root,99,5.0,52.0,20.5,19.2,16.3,22.9,52.0,2010年式 / 2.5 250XV FOUR 4WD / 5万km / 東京都,2010年式,2.5 250XV FOUR 4WD,5万km,東京都,manen
+nissan-murano,ムラーノ,,2009,2009年式,root,root,109,5.0,43.0,21.5,20.3,17.6,25.3,43.0,"2009年式 / 3.5 350XV FOUR  4WD / 79,000km / 群馬県",2009年式,3.5 350XV FOUR  4WD,"79,000km",群馬県,manen
+nissan-murano,ムラーノ,,2008,2008年式,root,root,104,5.0,38.1,20.3,20.2,17.0,22.9,38.1,"2008年式 / 2.5 250XV FOUR 4WD / 67,000km / 神奈川県",2008年式,2.5 250XV FOUR 4WD,"67,000km",神奈川県,manen
+nissan-murano,ムラーノ,,2007,2007年式,root,root,64,10.0,28.5,17.7,18.4,13.2,21.0,28.5,2007年式 / 2.5 250XL FOUR 4WD / 6万km / 千葉県,2007年式,2.5 250XL FOUR 4WD,6万km,千葉県,manen
+nissan-murano,ムラーノ,,2006,2006年式,root,root,66,5.0,25.8,18.2,19.0,15.2,21.4,25.8,"2006年式 / 3.5 350XV / 139,000km / 徳島県",2006年式,3.5 350XV,"139,000km",徳島県,manen
+nissan-murano,ムラーノ,,2005,2005年式,root,root,65,9.7,28.5,20.6,21.0,17.8,23.7,28.5,"2005年式 / 3.5 350XV FOUR  4WD / 43,000km / 徳島県",2005年式,3.5 350XV FOUR  4WD,"43,000km",徳島県,manen
+nissan-murano,ムラーノ,,2004,2004年式,root,root,43,5.0,30.7,19.8,19.6,18.0,22.0,30.7,"2004年式 / 3.5 350XV FOUR  4WD / 88,000km / 宮崎県",2004年式,3.5 350XV FOUR  4WD,"88,000km",宮崎県,manen

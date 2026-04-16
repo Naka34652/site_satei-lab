@@ -1,0 +1,15 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+subaru-impreza-sports-wagon,インプレッサスポーツワゴン,,2007,2007年式,root,root,56,5.0,40.4,12.5,11.2,9.4,13.8,40.4,"2007年式 / 2.0 WRX 4WD / 95,000km / 千葉県",2007年式,2.0 WRX 4WD,"95,000km",千葉県,manen
+subaru-impreza-sports-wagon,インプレッサスポーツワゴン,,2006,2006年式,root,root,191,3.7,40.6,13.0,11.7,8.1,16.9,40.6,"2006年式 / 2.0 WRX 4WD / 108,000km / 青森県",2006年式,2.0 WRX 4WD,"108,000km",青森県,manen
+subaru-impreza-sports-wagon,インプレッサスポーツワゴン,,2005,2005年式,root,root,239,3.6,40.5,14.2,12.6,8.2,18.6,40.5,"2005年式 / 1.5 15i-S 4WD / 59,000km / 広島県",2005年式,1.5 15i-S 4WD,"59,000km",広島県,manen
+subaru-impreza-sports-wagon,インプレッサスポーツワゴン,,2004,2004年式,root,root,146,3.6,40.5,13.5,11.1,7.2,17.1,40.5,"2004年式 / 2.0 WRX 4WD / 52,000km / 岩手県",2004年式,2.0 WRX 4WD,"52,000km",岩手県,manen
+subaru-impreza-sports-wagon,インプレッサスポーツワゴン,,2003,2003年式,root,root,85,3.6,40.5,13.4,11.7,8.7,17.1,40.5,"2003年式 / 2.0 20S 4WD / 44,000km / 秋田県",2003年式,2.0 20S 4WD,"44,000km",秋田県,manen
+subaru-impreza-sports-wagon,インプレッサスポーツワゴン,,2002,2002年式,root,root,81,4.0,39.5,13.0,10.8,8.5,16.9,39.5,"2002年式 / 2.0 WRX 4WD / 65,000km / 茨城県",2002年式,2.0 WRX 4WD,"65,000km",茨城県,manen
+subaru-impreza-sports-wagon,インプレッサスポーツワゴン,,2001,2001年式,root,root,71,4.0,33.6,14.6,13.6,9.0,18.6,33.6,"2001年式 / 2.0 20K 4WD / 34,000km / 滋賀県",2001年式,2.0 20K 4WD,"34,000km",滋賀県,manen
+subaru-impreza-sports-wagon,インプレッサスポーツワゴン,,2000,2000年式,root,root,70,3.6,38.0,12.7,11.8,8.0,16.0,38.0,"2000年式 / 2.0 HX-20S 4WD / 121,000km / 福岡県",2000年式,2.0 HX-20S 4WD,"121,000km",福岡県,manen
+subaru-impreza-sports-wagon,インプレッサスポーツワゴン,,1999,1999年式,root,root,37,3.6,30.0,10.9,8.5,5.1,14.0,30.0,1999年式 / 1.5 カサブランカ / 11万km / 島根県,1999年式,1.5 カサブランカ,11万km,島根県,manen
+subaru-impreza-sports-wagon,インプレッサスポーツワゴン,,1998,1998年式,root,root,10,4.4,20.2,10.3,8.9,5.1,13.5,20.2,"1998年式 / 2.0 SRX 4WD / 102,000km / 千葉県",1998年式,2.0 SRX 4WD,"102,000km",千葉県,manen
+subaru-impreza-sports-wagon,インプレッサスポーツワゴン,,1997,1997年式,root,root,6,3.9,29.0,10.1,7.1,4.5,9.0,29.0,"1997年式 / 2.0 WRX 4WD / 98,000km / 岩手県",1997年式,2.0 WRX 4WD,"98,000km",岩手県,manen
+subaru-impreza-sports-wagon,インプレッサスポーツワゴン,,1996,1996年式,root,root,3,5.0,21.1,14.0,15.9,5.0,21.1,21.1,"1996年式 / 2.0 グラベルEX 4WD / 79,000km / 山口県",1996年式,2.0 グラベルEX 4WD,"79,000km",山口県,manen
+subaru-impreza-sports-wagon,インプレッサスポーツワゴン,,1995,1995年式,root,root,3,6.2,14.6,9.9,9.0,6.2,14.6,14.6,"1995年式 / 1.8 HX エディションS 4WD / 37,000km / 長崎県",1995年式,1.8 HX エディションS 4WD,"37,000km",長崎県,manen
+subaru-impreza-sports-wagon,インプレッサスポーツワゴン,,1994,1994年式,root,root,2,5.0,6.9,6.0,6.0,5.0,6.9,6.9,1994年式 / 2.0 グラベルEX 4WD / 8万km / 滋賀県,1994年式,2.0 グラベルEX 4WD,8万km,滋賀県,manen

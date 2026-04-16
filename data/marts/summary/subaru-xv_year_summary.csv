@@ -1,0 +1,13 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+subaru-xv,XV,,2023,2023年式,root,root,11,59.0,226.5,161.0,179.5,109.6,213.0,226.5,"2023年式 / 1.6i-L アイサイト 4WD / 39,000km / 長崎県",2023年式,1.6i-L アイサイト 4WD,"39,000km",長崎県,manen
+subaru-xv,XV,,2022,2022年式,root,root,109,13.0,240.5,176.7,185.5,164.0,198.0,240.5,"2022年式 / 2.0 アドバンス スタイルエディション 4WD / 16,000km / 熊本県",2022年式,2.0 アドバンス スタイルエディション 4WD,"16,000km",熊本県,manen
+subaru-xv,XV,,2021,2021年式,root,root,124,17.5,224.5,172.5,179.0,153.7,197.3,224.5,"2021年式 / 1.6i-L アイサイト 4WD / 14,000km / 埼玉県",2021年式,1.6i-L アイサイト 4WD,"14,000km",埼玉県,manen
+subaru-xv,XV,,2020,2020年式,root,root,129,72.9,221.4,156.1,160.2,134.3,178.5,221.4,"2020年式 / 1.6i-L アイサイト 4WD / 26,000km / 広島県",2020年式,1.6i-L アイサイト 4WD,"26,000km",広島県,manen
+subaru-xv,XV,,2019,2019年式,root,root,148,21.1,204.1,124.0,125.2,100.7,148.0,204.1,"2019年式 / 1.6i-L アイサイト 4WD / 25,000km / 奈良県",2019年式,1.6i-L アイサイト 4WD,"25,000km",奈良県,manen
+subaru-xv,XV,,2018,2018年式,root,root,130,10.9,190.5,116.8,123.2,90.5,141.5,190.5,"2018年式 / 2.0 アドバンス 4WD / 11,000km / 広島県",2018年式,2.0 アドバンス 4WD,"11,000km",広島県,manen
+subaru-xv,XV,,2017,2017年式,root,root,105,10.0,156.4,97.4,97.0,74.4,121.5,156.4,"2017年式 / 1.6i-L アイサイト 4WD / 52,000km / 東京都",2017年式,1.6i-L アイサイト 4WD,"52,000km",東京都,manen
+subaru-xv,XV,,2016,2016年式,root,root,52,20.8,153.5,69.0,64.5,48.2,82.7,153.5,"2016年式 / 2.0i-S アイサイト 4WD / 9,000km / 山形県",2016年式,2.0i-S アイサイト 4WD,"9,000km",山形県,manen
+subaru-xv,XV,,2015,2015年式,root,root,52,7.5,93.5,51.8,53.6,32.5,68.0,93.5,"2015年式 / 2.0i-L アイサイト 4WD / 59,000km / 青森県",2015年式,2.0i-L アイサイト 4WD,"59,000km",青森県,manen
+subaru-xv,XV,,2014,2014年式,root,root,55,19.8,85.5,47.0,42.9,32.8,61.0,85.5,2014年式 / 2.0i-L アイサイト 4WD / 7万km / 鹿児島県,2014年式,2.0i-L アイサイト 4WD,7万km,鹿児島県,manen
+subaru-xv,XV,,2013,2013年式,root,root,57,19.0,72.8,39.8,37.7,30.3,49.6,72.8,2013年式 / 2.0i-L アイサイト 4WD / 3万km / 静岡県,2013年式,2.0i-L アイサイト 4WD,3万km,静岡県,manen
+subaru-xv,XV,,2012,2012年式,root,root,28,7.8,73.1,38.2,35.0,27.5,48.1,73.1,"2012年式 / 2.0i-L アイサイト 4WD / 48,000km / 長崎県",2012年式,2.0i-L アイサイト 4WD,"48,000km",長崎県,manen

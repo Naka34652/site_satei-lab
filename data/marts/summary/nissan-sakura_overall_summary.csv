@@ -1,0 +1,2 @@
+model_slug,model_name,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+nissan-sakura,サクラ,root,root,214,56.7,187.5,119.1,118.2,101.2,138.9,187.5,"2022年式 / G / 2,000km / 大阪府",2022年式,G,"2,000km",大阪府,manen

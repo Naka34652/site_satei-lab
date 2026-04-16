@@ -1,0 +1,10 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+toyota-corolla-sport,カローラスポーツ,,2025,2025年式,root,root,15,132.5,246.0,208.9,221.0,193.2,231.0,246.0,"2025年式 / 1.8 ハイブリッド G Z / 13,000km / 宮城県",2025年式,1.8 ハイブリッド G Z,"13,000km",宮城県,manen
+toyota-corolla-sport,カローラスポーツ,,2024,2024年式,root,root,28,149.2,250.3,212.6,217.0,197.0,232.0,250.3,"2024年式 / 1.8 ハイブリッド G Z / 2,000km / 愛媛県",2024年式,1.8 ハイブリッド G Z,"2,000km",愛媛県,manen
+toyota-corolla-sport,カローラスポーツ,,2023,2023年式,root,root,74,94.6,249.0,196.2,199.4,175.1,222.6,249.0,"2023年式 / 1.8 ハイブリッド G Z / 14,000km / 滋賀県",2023年式,1.8 ハイブリッド G Z,"14,000km",滋賀県,manen
+toyota-corolla-sport,カローラスポーツ,,2022,2022年式,root,root,142,111.5,248.5,188.7,190.5,163.8,213.0,248.5,"2022年式 / 1.8 ハイブリッド G Z / 14,000km / 愛知県",2022年式,1.8 ハイブリッド G Z,"14,000km",愛知県,manen
+toyota-corolla-sport,カローラスポーツ,,2021,2021年式,root,root,167,82.0,233.0,169.4,170.1,153.1,188.5,233.0,"2021年式 / 1.8 ハイブリッド G Z / 7,000km / 広島県",2021年式,1.8 ハイブリッド G Z,"7,000km",広島県,manen
+toyota-corolla-sport,カローラスポーツ,,2020,2020年式,root,root,200,72.0,221.5,152.5,155.3,131.5,175.2,221.5,"2020年式 / 1.2 GZ 4WD / 15,000km / 奈良県",2020年式,1.2 GZ 4WD,"15,000km",奈良県,manen
+toyota-corolla-sport,カローラスポーツ,,2019,2019年式,root,root,186,73.3,212.0,134.5,134.7,110.9,158.5,212.0,2019年式 / 1.2 GZ / 3万km / 沖縄県,2019年式,1.2 GZ,3万km,沖縄県,manen
+toyota-corolla-sport,カローラスポーツ,,2018,2018年式,root,root,186,66.5,190.0,125.2,123.1,103.3,148.5,190.0,"2018年式 / 1.8 ハイブリッド G Z / 39,000km / 福井県",2018年式,1.8 ハイブリッド G Z,"39,000km",福井県,manen
+toyota-corolla-sport,カローラスポーツ,,2008,2008年式,root,root,2,98.4,126.0,112.2,112.2,98.4,126.0,126.0,"2008年式 / 1.2 GZ / 82,000km / 鹿児島県",2008年式,1.2 GZ,"82,000km",鹿児島県,manen

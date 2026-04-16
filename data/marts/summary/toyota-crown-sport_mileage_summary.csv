@@ -1,0 +1,26 @@
+model_slug,model_name,source_page_type,source_variant_label,mileage_band_label,mileage_min_km,mileage_max_km,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+toyota-crown-sport,クラウンスポーツ,root,root,0万km,0,0,2,429.2,580.4,504.8,504.8,429.2,580.4,580.4,2023年式 / 2.5 Z E-Four 4WD / 0万km / 茨城県,2023年式,2.5 Z E-Four 4WD,0万km,茨城県,manen
+toyota-crown-sport,クラウンスポーツ,root,root,"1,000km",1000,1000,11,430.6,632.0,531.6,526.1,507.8,576.2,632.0,"2024年式 / 2.5 RS E-Four 4WD / 1,000km / 奈良県",2024年式,2.5 RS E-Four 4WD,"1,000km",奈良県,manen
+toyota-crown-sport,クラウンスポーツ,root,root,"2,000km",2000,2000,11,470.5,604.5,531.0,528.0,492.3,569.0,604.5,"2024年式 / 2.5 RS E-Four 4WD / 2,000km / 大分県",2024年式,2.5 RS E-Four 4WD,"2,000km",大分県,manen
+toyota-crown-sport,クラウンスポーツ,root,root,"3,000km",3000,3000,14,457.3,608.5,533.1,530.8,515.5,559.5,608.5,"2024年式 / 2.5 RS E-Four 4WD / 3,000km / 奈良県",2024年式,2.5 RS E-Four 4WD,"3,000km",奈良県,manen
+toyota-crown-sport,クラウンスポーツ,root,root,"4,000km",4000,4000,18,481.4,605.0,524.4,526.5,490.2,551.5,605.0,"2024年式 / 2.5 RS E-Four 4WD / 4,000km / 岡山県",2024年式,2.5 RS E-Four 4WD,"4,000km",岡山県,manen
+toyota-crown-sport,クラウンスポーツ,root,root,"5,000km",5000,5000,9,459.3,642.5,531.9,521.6,485.2,571.0,642.5,"2024年式 / 2.5 RS E-Four 4WD / 5,000km / 熊本県",2024年式,2.5 RS E-Four 4WD,"5,000km",熊本県,manen
+toyota-crown-sport,クラウンスポーツ,root,root,"6,000km",6000,6000,6,478.7,540.5,511.0,509.8,487.5,539.8,540.5,"2024年式 / 2.5 RS E-Four 4WD / 6,000km / 鹿児島県",2024年式,2.5 RS E-Four 4WD,"6,000km",鹿児島県,manen
+toyota-crown-sport,クラウンスポーツ,root,root,"7,000km",7000,7000,7,500.5,608.5,535.7,519.8,519.4,530.3,608.5,"2024年式 / 2.5 RS E-Four 4WD / 7,000km / 愛媛県",2024年式,2.5 RS E-Four 4WD,"7,000km",愛媛県,manen
+toyota-crown-sport,クラウンスポーツ,root,root,"8,000km",8000,8000,11,392.2,624.0,507.5,513.5,457.9,544.5,624.0,"2024年式 / 2.5 RS E-Four 4WD / 8,000km / 熊本県",2024年式,2.5 RS E-Four 4WD,"8,000km",熊本県,manen
+toyota-crown-sport,クラウンスポーツ,root,root,"9,000km",9000,9000,4,521.0,536.5,525.3,521.9,521.3,522.5,536.5,"2024年式 / 2.5 Z E-Four 4WD / 9,000km / 兵庫県",2024年式,2.5 Z E-Four 4WD,"9,000km",兵庫県,manen
+toyota-crown-sport,クラウンスポーツ,root,root,1万km,10000,10000,4,496.7,545.6,527.6,534.0,526.5,541.5,545.6,2024年式 / 2.5 Z E-Four 4WD / 1万km / 栃木県,2024年式,2.5 Z E-Four 4WD,1万km,栃木県,manen
+toyota-crown-sport,クラウンスポーツ,root,root,"11,000km",11000,11000,3,485.8,514.0,499.9,500.0,485.8,514.0,514.0,"2023年式 / 2.5 Z E-Four 4WD / 11,000km / 東京都",2023年式,2.5 Z E-Four 4WD,"11,000km",東京都,manen
+toyota-crown-sport,クラウンスポーツ,root,root,"12,000km",12000,12000,6,442.2,497.5,467.1,462.9,455.0,482.3,497.5,"2023年式 / 2.5 Z E-Four 4WD / 12,000km / 鳥取県",2023年式,2.5 Z E-Four 4WD,"12,000km",鳥取県,manen
+toyota-crown-sport,クラウンスポーツ,root,root,"13,000km",13000,13000,1,457.3,457.3,457.3,457.3,457.3,457.3,457.3,"2024年式 / 2.5 Z E-Four 4WD / 13,000km / 愛知県",2024年式,2.5 Z E-Four 4WD,"13,000km",愛知県,manen
+toyota-crown-sport,クラウンスポーツ,root,root,"14,000km",14000,14000,1,495.0,495.0,495.0,495.0,495.0,495.0,495.0,"2023年式 / 2.5 Z E-Four 4WD / 14,000km / 三重県",2023年式,2.5 Z E-Four 4WD,"14,000km",三重県,manen
+toyota-crown-sport,クラウンスポーツ,root,root,"15,000km",15000,15000,2,486.5,559.0,522.8,522.8,486.5,559.0,559.0,"2024年式 / 2.5 RS E-Four 4WD / 15,000km / 山口県",2024年式,2.5 RS E-Four 4WD,"15,000km",山口県,manen
+toyota-crown-sport,クラウンスポーツ,root,root,"16,000km",16000,16000,2,573.1,594.0,583.5,583.5,573.1,594.0,594.0,"2024年式 / 2.5 RS E-Four 4WD / 16,000km / 滋賀県",2024年式,2.5 RS E-Four 4WD,"16,000km",滋賀県,manen
+toyota-crown-sport,クラウンスポーツ,root,root,"17,000km",17000,17000,2,519.3,561.0,540.1,540.1,519.3,561.0,561.0,"2024年式 / 2.5 RS E-Four 4WD / 17,000km / 東京都",2024年式,2.5 RS E-Four 4WD,"17,000km",東京都,manen
+toyota-crown-sport,クラウンスポーツ,root,root,"19,000km",19000,19000,4,456.5,568.0,502.4,492.6,484.3,501.0,568.0,"2024年式 / 2.5 RS E-Four 4WD / 19,000km / 静岡県",2024年式,2.5 RS E-Four 4WD,"19,000km",静岡県,manen
+toyota-crown-sport,クラウンスポーツ,root,root,2万km,20000,20000,3,396.6,479.5,447.7,467.0,396.6,479.5,479.5,2023年式 / 2.5 Z E-Four 4WD / 2万km / 福岡県,2023年式,2.5 Z E-Four 4WD,2万km,福岡県,manen
+toyota-crown-sport,クラウンスポーツ,root,root,"24,000km",24000,24000,2,430.6,475.8,453.2,453.2,430.6,475.8,475.8,"2024年式 / 2.5 Z E-Four 4WD / 24,000km / 愛知県",2024年式,2.5 Z E-Four 4WD,"24,000km",愛知県,manen
+toyota-crown-sport,クラウンスポーツ,root,root,"25,000km",25000,25000,2,471.6,571.5,521.5,521.5,471.6,571.5,571.5,"2024年式 / 2.5 RS E-Four 4WD / 25,000km / 大分県",2024年式,2.5 RS E-Four 4WD,"25,000km",大分県,manen
+toyota-crown-sport,クラウンスポーツ,root,root,"26,000km",26000,26000,1,479.5,479.5,479.5,479.5,479.5,479.5,479.5,"2023年式 / 2.5 Z E-Four 4WD / 26,000km / 熊本県",2023年式,2.5 Z E-Four 4WD,"26,000km",熊本県,manen
+toyota-crown-sport,クラウンスポーツ,root,root,4万km,40000,40000,1,431.5,431.5,431.5,431.5,431.5,431.5,431.5,2023年式 / 2.5 Z E-Four 4WD / 4万km / 高知県,2023年式,2.5 Z E-Four 4WD,4万km,高知県,manen
+toyota-crown-sport,クラウンスポーツ,root,root,"62,000km",62000,62000,1,430.6,430.6,430.6,430.6,430.6,430.6,430.6,"2023年式 / 2.5 Z E-Four 4WD / 62,000km / 栃木県",2023年式,2.5 Z E-Four 4WD,"62,000km",栃木県,manen

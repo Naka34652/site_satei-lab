@@ -1,0 +1,12 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+subaru-impreza-hatchback,インプレッサハッチバック,,2014,2014年式,root,root,1,38.8,38.8,38.8,38.8,38.8,38.8,38.8,"2014年式 / 1.5 i-S リミテッド / 44,000km / 広島県",2014年式,1.5 i-S リミテッド,"44,000km",広島県,manen
+subaru-impreza-hatchback,インプレッサハッチバック,,2012,2012年式,root,root,4,6.4,14.5,11.6,12.7,11.2,14.1,14.5,"2012年式 / 1.5 i-S 4WD / 126,000km / 新潟県",2012年式,1.5 i-S 4WD,"126,000km",新潟県,manen
+subaru-impreza-hatchback,インプレッサハッチバック,,2011,2011年式,root,root,198,5.0,63.0,21.6,17.9,12.5,27.3,63.0,"2011年式 / 2.0 GT 4WD / 62,000km / 岐阜県",2011年式,2.0 GT 4WD,"62,000km",岐阜県,manen
+subaru-impreza-hatchback,インプレッサハッチバック,,2010,2010年式,root,root,192,3.0,78.5,20.5,16.5,11.2,25.3,78.5,"2010年式 / 1.5 i-S 4WD / 51,000km / 岩手県",2010年式,1.5 i-S 4WD,"51,000km",岩手県,manen
+subaru-impreza-hatchback,インプレッサハッチバック,,2009,2009年式,root,root,207,5.0,72.0,18.7,14.5,9.9,22.8,72.0,2009年式 / 2.0 GT 4WD / 8万km / 佐賀県,2009年式,2.0 GT 4WD,8万km,佐賀県,manen
+subaru-impreza-hatchback,インプレッサハッチバック,,2008,2008年式,root,root,198,5.0,76.0,17.4,13.3,8.9,23.7,76.0,"2008年式 / 2.0 S-GT 4WD / 93,000km / 京都府",2008年式,2.0 S-GT 4WD,"93,000km",京都府,manen
+subaru-impreza-hatchback,インプレッサハッチバック,,2007,2007年式,root,root,189,5.0,78.5,20.4,15.9,10.3,26.7,78.5,"2007年式 / 2.0 S-GT スポーツパッケージ 4WD / 83,000km / 広島県",2007年式,2.0 S-GT スポーツパッケージ 4WD,"83,000km",広島県,manen
+subaru-impreza-hatchback,インプレッサハッチバック,,2006,2006年式,root,root,7,5.7,19.6,12.2,11.5,10.9,13.3,19.6,"2006年式 / 2.0 S-GT スポーツパッケージ 4WD / 86,000km / 和歌山県",2006年式,2.0 S-GT スポーツパッケージ 4WD,"86,000km",和歌山県,manen
+subaru-impreza-hatchback,インプレッサハッチバック,,2003,2003年式,root,root,2,10.1,12.0,11.1,11.1,10.1,12.0,12.0,"2003年式 / 1.5 i-S / 59,000km / 富山県",2003年式,1.5 i-S,"59,000km",富山県,manen
+subaru-impreza-hatchback,インプレッサハッチバック,,1948,1948年式,root,root,1,5.0,5.0,5.0,5.0,5.0,5.0,5.0,"1948年式 / 2.0 i-S / 117,000km / 北海道",1948年式,2.0 i-S,"117,000km",北海道,manen
+subaru-impreza-hatchback,インプレッサハッチバック,,1945,1945年式,root,root,1,7.0,7.0,7.0,7.0,7.0,7.0,7.0,"1945年式 / 1.5 15S / 24,000km / 愛知県",1945年式,1.5 15S,"24,000km",愛知県,manen

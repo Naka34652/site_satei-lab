@@ -1,0 +1,13 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+subaru-levorg,レヴォーグ,,2024,2024年式,root,root,23,187.0,352.5,266.5,256.5,223.8,299.0,352.5,"2024年式 / 1.8 STI スポーツ EX ブラックインテリアセレクション 4WD / 12,000km / 奈良県",2024年式,1.8 STI スポーツ EX ブラックインテリアセレクション 4WD,"12,000km",奈良県,manen
+subaru-levorg,レヴォーグ,,2023,2023年式,root,root,54,138.0,329.2,248.4,250.8,230.0,275.0,329.2,2023年式 / 2.4 STI スポーツR EX 4WD / 1万km / 愛知県,2023年式,2.4 STI スポーツR EX 4WD,1万km,愛知県,manen
+subaru-levorg,レヴォーグ,,2022,2022年式,root,root,78,15.0,352.0,242.2,246.1,200.9,282.0,352.0,"2022年式 / 2.4 STI スポーツR EX 4WD / 16,000km / 鹿児島県",2022年式,2.4 STI スポーツR EX 4WD,"16,000km",鹿児島県,manen
+subaru-levorg,レヴォーグ,,2021,2021年式,root,root,77,109.0,345.0,240.3,248.7,210.5,272.7,345.0,2021年式 / 1.8 STI スポーツ EX 4WD / 1万km / 山梨県,2021年式,1.8 STI スポーツ EX 4WD,1万km,山梨県,manen
+subaru-levorg,レヴォーグ,,2020,2020年式,root,root,87,27.5,346.2,192.4,200.4,149.0,248.2,346.2,2020年式 / 1.8 STI スポーツ EX 4WD / 2万km / 福井県,2020年式,1.8 STI スポーツ EX 4WD,2万km,福井県,manen
+subaru-levorg,レヴォーグ,,2019,2019年式,root,root,95,50.0,254.1,144.9,146.6,120.9,171.5,254.1,"2019年式 / 2.0 STI スポーツ アイサイト ブラック セレクション 4WD / 15,000km / 静岡県",2019年式,2.0 STI スポーツ アイサイト ブラック セレクション 4WD,"15,000km",静岡県,manen
+subaru-levorg,レヴォーグ,,2018,2018年式,root,root,109,25.0,227.5,116.1,118.0,86.0,145.0,227.5,"2018年式 / 1.6 STI スポーツ アイサイト 4WD / 23,000km / 石川県",2018年式,1.6 STI スポーツ アイサイト 4WD,"23,000km",石川県,manen
+subaru-levorg,レヴォーグ,,2017,2017年式,root,root,115,26.6,190.2,105.0,109.7,72.9,127.3,190.2,"2017年式 / 1.6 STI スポーツ アイサイト 4WD / 54,000km / 岩手県",2017年式,1.6 STI スポーツ アイサイト 4WD,"54,000km",岩手県,manen
+subaru-levorg,レヴォーグ,,2016,2016年式,root,root,113,22.5,169.7,86.6,86.4,60.9,110.4,169.7,"2016年式 / 2.0 STI スポーツ アイサイト 4WD / 13,000km / 神奈川県",2016年式,2.0 STI スポーツ アイサイト 4WD,"13,000km",神奈川県,manen
+subaru-levorg,レヴォーグ,,2015,2015年式,root,root,133,14.6,135.8,66.3,67.0,43.8,86.5,135.8,"2015年式 / 1.6 GT-S アイサイト 4WD / 81,000km / 山口県",2015年式,1.6 GT-S アイサイト 4WD,"81,000km",山口県,manen
+subaru-levorg,レヴォーグ,,2014,2014年式,root,root,114,5.0,133.0,60.3,57.1,40.3,79.5,133.0,"2014年式 / 2.0 GT-S アイサイト 4WD / 43,000km / 徳島県",2014年式,2.0 GT-S アイサイト 4WD,"43,000km",徳島県,manen
+subaru-levorg,レヴォーグ,,2013,2013年式,root,root,2,26.3,27.4,26.9,26.9,26.3,27.4,27.4,"2013年式 / 1.6 GT-S アイサイト 4WD / 189,000km / 秋田県",2013年式,1.6 GT-S アイサイト 4WD,"189,000km",秋田県,manen

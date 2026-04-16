@@ -1,0 +1,1366 @@
+2026-04-16 00:09:15,614 INFO run_market_pipeline_batch: Batch market pipeline started for 85 active models
+2026-04-16 00:09:15,616 INFO run_market_pipeline_batch: Target model: toyota-prius
+2026-04-16 00:09:15,616 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:09:15,616 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/155/ (root)
+2026-04-16 00:09:20,717 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/155/2y/ (year_variant)
+2026-04-16 00:09:21,323 INFO run_market_pipeline_batch: Parsed 1181 candidate records
+2026-04-16 00:09:21,378 INFO run_market_pipeline_batch: Normalized 1181 records
+2026-04-16 00:09:21,394 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-prius.csv
+2026-04-16 00:09:21,412 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-prius_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-prius_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-prius_overall_summary.csv
+2026-04-16 00:09:21,419 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-prius-kaitori-soba-2026.md
+2026-04-16 00:09:21,420 INFO run_market_pipeline_batch: Target model: honda-jade
+2026-04-16 00:09:21,421 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:09:21,421 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/22209/ (root)
+2026-04-16 00:09:23,285 INFO run_market_pipeline_batch: Parsed 1017 candidate records
+2026-04-16 00:09:23,336 INFO run_market_pipeline_batch: Normalized 1017 records
+2026-04-16 00:09:23,353 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-jade.csv
+2026-04-16 00:09:23,363 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-jade_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-jade_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-jade_overall_summary.csv
+2026-04-16 00:09:23,370 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-jade-kaitori-soba-2026.md
+2026-04-16 00:09:23,373 INFO run_market_pipeline_batch: Target model: honda-shuttle
+2026-04-16 00:09:23,374 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:09:23,374 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/22246/ (root)
+2026-04-16 00:09:25,015 INFO run_market_pipeline_batch: Parsed 1025 candidate records
+2026-04-16 00:09:25,061 INFO run_market_pipeline_batch: Normalized 1025 records
+2026-04-16 00:09:25,077 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-shuttle.csv
+2026-04-16 00:09:25,091 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-shuttle_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-shuttle_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-shuttle_overall_summary.csv
+2026-04-16 00:09:25,101 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-shuttle-kaitori-soba-2026.md
+2026-04-16 00:09:25,102 INFO run_market_pipeline_batch: Target model: honda-freed
+2026-04-16 00:09:25,102 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:09:25,103 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/21133/ (root)
+2026-04-16 00:09:26,757 INFO run_market_pipeline_batch: Parsed 1040 candidate records
+2026-04-16 00:09:26,814 INFO run_market_pipeline_batch: Normalized 1040 records
+2026-04-16 00:09:26,832 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-freed.csv
+2026-04-16 00:09:26,843 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-freed_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-freed_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-freed_overall_summary.csv
+2026-04-16 00:09:26,850 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-freed-kaitori-soba-2026.md
+2026-04-16 00:09:26,851 INFO run_market_pipeline_batch: Target model: honda-n-box
+2026-04-16 00:09:26,852 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:09:26,852 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/21850/ (root)
+2026-04-16 00:09:28,660 INFO run_market_pipeline_batch: Parsed 1026 candidate records
+2026-04-16 00:09:28,710 INFO run_market_pipeline_batch: Normalized 1026 records
+2026-04-16 00:09:28,728 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-n-box.csv
+2026-04-16 00:09:28,739 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-n-box_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-n-box_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-n-box_overall_summary.csv
+2026-04-16 00:09:28,748 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-n-box-kaitori-soba-2026.md
+2026-04-16 00:09:28,750 INFO run_market_pipeline_batch: Target model: honda-n-wgn
+2026-04-16 00:09:28,750 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:09:28,751 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/22080/ (root)
+2026-04-16 00:09:30,195 INFO run_market_pipeline_batch: Parsed 1025 candidate records
+2026-04-16 00:09:30,242 INFO run_market_pipeline_batch: Normalized 1025 records
+2026-04-16 00:09:30,261 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-n-wgn.csv
+2026-04-16 00:09:30,270 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-n-wgn_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-n-wgn_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-n-wgn_overall_summary.csv
+2026-04-16 00:09:30,277 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-n-wgn-kaitori-soba-2026.md
+2026-04-16 00:09:30,279 INFO run_market_pipeline_batch: Target model: honda-n-one
+2026-04-16 00:09:30,279 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:09:30,279 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/21955/ (root)
+2026-04-16 00:09:31,928 INFO run_market_pipeline_batch: Parsed 1025 candidate records
+2026-04-16 00:09:31,978 INFO run_market_pipeline_batch: Normalized 1025 records
+2026-04-16 00:09:31,995 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-n-one.csv
+2026-04-16 00:09:32,004 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-n-one_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-n-one_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-n-one_overall_summary.csv
+2026-04-16 00:09:32,011 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-n-one-kaitori-soba-2026.md
+2026-04-16 00:09:32,012 INFO run_market_pipeline_batch: Target model: honda-n-van
+2026-04-16 00:09:32,012 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:09:32,013 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/22769/ (root)
+2026-04-16 00:09:33,503 INFO run_market_pipeline_batch: Parsed 1019 candidate records
+2026-04-16 00:09:33,547 INFO run_market_pipeline_batch: Normalized 1019 records
+2026-04-16 00:09:33,564 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-n-van.csv
+2026-04-16 00:09:33,577 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-n-van_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-n-van_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-n-van_overall_summary.csv
+2026-04-16 00:09:33,582 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-n-van-kaitori-soba-2026.md
+2026-04-16 00:09:33,583 INFO run_market_pipeline_batch: Target model: honda-fit
+2026-04-16 00:09:33,583 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:09:33,583 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/3620/ (root)
+2026-04-16 00:09:35,573 INFO run_market_pipeline_batch: Parsed 1050 candidate records
+2026-04-16 00:09:35,620 INFO run_market_pipeline_batch: Normalized 1050 records
+2026-04-16 00:09:35,635 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-fit.csv
+2026-04-16 00:09:35,644 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-fit_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-fit_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-fit_overall_summary.csv
+2026-04-16 00:09:35,650 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-fit-kaitori-soba-2026.md
+2026-04-16 00:09:35,652 INFO run_market_pipeline_batch: Target model: honda-vezel
+2026-04-16 00:09:35,652 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:09:35,652 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/22086/ (root)
+2026-04-16 00:09:37,847 INFO run_market_pipeline_batch: Parsed 1030 candidate records
+2026-04-16 00:09:37,897 INFO run_market_pipeline_batch: Normalized 1030 records
+2026-04-16 00:09:37,922 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-vezel.csv
+2026-04-16 00:09:37,934 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-vezel_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-vezel_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-vezel_overall_summary.csv
+2026-04-16 00:09:37,943 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-vezel-kaitori-soba-2026.md
+2026-04-16 00:09:37,944 INFO run_market_pipeline_batch: Target model: honda-wr-v
+2026-04-16 00:09:37,944 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:09:37,945 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/23428/ (root)
+2026-04-16 00:09:38,676 INFO run_market_pipeline_batch: Parsed 73 candidate records
+2026-04-16 00:09:38,686 INFO run_market_pipeline_batch: Normalized 73 records
+2026-04-16 00:09:38,687 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-wr-v.csv
+2026-04-16 00:09:38,689 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-wr-v_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-wr-v_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-wr-v_overall_summary.csv
+2026-04-16 00:09:38,693 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-wr-v-kaitori-soba-2026.md
+2026-04-16 00:09:38,695 INFO run_market_pipeline_batch: Target model: honda-zr-v
+2026-04-16 00:09:38,695 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:09:38,695 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/23340/ (root)
+2026-04-16 00:09:39,646 INFO run_market_pipeline_batch: Parsed 393 candidate records
+2026-04-16 00:09:39,667 INFO run_market_pipeline_batch: Normalized 393 records
+2026-04-16 00:09:39,672 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-zr-v.csv
+2026-04-16 00:09:39,676 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-zr-v_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-zr-v_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-zr-v_overall_summary.csv
+2026-04-16 00:09:39,681 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-zr-v-kaitori-soba-2026.md
+2026-04-16 00:09:39,682 INFO run_market_pipeline_batch: Target model: honda-cr-v
+2026-04-16 00:09:39,682 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:09:39,682 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/3294/ (root)
+2026-04-16 00:09:41,524 INFO run_market_pipeline_batch: Parsed 1039 candidate records
+2026-04-16 00:09:41,571 INFO run_market_pipeline_batch: Normalized 1039 records
+2026-04-16 00:09:41,591 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-cr-v.csv
+2026-04-16 00:09:41,601 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-cr-v_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-cr-v_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-cr-v_overall_summary.csv
+2026-04-16 00:09:41,610 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-cr-v-kaitori-soba-2026.md
+2026-04-16 00:09:41,612 INFO run_market_pipeline_batch: Target model: honda-step-wgn
+2026-04-16 00:09:41,612 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:09:41,612 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/17054/ (root)
+2026-04-16 00:09:43,383 INFO run_market_pipeline_batch: Parsed 1050 candidate records
+2026-04-16 00:09:43,435 INFO run_market_pipeline_batch: Normalized 1050 records
+2026-04-16 00:09:43,452 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-step-wgn.csv
+2026-04-16 00:09:43,464 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-step-wgn_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-step-wgn_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-step-wgn_overall_summary.csv
+2026-04-16 00:09:43,473 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-step-wgn-kaitori-soba-2026.md
+2026-04-16 00:09:43,475 INFO run_market_pipeline_batch: Target model: honda-odyssey
+2026-04-16 00:09:43,475 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:09:43,475 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/17047/ (root)
+2026-04-16 00:09:45,253 INFO run_market_pipeline_batch: Parsed 1048 candidate records
+2026-04-16 00:09:45,297 INFO run_market_pipeline_batch: Normalized 1048 records
+2026-04-16 00:09:45,315 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-odyssey.csv
+2026-04-16 00:09:45,329 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-odyssey_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-odyssey_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-odyssey_overall_summary.csv
+2026-04-16 00:09:45,336 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-odyssey-kaitori-soba-2026.md
+2026-04-16 00:09:45,337 INFO run_market_pipeline_batch: Target model: honda-civic
+2026-04-16 00:09:45,337 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:09:45,338 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/21421/ (root)
+2026-04-16 00:09:46,720 INFO run_market_pipeline_batch: Parsed 1038 candidate records
+2026-04-16 00:09:46,766 INFO run_market_pipeline_batch: Normalized 1038 records
+2026-04-16 00:09:46,780 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-civic.csv
+2026-04-16 00:09:46,789 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-civic_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-civic_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-civic_overall_summary.csv
+2026-04-16 00:09:46,796 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-civic-kaitori-soba-2026.md
+2026-04-16 00:09:46,797 INFO run_market_pipeline_batch: Target model: honda-civic-type-r
+2026-04-16 00:09:46,797 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:09:46,797 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/22395/ (root)
+2026-04-16 00:09:48,394 INFO run_market_pipeline_batch: Parsed 1037 candidate records
+2026-04-16 00:09:48,439 INFO run_market_pipeline_batch: Normalized 1037 records
+2026-04-16 00:09:48,457 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-civic-type-r.csv
+2026-04-16 00:09:48,468 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-civic-type-r_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-civic-type-r_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-civic-type-r_overall_summary.csv
+2026-04-16 00:09:48,475 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-civic-type-r-kaitori-soba-2026.md
+2026-04-16 00:09:48,476 INFO run_market_pipeline_batch: Target model: honda-accord
+2026-04-16 00:09:48,476 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:09:48,476 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/2367/ (root)
+2026-04-16 00:09:50,018 INFO run_market_pipeline_batch: Parsed 1044 candidate records
+2026-04-16 00:09:50,062 INFO run_market_pipeline_batch: Normalized 1044 records
+2026-04-16 00:09:50,079 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-accord.csv
+2026-04-16 00:09:50,094 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-accord_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-accord_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-accord_overall_summary.csv
+2026-04-16 00:09:50,101 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-accord-kaitori-soba-2026.md
+2026-04-16 00:09:50,102 INFO run_market_pipeline_batch: Target model: honda-nsx
+2026-04-16 00:09:50,102 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:09:50,102 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/4191/ (root)
+2026-04-16 00:09:50,717 INFO run_market_pipeline_batch: Parsed 54 candidate records
+2026-04-16 00:09:50,720 INFO run_market_pipeline_batch: Normalized 54 records
+2026-04-16 00:09:50,721 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-nsx.csv
+2026-04-16 00:09:50,724 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-nsx_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-nsx_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-nsx_overall_summary.csv
+2026-04-16 00:09:50,726 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-nsx-kaitori-soba-2026.md
+2026-04-16 00:09:50,727 INFO run_market_pipeline_batch: Target model: honda-s660
+2026-04-16 00:09:50,727 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:09:50,727 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/22239/ (root)
+2026-04-16 00:09:52,222 INFO run_market_pipeline_batch: Parsed 1019 candidate records
+2026-04-16 00:09:52,266 INFO run_market_pipeline_batch: Normalized 1019 records
+2026-04-16 00:09:52,282 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-s660.csv
+2026-04-16 00:09:52,291 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-s660_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-s660_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-s660_overall_summary.csv
+2026-04-16 00:09:52,295 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-s660-kaitori-soba-2026.md
+2026-04-16 00:09:52,296 INFO run_market_pipeline_batch: Target model: honda-s2000
+2026-04-16 00:09:52,296 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:09:52,296 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/269/ (root)
+2026-04-16 00:09:53,681 INFO run_market_pipeline_batch: Parsed 729 candidate records
+2026-04-16 00:09:53,720 INFO run_market_pipeline_batch: Normalized 729 records
+2026-04-16 00:09:53,730 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-s2000.csv
+2026-04-16 00:09:53,739 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-s2000_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-s2000_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-s2000_overall_summary.csv
+2026-04-16 00:09:53,746 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-s2000-kaitori-soba-2026.md
+2026-04-16 00:09:53,747 INFO run_market_pipeline_batch: Target model: honda-beat
+2026-04-16 00:09:53,747 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:09:53,748 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/1234/ (root)
+2026-04-16 00:09:54,428 INFO run_market_pipeline_batch: Parsed 156 candidate records
+2026-04-16 00:09:54,435 INFO run_market_pipeline_batch: Normalized 156 records
+2026-04-16 00:09:54,437 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-beat.csv
+2026-04-16 00:09:54,441 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-beat_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-beat_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-beat_overall_summary.csv
+2026-04-16 00:09:54,444 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-beat-kaitori-soba-2026.md
+2026-04-16 00:09:54,445 INFO run_market_pipeline_batch: Target model: honda-prelude
+2026-04-16 00:09:54,445 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:09:54,445 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/5446/ (root)
+2026-04-16 00:09:55,428 INFO run_market_pipeline_batch: Parsed 436 candidate records
+2026-04-16 00:09:55,448 INFO run_market_pipeline_batch: Normalized 436 records
+2026-04-16 00:09:55,454 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-prelude.csv
+2026-04-16 00:09:55,461 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-prelude_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-prelude_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-prelude_overall_summary.csv
+2026-04-16 00:09:55,466 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-prelude-kaitori-soba-2026.md
+2026-04-16 00:09:55,467 INFO run_market_pipeline_batch: Target model: honda-integra
+2026-04-16 00:09:55,467 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:09:55,467 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/2354/ (root)
+2026-04-16 00:09:57,073 INFO run_market_pipeline_batch: Parsed 1029 candidate records
+2026-04-16 00:09:57,118 INFO run_market_pipeline_batch: Normalized 1029 records
+2026-04-16 00:09:57,134 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-integra.csv
+2026-04-16 00:09:57,145 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-integra_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-integra_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-integra_overall_summary.csv
+2026-04-16 00:09:57,152 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-integra-kaitori-soba-2026.md
+2026-04-16 00:09:57,153 INFO run_market_pipeline_batch: Target model: honda-cr-x
+2026-04-16 00:09:57,153 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:09:57,153 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/3740/ (root)
+2026-04-16 00:09:57,915 INFO run_market_pipeline_batch: Parsed 164 candidate records
+2026-04-16 00:09:57,922 INFO run_market_pipeline_batch: Normalized 164 records
+2026-04-16 00:09:57,925 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-cr-x.csv
+2026-04-16 00:09:57,929 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-cr-x_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-cr-x_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-cr-x_overall_summary.csv
+2026-04-16 00:09:57,932 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-cr-x-kaitori-soba-2026.md
+2026-04-16 00:09:57,933 INFO run_market_pipeline_batch: Target model: honda-insight
+2026-04-16 00:09:57,933 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:09:57,933 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/10587/ (root)
+2026-04-16 00:09:59,432 INFO run_market_pipeline_batch: Parsed 1025 candidate records
+2026-04-16 00:09:59,480 INFO run_market_pipeline_batch: Normalized 1025 records
+2026-04-16 00:09:59,497 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-insight.csv
+2026-04-16 00:09:59,507 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-insight_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-insight_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-insight_overall_summary.csv
+2026-04-16 00:09:59,513 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-insight-kaitori-soba-2026.md
+2026-04-16 00:09:59,514 INFO run_market_pipeline_batch: Target model: honda-grace
+2026-04-16 00:09:59,514 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:09:59,515 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/22199/ (root)
+2026-04-16 00:10:01,314 INFO run_market_pipeline_batch: Parsed 1019 candidate records
+2026-04-16 00:10:01,359 INFO run_market_pipeline_batch: Normalized 1019 records
+2026-04-16 00:10:01,374 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-grace.csv
+2026-04-16 00:10:01,382 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-grace_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-grace_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-grace_overall_summary.csv
+2026-04-16 00:10:01,387 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-grace-kaitori-soba-2026.md
+2026-04-16 00:10:01,388 INFO run_market_pipeline_batch: Target model: honda-stream
+2026-04-16 00:10:01,388 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:10:01,389 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/2380/ (root)
+2026-04-16 00:10:03,092 INFO run_market_pipeline_batch: Parsed 1026 candidate records
+2026-04-16 00:10:03,141 INFO run_market_pipeline_batch: Normalized 1026 records
+2026-04-16 00:10:03,160 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-stream.csv
+2026-04-16 00:10:03,174 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-stream_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-stream_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-stream_overall_summary.csv
+2026-04-16 00:10:03,180 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-stream-kaitori-soba-2026.md
+2026-04-16 00:10:03,180 INFO run_market_pipeline_batch: Target model: honda-airwave
+2026-04-16 00:10:03,180 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:10:03,181 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/5738/ (root)
+2026-04-16 00:10:04,634 INFO run_market_pipeline_batch: Parsed 1017 candidate records
+2026-04-16 00:10:04,678 INFO run_market_pipeline_batch: Normalized 1017 records
+2026-04-16 00:10:04,697 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-airwave.csv
+2026-04-16 00:10:04,708 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-airwave_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-airwave_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-airwave_overall_summary.csv
+2026-04-16 00:10:04,713 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-airwave-kaitori-soba-2026.md
+2026-04-16 00:10:04,714 INFO run_market_pipeline_batch: Target model: toyota-crown
+2026-04-16 00:10:04,714 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:10:04,715 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/72/ (root)
+2026-04-16 00:10:11,617 INFO run_market_pipeline_batch: Parsed 1061 candidate records
+2026-04-16 00:10:11,664 INFO run_market_pipeline_batch: Normalized 1061 records
+2026-04-16 00:10:11,685 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-crown.csv
+2026-04-16 00:10:11,700 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-crown_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-crown_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-crown_overall_summary.csv
+2026-04-16 00:10:11,711 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-crown-kaitori-soba-2026.md
+2026-04-16 00:10:11,713 INFO run_market_pipeline_batch: Target model: toyota-aqua
+2026-04-16 00:10:11,713 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:10:11,713 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/21855/ (root)
+2026-04-16 00:10:13,604 INFO run_market_pipeline_batch: Parsed 1039 candidate records
+2026-04-16 00:10:13,660 INFO run_market_pipeline_batch: Normalized 1039 records
+2026-04-16 00:10:13,680 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-aqua.csv
+2026-04-16 00:10:13,694 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-aqua_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-aqua_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-aqua_overall_summary.csv
+2026-04-16 00:10:13,703 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-aqua-kaitori-soba-2026.md
+2026-04-16 00:10:13,704 INFO run_market_pipeline_batch: Target model: toyota-yaris
+2026-04-16 00:10:13,705 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:10:13,705 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/22970/ (root)
+2026-04-16 00:10:15,234 INFO run_market_pipeline_batch: Parsed 1020 candidate records
+2026-04-16 00:10:15,281 INFO run_market_pipeline_batch: Normalized 1020 records
+2026-04-16 00:10:15,295 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-yaris.csv
+2026-04-16 00:10:15,301 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-yaris_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-yaris_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-yaris_overall_summary.csv
+2026-04-16 00:10:15,307 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-yaris-kaitori-soba-2026.md
+2026-04-16 00:10:15,308 INFO run_market_pipeline_batch: Target model: toyota-yaris-cross
+2026-04-16 00:10:15,308 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:10:15,308 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/23019/ (root)
+2026-04-16 00:10:17,014 INFO run_market_pipeline_batch: Parsed 1021 candidate records
+2026-04-16 00:10:17,069 INFO run_market_pipeline_batch: Normalized 1021 records
+2026-04-16 00:10:17,083 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-yaris-cross.csv
+2026-04-16 00:10:17,090 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-yaris-cross_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-yaris-cross_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-yaris-cross_overall_summary.csv
+2026-04-16 00:10:17,096 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-yaris-cross-kaitori-soba-2026.md
+2026-04-16 00:10:17,099 INFO run_market_pipeline_batch: Target model: toyota-corolla
+2026-04-16 00:10:17,099 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:10:17,099 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/17041/ (root)
+2026-04-16 00:10:18,903 INFO run_market_pipeline_batch: Parsed 1043 candidate records
+2026-04-16 00:10:18,948 INFO run_market_pipeline_batch: Normalized 1043 records
+2026-04-16 00:10:18,963 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-corolla.csv
+2026-04-16 00:10:18,973 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-corolla_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-corolla_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-corolla_overall_summary.csv
+2026-04-16 00:10:18,979 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-corolla-kaitori-soba-2026.md
+2026-04-16 00:10:18,980 INFO run_market_pipeline_batch: Target model: toyota-corolla-touring
+2026-04-16 00:10:18,980 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:10:18,981 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/22947/ (root)
+2026-04-16 00:10:20,582 INFO run_market_pipeline_batch: Parsed 1020 candidate records
+2026-04-16 00:10:20,625 INFO run_market_pipeline_batch: Normalized 1020 records
+2026-04-16 00:10:20,641 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-corolla-touring.csv
+2026-04-16 00:10:20,652 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-corolla-touring_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-corolla-touring_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-corolla-touring_overall_summary.csv
+2026-04-16 00:10:20,659 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-corolla-touring-kaitori-soba-2026.md
+2026-04-16 00:10:20,660 INFO run_market_pipeline_batch: Target model: toyota-corolla-sport
+2026-04-16 00:10:20,660 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:10:20,660 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/22756/ (root)
+2026-04-16 00:10:22,289 INFO run_market_pipeline_batch: Parsed 1021 candidate records
+2026-04-16 00:10:22,340 INFO run_market_pipeline_batch: Normalized 1021 records
+2026-04-16 00:10:22,358 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-corolla-sport.csv
+2026-04-16 00:10:22,366 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-corolla-sport_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-corolla-sport_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-corolla-sport_overall_summary.csv
+2026-04-16 00:10:22,373 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-corolla-sport-kaitori-soba-2026.md
+2026-04-16 00:10:22,374 INFO run_market_pipeline_batch: Target model: toyota-corolla-cross
+2026-04-16 00:10:22,374 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:10:22,374 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/23165/ (root)
+2026-04-16 00:10:23,814 INFO run_market_pipeline_batch: Parsed 916 candidate records
+2026-04-16 00:10:23,851 INFO run_market_pipeline_batch: Normalized 916 records
+2026-04-16 00:10:23,865 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-corolla-cross.csv
+2026-04-16 00:10:23,871 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-corolla-cross_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-corolla-cross_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-corolla-cross_overall_summary.csv
+2026-04-16 00:10:23,876 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-corolla-cross-kaitori-soba-2026.md
+2026-04-16 00:10:23,876 INFO run_market_pipeline_batch: Target model: toyota-sienta
+2026-04-16 00:10:23,876 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:10:23,877 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/2661/ (root)
+2026-04-16 00:10:25,477 INFO run_market_pipeline_batch: Parsed 1047 candidate records
+2026-04-16 00:10:25,521 INFO run_market_pipeline_batch: Normalized 1047 records
+2026-04-16 00:10:25,536 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-sienta.csv
+2026-04-16 00:10:25,545 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-sienta_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-sienta_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-sienta_overall_summary.csv
+2026-04-16 00:10:25,550 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-sienta-kaitori-soba-2026.md
+2026-04-16 00:10:25,551 INFO run_market_pipeline_batch: Target model: toyota-roomy
+2026-04-16 00:10:25,551 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:10:25,552 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/22481/ (root)
+2026-04-16 00:10:27,045 INFO run_market_pipeline_batch: Parsed 1029 candidate records
+2026-04-16 00:10:27,090 INFO run_market_pipeline_batch: Normalized 1029 records
+2026-04-16 00:10:27,110 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-roomy.csv
+2026-04-16 00:10:27,125 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-roomy_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-roomy_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-roomy_overall_summary.csv
+2026-04-16 00:10:27,130 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-roomy-kaitori-soba-2026.md
+2026-04-16 00:10:27,131 INFO run_market_pipeline_batch: Target model: toyota-noah
+2026-04-16 00:10:27,132 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:10:27,132 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/134/ (root)
+2026-04-16 00:10:28,962 INFO run_market_pipeline_batch: Parsed 1048 candidate records
+2026-04-16 00:10:29,015 INFO run_market_pipeline_batch: Normalized 1048 records
+2026-04-16 00:10:29,033 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-noah.csv
+2026-04-16 00:10:29,047 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-noah_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-noah_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-noah_overall_summary.csv
+2026-04-16 00:10:29,056 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-noah-kaitori-soba-2026.md
+2026-04-16 00:10:29,057 INFO run_market_pipeline_batch: Target model: toyota-voxy
+2026-04-16 00:10:29,057 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:10:29,057 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/15951/ (root)
+2026-04-16 00:10:30,697 INFO run_market_pipeline_batch: Parsed 1051 candidate records
+2026-04-16 00:10:30,744 INFO run_market_pipeline_batch: Normalized 1051 records
+2026-04-16 00:10:30,758 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-voxy.csv
+2026-04-16 00:10:30,767 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-voxy_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-voxy_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-voxy_overall_summary.csv
+2026-04-16 00:10:30,774 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-voxy-kaitori-soba-2026.md
+2026-04-16 00:10:30,775 INFO run_market_pipeline_batch: Target model: toyota-alphard
+2026-04-16 00:10:30,775 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:10:30,775 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/3491/ (root)
+2026-04-16 00:10:32,913 INFO run_market_pipeline_batch: Parsed 1049 candidate records
+2026-04-16 00:10:32,955 INFO run_market_pipeline_batch: Normalized 1049 records
+2026-04-16 00:10:32,971 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-alphard.csv
+2026-04-16 00:10:32,982 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-alphard_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-alphard_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-alphard_overall_summary.csv
+2026-04-16 00:10:32,988 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-alphard-kaitori-soba-2026.md
+2026-04-16 00:10:32,990 INFO run_market_pipeline_batch: Target model: toyota-vellfire
+2026-04-16 00:10:32,990 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:10:32,990 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/21130/ (root)
+2026-04-16 00:10:34,639 INFO run_market_pipeline_batch: Parsed 1045 candidate records
+2026-04-16 00:10:34,691 INFO run_market_pipeline_batch: Normalized 1045 records
+2026-04-16 00:10:34,710 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-vellfire.csv
+2026-04-16 00:10:34,724 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-vellfire_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-vellfire_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-vellfire_overall_summary.csv
+2026-04-16 00:10:34,732 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-vellfire-kaitori-soba-2026.md
+2026-04-16 00:10:34,733 INFO run_market_pipeline_batch: Target model: toyota-harrier
+2026-04-16 00:10:34,733 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:10:34,733 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/18556/ (root)
+2026-04-16 00:10:36,364 INFO run_market_pipeline_batch: Parsed 1055 candidate records
+2026-04-16 00:10:36,411 INFO run_market_pipeline_batch: Normalized 1055 records
+2026-04-16 00:10:36,425 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-harrier.csv
+2026-04-16 00:10:36,436 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-harrier_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-harrier_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-harrier_overall_summary.csv
+2026-04-16 00:10:36,443 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-harrier-kaitori-soba-2026.md
+2026-04-16 00:10:36,444 INFO run_market_pipeline_batch: Target model: toyota-rav4
+2026-04-16 00:10:36,444 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:10:36,444 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/2410/ (root)
+2026-04-16 00:10:37,950 INFO run_market_pipeline_batch: Parsed 1041 candidate records
+2026-04-16 00:10:37,994 INFO run_market_pipeline_batch: Normalized 1041 records
+2026-04-16 00:10:38,010 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-rav4.csv
+2026-04-16 00:10:38,019 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-rav4_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-rav4_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-rav4_overall_summary.csv
+2026-04-16 00:10:38,027 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-rav4-kaitori-soba-2026.md
+2026-04-16 00:10:38,028 INFO run_market_pipeline_batch: Target model: toyota-land-cruiser-300
+2026-04-16 00:10:38,028 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:10:38,028 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/23134/ (root)
+2026-04-16 00:10:39,045 INFO run_market_pipeline_batch: Parsed 443 candidate records
+2026-04-16 00:10:39,066 INFO run_market_pipeline_batch: Normalized 443 records
+2026-04-16 00:10:39,076 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-land-cruiser-300.csv
+2026-04-16 00:10:39,081 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-land-cruiser-300_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-land-cruiser-300_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-land-cruiser-300_overall_summary.csv
+2026-04-16 00:10:39,084 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-land-cruiser-300-kaitori-soba-2026.md
+2026-04-16 00:10:39,085 INFO run_market_pipeline_batch: Target model: toyota-land-cruiser-250
+2026-04-16 00:10:39,085 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:10:39,085 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/23533/ (root)
+2026-04-16 00:10:39,874 INFO run_market_pipeline_batch: Parsed 136 candidate records
+2026-04-16 00:10:39,880 INFO run_market_pipeline_batch: Normalized 136 records
+2026-04-16 00:10:39,882 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-land-cruiser-250.csv
+2026-04-16 00:10:39,887 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-land-cruiser-250_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-land-cruiser-250_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-land-cruiser-250_overall_summary.csv
+2026-04-16 00:10:39,890 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-land-cruiser-250-kaitori-soba-2026.md
+2026-04-16 00:10:39,891 INFO run_market_pipeline_batch: Target model: toyota-land-cruiser-70
+2026-04-16 00:10:39,891 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:10:39,891 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/3662/ (root)
+2026-04-16 00:10:40,988 INFO run_market_pipeline_batch: Parsed 353 candidate records
+2026-04-16 00:10:41,004 INFO run_market_pipeline_batch: Normalized 353 records
+2026-04-16 00:10:41,012 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-land-cruiser-70.csv
+2026-04-16 00:10:41,018 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-land-cruiser-70_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-land-cruiser-70_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-land-cruiser-70_overall_summary.csv
+2026-04-16 00:10:41,024 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-land-cruiser-70-kaitori-soba-2026.md
+2026-04-16 00:10:41,026 INFO run_market_pipeline_batch: Target model: toyota-bz4x
+2026-04-16 00:10:41,027 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:10:41,027 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/23263/ (root)
+2026-04-16 00:10:42,510 INFO run_market_pipeline_batch: Parsed 79 candidate records
+2026-04-16 00:10:42,514 INFO run_market_pipeline_batch: Normalized 79 records
+2026-04-16 00:10:42,515 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-bz4x.csv
+2026-04-16 00:10:42,518 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-bz4x_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-bz4x_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-bz4x_overall_summary.csv
+2026-04-16 00:10:42,522 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-bz4x-kaitori-soba-2026.md
+2026-04-16 00:10:42,524 INFO run_market_pipeline_batch: Target model: toyota-mirai
+2026-04-16 00:10:42,524 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:10:42,524 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/22198/ (root)
+2026-04-16 00:10:43,478 INFO run_market_pipeline_batch: Parsed 242 candidate records
+2026-04-16 00:10:43,488 INFO run_market_pipeline_batch: Normalized 242 records
+2026-04-16 00:10:43,493 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-mirai.csv
+2026-04-16 00:10:43,497 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-mirai_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-mirai_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-mirai_overall_summary.csv
+2026-04-16 00:10:43,500 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-mirai-kaitori-soba-2026.md
+2026-04-16 00:10:43,501 INFO run_market_pipeline_batch: Target model: toyota-gr86
+2026-04-16 00:10:43,501 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:10:43,501 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/23174/ (root)
+2026-04-16 00:10:44,563 INFO run_market_pipeline_batch: Parsed 463 candidate records
+2026-04-16 00:10:44,584 INFO run_market_pipeline_batch: Normalized 463 records
+2026-04-16 00:10:44,592 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-gr86.csv
+2026-04-16 00:10:44,597 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-gr86_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-gr86_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-gr86_overall_summary.csv
+2026-04-16 00:10:44,599 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-gr86-kaitori-soba-2026.md
+2026-04-16 00:10:44,600 INFO run_market_pipeline_batch: Target model: toyota-supra
+2026-04-16 00:10:44,600 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:10:44,600 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/21417/ (root)
+2026-04-16 00:10:46,182 INFO run_market_pipeline_batch: Parsed 1033 candidate records
+2026-04-16 00:10:46,228 INFO run_market_pipeline_batch: Normalized 1033 records
+2026-04-16 00:10:46,245 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-supra.csv
+2026-04-16 00:10:46,254 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-supra_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-supra_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-supra_overall_summary.csv
+2026-04-16 00:10:46,261 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-supra-kaitori-soba-2026.md
+2026-04-16 00:10:46,262 INFO run_market_pipeline_batch: Target model: toyota-gr-yaris
+2026-04-16 00:10:46,262 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:10:46,262 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/23020/ (root)
+2026-04-16 00:10:47,412 INFO run_market_pipeline_batch: Parsed 633 candidate records
+2026-04-16 00:10:47,438 INFO run_market_pipeline_batch: Normalized 633 records
+2026-04-16 00:10:47,448 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-gr-yaris.csv
+2026-04-16 00:10:47,453 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-gr-yaris_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-gr-yaris_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-gr-yaris_overall_summary.csv
+2026-04-16 00:10:47,457 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-gr-yaris-kaitori-soba-2026.md
+2026-04-16 00:10:47,458 INFO run_market_pipeline_batch: Target model: toyota-gr-corolla
+2026-04-16 00:10:47,458 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:10:47,459 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/23342/ (root)
+2026-04-16 00:10:48,223 INFO run_market_pipeline_batch: Parsed 62 candidate records
+2026-04-16 00:10:48,226 INFO run_market_pipeline_batch: Normalized 62 records
+2026-04-16 00:10:48,227 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-gr-corolla.csv
+2026-04-16 00:10:48,229 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-gr-corolla_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-gr-corolla_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-gr-corolla_overall_summary.csv
+2026-04-16 00:10:48,231 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-gr-corolla-kaitori-soba-2026.md
+2026-04-16 00:10:48,232 INFO run_market_pipeline_batch: Target model: toyota-century
+2026-04-16 00:10:48,232 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:10:48,232 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/3650/ (root)
+2026-04-16 00:10:49,577 INFO run_market_pipeline_batch: Parsed 1034 candidate records
+2026-04-16 00:10:49,621 INFO run_market_pipeline_batch: Normalized 1034 records
+2026-04-16 00:10:49,636 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-century.csv
+2026-04-16 00:10:49,647 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-century_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-century_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-century_overall_summary.csv
+2026-04-16 00:10:49,656 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-century-kaitori-soba-2026.md
+2026-04-16 00:10:49,657 INFO run_market_pipeline_batch: Target model: toyota-crown-sport
+2026-04-16 00:10:49,657 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:10:49,658 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/23409/ (root)
+2026-04-16 00:10:50,428 INFO run_market_pipeline_batch: Parsed 136 candidate records
+2026-04-16 00:10:50,433 INFO run_market_pipeline_batch: Normalized 136 records
+2026-04-16 00:10:50,436 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-crown-sport.csv
+2026-04-16 00:10:50,440 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-crown-sport_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-crown-sport_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-crown-sport_overall_summary.csv
+2026-04-16 00:10:50,444 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-crown-sport-kaitori-soba-2026.md
+2026-04-16 00:10:50,445 INFO run_market_pipeline_batch: Target model: toyota-crown-sedan
+2026-04-16 00:10:50,445 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:10:50,446 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/22328/ (root)
+2026-04-16 00:10:52,025 INFO run_market_pipeline_batch: Parsed 1042 candidate records
+2026-04-16 00:10:52,084 INFO run_market_pipeline_batch: Normalized 1042 records
+2026-04-16 00:10:52,100 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-crown-sedan.csv
+2026-04-16 00:10:52,158 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-crown-sedan_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-crown-sedan_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-crown-sedan_overall_summary.csv
+2026-04-16 00:10:52,168 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-crown-sedan-kaitori-soba-2026.md
+2026-04-16 00:10:52,169 INFO run_market_pipeline_batch: Target model: toyota-crown-estate
+2026-04-16 00:10:52,169 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:10:52,170 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/3643/ (root)
+2026-04-16 00:10:53,309 INFO run_market_pipeline_batch: Parsed 803 candidate records
+2026-04-16 00:10:53,343 INFO run_market_pipeline_batch: Normalized 803 records
+2026-04-16 00:10:53,355 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-crown-estate.csv
+2026-04-16 00:10:53,364 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-crown-estate_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-crown-estate_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-crown-estate_overall_summary.csv
+2026-04-16 00:10:53,370 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-crown-estate-kaitori-soba-2026.md
+2026-04-16 00:10:53,371 INFO run_market_pipeline_batch: Target model: nissan-note
+2026-04-16 00:10:53,371 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:10:53,371 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/5517/ (root)
+2026-04-16 00:10:55,224 INFO run_market_pipeline_batch: Parsed 1037 candidate records
+2026-04-16 00:10:55,269 INFO run_market_pipeline_batch: Normalized 1037 records
+2026-04-16 00:10:55,287 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-note.csv
+2026-04-16 00:10:55,298 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-note_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-note_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-note_overall_summary.csv
+2026-04-16 00:10:55,307 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-note-kaitori-soba-2026.md
+2026-04-16 00:10:55,308 INFO run_market_pipeline_batch: Target model: nissan-note-aura
+2026-04-16 00:10:55,308 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:10:55,308 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/23141/ (root)
+2026-04-16 00:10:56,522 INFO run_market_pipeline_batch: Parsed 584 candidate records
+2026-04-16 00:10:56,546 INFO run_market_pipeline_batch: Normalized 584 records
+2026-04-16 00:10:56,557 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-note-aura.csv
+2026-04-16 00:10:56,563 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-note-aura_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-note-aura_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-note-aura_overall_summary.csv
+2026-04-16 00:10:56,567 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-note-aura-kaitori-soba-2026.md
+2026-04-16 00:10:56,568 INFO run_market_pipeline_batch: Target model: nissan-serena
+2026-04-16 00:10:56,568 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:10:56,568 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/224/ (root)
+2026-04-16 00:10:58,343 INFO run_market_pipeline_batch: Parsed 1057 candidate records
+2026-04-16 00:10:58,392 INFO run_market_pipeline_batch: Normalized 1057 records
+2026-04-16 00:10:58,410 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-serena.csv
+2026-04-16 00:10:58,418 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-serena_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-serena_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-serena_overall_summary.csv
+2026-04-16 00:10:58,424 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-serena-kaitori-soba-2026.md
+2026-04-16 00:10:58,426 INFO run_market_pipeline_batch: Target model: nissan-x-trail
+2026-04-16 00:10:58,426 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:10:58,426 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/17032/ (root)
+2026-04-16 00:11:00,112 INFO run_market_pipeline_batch: Parsed 1048 candidate records
+2026-04-16 00:11:00,154 INFO run_market_pipeline_batch: Normalized 1048 records
+2026-04-16 00:11:00,174 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-x-trail.csv
+2026-04-16 00:11:00,190 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-x-trail_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-x-trail_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-x-trail_overall_summary.csv
+2026-04-16 00:11:00,199 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-x-trail-kaitori-soba-2026.md
+2026-04-16 00:11:00,200 INFO run_market_pipeline_batch: Target model: nissan-kicks
+2026-04-16 00:11:00,200 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:11:00,200 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/21409/ (root)
+2026-04-16 00:11:01,732 INFO run_market_pipeline_batch: Parsed 1022 candidate records
+2026-04-16 00:11:01,774 INFO run_market_pipeline_batch: Normalized 1022 records
+2026-04-16 00:11:01,787 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-kicks.csv
+2026-04-16 00:11:01,799 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-kicks_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-kicks_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-kicks_overall_summary.csv
+2026-04-16 00:11:01,805 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-kicks-kaitori-soba-2026.md
+2026-04-16 00:11:01,806 INFO run_market_pipeline_batch: Target model: nissan-ariya
+2026-04-16 00:11:01,806 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:11:01,807 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/23030/ (root)
+2026-04-16 00:11:02,590 INFO run_market_pipeline_batch: Parsed 165 candidate records
+2026-04-16 00:11:02,596 INFO run_market_pipeline_batch: Normalized 165 records
+2026-04-16 00:11:02,599 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-ariya.csv
+2026-04-16 00:11:02,602 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-ariya_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-ariya_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-ariya_overall_summary.csv
+2026-04-16 00:11:02,607 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-ariya-kaitori-soba-2026.md
+2026-04-16 00:11:02,607 INFO run_market_pipeline_batch: Target model: nissan-leaf
+2026-04-16 00:11:02,608 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:11:02,608 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/21784/ (root)
+2026-04-16 00:11:04,242 INFO run_market_pipeline_batch: Parsed 1032 candidate records
+2026-04-16 00:11:04,286 INFO run_market_pipeline_batch: Normalized 1032 records
+2026-04-16 00:11:04,304 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-leaf.csv
+2026-04-16 00:11:04,313 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-leaf_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-leaf_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-leaf_overall_summary.csv
+2026-04-16 00:11:04,318 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-leaf-kaitori-soba-2026.md
+2026-04-16 00:11:04,320 INFO run_market_pipeline_batch: Target model: nissan-sakura
+2026-04-16 00:11:04,320 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:11:04,320 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/23278/ (root)
+2026-04-16 00:11:05,447 INFO run_market_pipeline_batch: Parsed 226 candidate records
+2026-04-16 00:11:05,458 INFO run_market_pipeline_batch: Normalized 226 records
+2026-04-16 00:11:05,463 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-sakura.csv
+2026-04-16 00:11:05,465 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-sakura_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-sakura_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-sakura_overall_summary.csv
+2026-04-16 00:11:05,467 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-sakura-kaitori-soba-2026.md
+2026-04-16 00:11:05,468 INFO run_market_pipeline_batch: Target model: nissan-roox
+2026-04-16 00:11:05,468 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:11:05,468 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/21697/ (root)
+2026-04-16 00:11:06,971 INFO run_market_pipeline_batch: Parsed 1027 candidate records
+2026-04-16 00:11:07,042 INFO run_market_pipeline_batch: Normalized 1027 records
+2026-04-16 00:11:07,085 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-roox.csv
+2026-04-16 00:11:07,094 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-roox_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-roox_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-roox_overall_summary.csv
+2026-04-16 00:11:07,101 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-roox-kaitori-soba-2026.md
+2026-04-16 00:11:07,103 INFO run_market_pipeline_batch: Target model: nissan-dayz
+2026-04-16 00:11:07,103 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:11:07,104 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/22025/ (root)
+2026-04-16 00:11:08,594 INFO run_market_pipeline_batch: Parsed 1035 candidate records
+2026-04-16 00:11:08,637 INFO run_market_pipeline_batch: Normalized 1035 records
+2026-04-16 00:11:08,650 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-dayz.csv
+2026-04-16 00:11:08,659 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-dayz_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-dayz_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-dayz_overall_summary.csv
+2026-04-16 00:11:08,663 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-dayz-kaitori-soba-2026.md
+2026-04-16 00:11:08,664 INFO run_market_pipeline_batch: Target model: nissan-elgrand
+2026-04-16 00:11:08,664 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:11:08,664 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/19741/ (root)
+2026-04-16 00:11:10,580 INFO run_market_pipeline_batch: Parsed 1043 candidate records
+2026-04-16 00:11:10,623 INFO run_market_pipeline_batch: Normalized 1043 records
+2026-04-16 00:11:10,638 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-elgrand.csv
+2026-04-16 00:11:10,647 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-elgrand_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-elgrand_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-elgrand_overall_summary.csv
+2026-04-16 00:11:10,653 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-elgrand-kaitori-soba-2026.md
+2026-04-16 00:11:10,654 INFO run_market_pipeline_batch: Target model: nissan-fairlady-z
+2026-04-16 00:11:10,654 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:11:10,655 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/21410/ (root)
+2026-04-16 00:11:12,085 INFO run_market_pipeline_batch: Parsed 1052 candidate records
+2026-04-16 00:11:12,128 INFO run_market_pipeline_batch: Normalized 1052 records
+2026-04-16 00:11:12,145 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-fairlady-z.csv
+2026-04-16 00:11:12,157 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-fairlady-z_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-fairlady-z_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-fairlady-z_overall_summary.csv
+2026-04-16 00:11:12,163 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-fairlady-z-kaitori-soba-2026.md
+2026-04-16 00:11:12,165 INFO run_market_pipeline_batch: Target model: nissan-skyline
+2026-04-16 00:11:12,165 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:11:12,165 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/208/ (root)
+2026-04-16 00:11:13,735 INFO run_market_pipeline_batch: Parsed 1054 candidate records
+2026-04-16 00:11:13,780 INFO run_market_pipeline_batch: Normalized 1054 records
+2026-04-16 00:11:13,799 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-skyline.csv
+2026-04-16 00:11:13,809 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-skyline_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-skyline_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-skyline_overall_summary.csv
+2026-04-16 00:11:13,821 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-skyline-kaitori-soba-2026.md
+2026-04-16 00:11:13,823 INFO run_market_pipeline_batch: Target model: nissan-caravan
+2026-04-16 00:11:13,823 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:11:13,824 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/3132/ (root)
+2026-04-16 00:11:15,267 INFO run_market_pipeline_batch: Parsed 1044 candidate records
+2026-04-16 00:11:15,310 INFO run_market_pipeline_batch: Normalized 1044 records
+2026-04-16 00:11:15,328 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-caravan.csv
+2026-04-16 00:11:15,341 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-caravan_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-caravan_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-caravan_overall_summary.csv
+2026-04-16 00:11:15,352 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-caravan-kaitori-soba-2026.md
+2026-04-16 00:11:15,354 INFO run_market_pipeline_batch: Target model: nissan-nv200-vanette
+2026-04-16 00:11:15,354 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:11:15,354 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/21773/ (root)
+2026-04-16 00:11:17,089 INFO run_market_pipeline_batch: Parsed 1026 candidate records
+2026-04-16 00:11:17,136 INFO run_market_pipeline_batch: Normalized 1026 records
+2026-04-16 00:11:17,151 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-nv200-vanette.csv
+2026-04-16 00:11:17,161 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-nv200-vanette_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-nv200-vanette_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-nv200-vanette_overall_summary.csv
+2026-04-16 00:11:17,167 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-nv200-vanette-kaitori-soba-2026.md
+2026-04-16 00:11:17,168 INFO run_market_pipeline_batch: Target model: nissan-silvia
+2026-04-16 00:11:17,168 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:11:17,168 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/17034/ (root)
+2026-04-16 00:11:18,748 INFO run_market_pipeline_batch: Parsed 1027 candidate records
+2026-04-16 00:11:18,792 INFO run_market_pipeline_batch: Normalized 1027 records
+2026-04-16 00:11:18,810 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-silvia.csv
+2026-04-16 00:11:18,820 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-silvia_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-silvia_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-silvia_overall_summary.csv
+2026-04-16 00:11:18,830 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-silvia-kaitori-soba-2026.md
+2026-04-16 00:11:18,831 INFO run_market_pipeline_batch: Target model: nissan-gt-r
+2026-04-16 00:11:18,831 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:11:18,831 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/8785/ (root)
+2026-04-16 00:11:20,241 INFO run_market_pipeline_batch: Parsed 1028 candidate records
+2026-04-16 00:11:20,285 INFO run_market_pipeline_batch: Normalized 1028 records
+2026-04-16 00:11:20,301 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-gt-r.csv
+2026-04-16 00:11:20,309 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-gt-r_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-gt-r_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-gt-r_overall_summary.csv
+2026-04-16 00:11:20,315 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-gt-r-kaitori-soba-2026.md
+2026-04-16 00:11:20,315 INFO run_market_pipeline_batch: Target model: nissan-march
+2026-04-16 00:11:20,315 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:11:20,316 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/21415/ (root)
+2026-04-16 00:11:22,068 INFO run_market_pipeline_batch: Parsed 1042 candidate records
+2026-04-16 00:11:22,111 INFO run_market_pipeline_batch: Normalized 1042 records
+2026-04-16 00:11:22,134 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-march.csv
+2026-04-16 00:11:22,143 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-march_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-march_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-march_overall_summary.csv
+2026-04-16 00:11:22,152 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-march-kaitori-soba-2026.md
+2026-04-16 00:11:22,154 INFO run_market_pipeline_batch: Target model: nissan-cube
+2026-04-16 00:11:22,154 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:11:22,154 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/18283/ (root)
+2026-04-16 00:11:23,947 INFO run_market_pipeline_batch: Parsed 1034 candidate records
+2026-04-16 00:11:23,991 INFO run_market_pipeline_batch: Normalized 1034 records
+2026-04-16 00:11:24,007 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-cube.csv
+2026-04-16 00:11:24,015 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-cube_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-cube_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-cube_overall_summary.csv
+2026-04-16 00:11:24,022 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-cube-kaitori-soba-2026.md
+2026-04-16 00:11:24,024 INFO run_market_pipeline_batch: Target model: nissan-tiida
+2026-04-16 00:11:24,024 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:11:24,024 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/5574/ (root)
+2026-04-16 00:11:25,639 INFO run_market_pipeline_batch: Parsed 1023 candidate records
+2026-04-16 00:11:25,681 INFO run_market_pipeline_batch: Normalized 1023 records
+2026-04-16 00:11:25,700 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-tiida.csv
+2026-04-16 00:11:25,712 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-tiida_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-tiida_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-tiida_overall_summary.csv
+2026-04-16 00:11:25,723 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-tiida-kaitori-soba-2026.md
+2026-04-16 00:11:25,725 INFO run_market_pipeline_batch: Target model: nissan-teana
+2026-04-16 00:11:25,725 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:11:25,725 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/2741/ (root)
+2026-04-16 00:11:27,206 INFO run_market_pipeline_batch: Parsed 1031 candidate records
+2026-04-16 00:11:27,253 INFO run_market_pipeline_batch: Normalized 1031 records
+2026-04-16 00:11:27,273 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-teana.csv
+2026-04-16 00:11:27,285 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-teana_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-teana_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-teana_overall_summary.csv
+2026-04-16 00:11:27,293 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-teana-kaitori-soba-2026.md
+2026-04-16 00:11:27,293 INFO run_market_pipeline_batch: Target model: nissan-fuga
+2026-04-16 00:11:27,293 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:11:27,294 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/6210/ (root)
+2026-04-16 00:11:28,806 INFO run_market_pipeline_batch: Parsed 1032 candidate records
+2026-04-16 00:11:28,848 INFO run_market_pipeline_batch: Normalized 1032 records
+2026-04-16 00:11:28,864 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-fuga.csv
+2026-04-16 00:11:28,874 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-fuga_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-fuga_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-fuga_overall_summary.csv
+2026-04-16 00:11:28,880 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-fuga-kaitori-soba-2026.md
+2026-04-16 00:11:28,881 INFO run_market_pipeline_batch: Target model: nissan-presage
+2026-04-16 00:11:28,881 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:11:28,881 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/3321/ (root)
+2026-04-16 00:11:30,452 INFO run_market_pipeline_batch: Parsed 1023 candidate records
+2026-04-16 00:11:30,495 INFO run_market_pipeline_batch: Normalized 1023 records
+2026-04-16 00:11:30,513 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-presage.csv
+2026-04-16 00:11:30,523 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-presage_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-presage_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-presage_overall_summary.csv
+2026-04-16 00:11:30,530 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-presage-kaitori-soba-2026.md
+2026-04-16 00:11:30,531 INFO run_market_pipeline_batch: Target model: nissan-lafesta
+2026-04-16 00:11:30,531 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:11:30,531 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/7538/ (root)
+2026-04-16 00:11:32,198 INFO run_market_pipeline_batch: Parsed 1020 candidate records
+2026-04-16 00:11:32,242 INFO run_market_pipeline_batch: Normalized 1020 records
+2026-04-16 00:11:32,261 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-lafesta.csv
+2026-04-16 00:11:32,273 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-lafesta_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-lafesta_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-lafesta_overall_summary.csv
+2026-04-16 00:11:32,281 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-lafesta-kaitori-soba-2026.md
+2026-04-16 00:11:32,283 INFO run_market_pipeline_batch: Target model: nissan-murano
+2026-04-16 00:11:32,283 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:11:32,284 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/4043/ (root)
+2026-04-16 00:11:33,928 INFO run_market_pipeline_batch: Parsed 1024 candidate records
+2026-04-16 00:11:33,968 INFO run_market_pipeline_batch: Normalized 1024 records
+2026-04-16 00:11:33,982 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-murano.csv
+2026-04-16 00:11:33,993 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-murano_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-murano_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-murano_overall_summary.csv
+2026-04-16 00:11:33,999 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-murano-kaitori-soba-2026.md
+2026-04-16 00:11:34,000 INFO run_market_pipeline_batch: Target model: nissan-juke
+2026-04-16 00:11:34,000 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:11:34,000 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/21732/ (root)
+2026-04-16 00:11:35,480 INFO run_market_pipeline_batch: Parsed 1033 candidate records
+2026-04-16 00:11:35,525 INFO run_market_pipeline_batch: Normalized 1033 records
+2026-04-16 00:11:35,540 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-juke.csv
+2026-04-16 00:11:35,550 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-juke_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-juke_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-juke_overall_summary.csv
+2026-04-16 00:11:35,557 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-juke-kaitori-soba-2026.md
+2026-04-16 00:11:35,558 INFO run_market_pipeline_batch: Target model: nissan-bluebird
+2026-04-16 00:11:35,558 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 00:11:35,558 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/2777/ (root)
+2026-04-16 00:11:36,246 INFO run_market_pipeline_batch: Parsed 93 candidate records
+2026-04-16 00:11:36,249 INFO run_market_pipeline_batch: Normalized 93 records
+2026-04-16 00:11:36,251 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-bluebird.csv
+2026-04-16 00:11:36,254 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-bluebird_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-bluebird_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-bluebird_overall_summary.csv
+2026-04-16 00:11:36,259 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-bluebird-kaitori-soba-2026.md
+2026-04-16 00:11:36,259 INFO run_market_pipeline_batch: Batch finished successfully with no failures.
+2026-04-16 01:23:50,969 INFO run_market_pipeline_batch: Batch market pipeline started for 85 active models
+2026-04-16 01:23:50,971 INFO run_market_pipeline_batch: Target model: toyota-prius
+2026-04-16 01:23:50,971 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:23:50,972 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/155/ (root)
+2026-04-16 01:23:53,560 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/155/2y/ (year_variant)
+2026-04-16 01:23:54,245 INFO run_market_pipeline_batch: Parsed 1181 candidate records
+2026-04-16 01:23:54,329 INFO run_market_pipeline_batch: Normalized 1181 records
+2026-04-16 01:23:54,364 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-prius.csv
+2026-04-16 01:23:54,386 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-prius_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-prius_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-prius_overall_summary.csv
+2026-04-16 01:23:54,402 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-prius-kaitori-soba-2026.md
+2026-04-16 01:23:54,403 INFO run_market_pipeline_batch: Target model: honda-jade
+2026-04-16 01:23:54,404 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:23:54,404 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/22209/ (root)
+2026-04-16 01:23:55,946 INFO run_market_pipeline_batch: Parsed 1017 candidate records
+2026-04-16 01:23:56,021 INFO run_market_pipeline_batch: Normalized 1017 records
+2026-04-16 01:23:56,047 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-jade.csv
+2026-04-16 01:23:56,066 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-jade_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-jade_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-jade_overall_summary.csv
+2026-04-16 01:23:56,077 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-jade-kaitori-soba-2026.md
+2026-04-16 01:23:56,079 INFO run_market_pipeline_batch: Target model: honda-shuttle
+2026-04-16 01:23:56,079 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:23:56,079 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/22246/ (root)
+2026-04-16 01:23:57,763 INFO run_market_pipeline_batch: Parsed 1025 candidate records
+2026-04-16 01:23:57,836 INFO run_market_pipeline_batch: Normalized 1025 records
+2026-04-16 01:23:57,864 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-shuttle.csv
+2026-04-16 01:23:57,886 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-shuttle_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-shuttle_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-shuttle_overall_summary.csv
+2026-04-16 01:23:57,899 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-shuttle-kaitori-soba-2026.md
+2026-04-16 01:23:57,901 INFO run_market_pipeline_batch: Target model: honda-freed
+2026-04-16 01:23:57,901 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:23:57,901 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/21133/ (root)
+2026-04-16 01:23:59,731 INFO run_market_pipeline_batch: Parsed 1040 candidate records
+2026-04-16 01:23:59,819 INFO run_market_pipeline_batch: Normalized 1040 records
+2026-04-16 01:23:59,851 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-freed.csv
+2026-04-16 01:23:59,869 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-freed_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-freed_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-freed_overall_summary.csv
+2026-04-16 01:23:59,881 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-freed-kaitori-soba-2026.md
+2026-04-16 01:23:59,885 INFO run_market_pipeline_batch: Target model: honda-n-box
+2026-04-16 01:23:59,885 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:23:59,886 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/21850/ (root)
+2026-04-16 01:24:01,918 INFO run_market_pipeline_batch: Parsed 1026 candidate records
+2026-04-16 01:24:01,994 INFO run_market_pipeline_batch: Normalized 1026 records
+2026-04-16 01:24:02,018 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-n-box.csv
+2026-04-16 01:24:02,035 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-n-box_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-n-box_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-n-box_overall_summary.csv
+2026-04-16 01:24:02,047 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-n-box-kaitori-soba-2026.md
+2026-04-16 01:24:02,049 INFO run_market_pipeline_batch: Target model: honda-n-wgn
+2026-04-16 01:24:02,049 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:24:02,050 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/22080/ (root)
+2026-04-16 01:24:03,914 INFO run_market_pipeline_batch: Parsed 1025 candidate records
+2026-04-16 01:24:03,983 INFO run_market_pipeline_batch: Normalized 1025 records
+2026-04-16 01:24:04,008 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-n-wgn.csv
+2026-04-16 01:24:04,022 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-n-wgn_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-n-wgn_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-n-wgn_overall_summary.csv
+2026-04-16 01:24:04,033 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-n-wgn-kaitori-soba-2026.md
+2026-04-16 01:24:04,035 INFO run_market_pipeline_batch: Target model: honda-n-one
+2026-04-16 01:24:04,035 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:24:04,035 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/21955/ (root)
+2026-04-16 01:24:05,694 INFO run_market_pipeline_batch: Parsed 1025 candidate records
+2026-04-16 01:24:05,778 INFO run_market_pipeline_batch: Normalized 1025 records
+2026-04-16 01:24:05,805 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-n-one.csv
+2026-04-16 01:24:05,824 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-n-one_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-n-one_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-n-one_overall_summary.csv
+2026-04-16 01:24:05,834 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-n-one-kaitori-soba-2026.md
+2026-04-16 01:24:05,836 INFO run_market_pipeline_batch: Target model: honda-n-van
+2026-04-16 01:24:05,836 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:24:05,837 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/22769/ (root)
+2026-04-16 01:24:07,385 INFO run_market_pipeline_batch: Parsed 1019 candidate records
+2026-04-16 01:24:07,462 INFO run_market_pipeline_batch: Normalized 1019 records
+2026-04-16 01:24:07,487 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-n-van.csv
+2026-04-16 01:24:07,508 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-n-van_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-n-van_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-n-van_overall_summary.csv
+2026-04-16 01:24:07,519 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-n-van-kaitori-soba-2026.md
+2026-04-16 01:24:07,521 INFO run_market_pipeline_batch: Target model: honda-fit
+2026-04-16 01:24:07,521 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:24:07,522 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/3620/ (root)
+2026-04-16 01:24:09,791 INFO run_market_pipeline_batch: Parsed 1050 candidate records
+2026-04-16 01:24:09,867 INFO run_market_pipeline_batch: Normalized 1050 records
+2026-04-16 01:24:09,893 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-fit.csv
+2026-04-16 01:24:09,911 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-fit_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-fit_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-fit_overall_summary.csv
+2026-04-16 01:24:09,923 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-fit-kaitori-soba-2026.md
+2026-04-16 01:24:09,925 INFO run_market_pipeline_batch: Target model: honda-vezel
+2026-04-16 01:24:09,925 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:24:09,926 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/22086/ (root)
+2026-04-16 01:24:11,466 INFO run_market_pipeline_batch: Parsed 1030 candidate records
+2026-04-16 01:24:11,542 INFO run_market_pipeline_batch: Normalized 1030 records
+2026-04-16 01:24:11,567 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-vezel.csv
+2026-04-16 01:24:11,586 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-vezel_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-vezel_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-vezel_overall_summary.csv
+2026-04-16 01:24:11,599 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-vezel-kaitori-soba-2026.md
+2026-04-16 01:24:11,600 INFO run_market_pipeline_batch: Target model: honda-wr-v
+2026-04-16 01:24:11,600 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:24:11,601 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/23428/ (root)
+2026-04-16 01:24:12,324 INFO run_market_pipeline_batch: Parsed 73 candidate records
+2026-04-16 01:24:12,330 INFO run_market_pipeline_batch: Normalized 73 records
+2026-04-16 01:24:12,332 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-wr-v.csv
+2026-04-16 01:24:12,335 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-wr-v_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-wr-v_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-wr-v_overall_summary.csv
+2026-04-16 01:24:12,340 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-wr-v-kaitori-soba-2026.md
+2026-04-16 01:24:12,342 INFO run_market_pipeline_batch: Target model: honda-zr-v
+2026-04-16 01:24:12,342 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:24:12,343 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/23340/ (root)
+2026-04-16 01:24:13,435 INFO run_market_pipeline_batch: Parsed 393 candidate records
+2026-04-16 01:24:13,463 INFO run_market_pipeline_batch: Normalized 393 records
+2026-04-16 01:24:13,470 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-zr-v.csv
+2026-04-16 01:24:13,477 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-zr-v_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-zr-v_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-zr-v_overall_summary.csv
+2026-04-16 01:24:13,484 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-zr-v-kaitori-soba-2026.md
+2026-04-16 01:24:13,486 INFO run_market_pipeline_batch: Target model: honda-cr-v
+2026-04-16 01:24:13,486 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:24:13,486 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/3294/ (root)
+2026-04-16 01:24:15,082 INFO run_market_pipeline_batch: Parsed 1039 candidate records
+2026-04-16 01:24:15,151 INFO run_market_pipeline_batch: Normalized 1039 records
+2026-04-16 01:24:15,174 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-cr-v.csv
+2026-04-16 01:24:15,193 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-cr-v_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-cr-v_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-cr-v_overall_summary.csv
+2026-04-16 01:24:15,205 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-cr-v-kaitori-soba-2026.md
+2026-04-16 01:24:15,207 INFO run_market_pipeline_batch: Target model: honda-step-wgn
+2026-04-16 01:24:15,207 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:24:15,207 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/17054/ (root)
+2026-04-16 01:24:17,242 INFO run_market_pipeline_batch: Parsed 1050 candidate records
+2026-04-16 01:24:17,312 INFO run_market_pipeline_batch: Normalized 1050 records
+2026-04-16 01:24:17,336 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-step-wgn.csv
+2026-04-16 01:24:17,353 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-step-wgn_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-step-wgn_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-step-wgn_overall_summary.csv
+2026-04-16 01:24:17,364 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-step-wgn-kaitori-soba-2026.md
+2026-04-16 01:24:17,365 INFO run_market_pipeline_batch: Target model: honda-odyssey
+2026-04-16 01:24:17,365 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:24:17,365 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/17047/ (root)
+2026-04-16 01:24:19,284 INFO run_market_pipeline_batch: Parsed 1048 candidate records
+2026-04-16 01:24:19,359 INFO run_market_pipeline_batch: Normalized 1048 records
+2026-04-16 01:24:19,386 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-odyssey.csv
+2026-04-16 01:24:19,410 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-odyssey_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-odyssey_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-odyssey_overall_summary.csv
+2026-04-16 01:24:19,422 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-odyssey-kaitori-soba-2026.md
+2026-04-16 01:24:19,424 INFO run_market_pipeline_batch: Target model: honda-civic
+2026-04-16 01:24:19,425 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:24:19,425 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/21421/ (root)
+2026-04-16 01:24:21,006 INFO run_market_pipeline_batch: Parsed 1038 candidate records
+2026-04-16 01:24:21,083 INFO run_market_pipeline_batch: Normalized 1038 records
+2026-04-16 01:24:21,108 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-civic.csv
+2026-04-16 01:24:21,135 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-civic_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-civic_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-civic_overall_summary.csv
+2026-04-16 01:24:21,148 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-civic-kaitori-soba-2026.md
+2026-04-16 01:24:21,150 INFO run_market_pipeline_batch: Target model: honda-civic-type-r
+2026-04-16 01:24:21,150 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:24:21,150 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/22395/ (root)
+2026-04-16 01:24:24,522 INFO run_market_pipeline_batch: Parsed 1037 candidate records
+2026-04-16 01:24:24,603 INFO run_market_pipeline_batch: Normalized 1037 records
+2026-04-16 01:24:24,633 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-civic-type-r.csv
+2026-04-16 01:24:24,706 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-civic-type-r_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-civic-type-r_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-civic-type-r_overall_summary.csv
+2026-04-16 01:24:24,719 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-civic-type-r-kaitori-soba-2026.md
+2026-04-16 01:24:24,721 INFO run_market_pipeline_batch: Target model: honda-accord
+2026-04-16 01:24:24,721 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:24:24,721 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/2367/ (root)
+2026-04-16 01:24:26,419 INFO run_market_pipeline_batch: Parsed 1044 candidate records
+2026-04-16 01:24:26,498 INFO run_market_pipeline_batch: Normalized 1044 records
+2026-04-16 01:24:26,523 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-accord.csv
+2026-04-16 01:24:26,545 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-accord_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-accord_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-accord_overall_summary.csv
+2026-04-16 01:24:26,561 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-accord-kaitori-soba-2026.md
+2026-04-16 01:24:26,563 INFO run_market_pipeline_batch: Target model: honda-nsx
+2026-04-16 01:24:26,563 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:24:26,563 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/4191/ (root)
+2026-04-16 01:24:27,252 INFO run_market_pipeline_batch: Parsed 54 candidate records
+2026-04-16 01:24:27,258 INFO run_market_pipeline_batch: Normalized 54 records
+2026-04-16 01:24:27,260 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-nsx.csv
+2026-04-16 01:24:27,264 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-nsx_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-nsx_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-nsx_overall_summary.csv
+2026-04-16 01:24:27,269 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-nsx-kaitori-soba-2026.md
+2026-04-16 01:24:27,271 INFO run_market_pipeline_batch: Target model: honda-s660
+2026-04-16 01:24:27,272 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:24:27,273 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/22239/ (root)
+2026-04-16 01:24:28,973 INFO run_market_pipeline_batch: Parsed 1019 candidate records
+2026-04-16 01:24:29,047 INFO run_market_pipeline_batch: Normalized 1019 records
+2026-04-16 01:24:29,072 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-s660.csv
+2026-04-16 01:24:29,086 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-s660_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-s660_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-s660_overall_summary.csv
+2026-04-16 01:24:29,096 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-s660-kaitori-soba-2026.md
+2026-04-16 01:24:29,098 INFO run_market_pipeline_batch: Target model: honda-s2000
+2026-04-16 01:24:29,098 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:24:29,098 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/269/ (root)
+2026-04-16 01:24:30,319 INFO run_market_pipeline_batch: Parsed 729 candidate records
+2026-04-16 01:24:30,381 INFO run_market_pipeline_batch: Normalized 729 records
+2026-04-16 01:24:30,399 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-s2000.csv
+2026-04-16 01:24:30,413 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-s2000_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-s2000_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-s2000_overall_summary.csv
+2026-04-16 01:24:30,426 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-s2000-kaitori-soba-2026.md
+2026-04-16 01:24:30,428 INFO run_market_pipeline_batch: Target model: honda-beat
+2026-04-16 01:24:30,428 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:24:30,429 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/1234/ (root)
+2026-04-16 01:24:31,262 INFO run_market_pipeline_batch: Parsed 156 candidate records
+2026-04-16 01:24:31,275 INFO run_market_pipeline_batch: Normalized 156 records
+2026-04-16 01:24:31,278 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-beat.csv
+2026-04-16 01:24:31,283 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-beat_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-beat_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-beat_overall_summary.csv
+2026-04-16 01:24:31,290 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-beat-kaitori-soba-2026.md
+2026-04-16 01:24:31,293 INFO run_market_pipeline_batch: Target model: honda-prelude
+2026-04-16 01:24:31,293 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:24:31,294 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/5446/ (root)
+2026-04-16 01:24:32,327 INFO run_market_pipeline_batch: Parsed 436 candidate records
+2026-04-16 01:24:32,359 INFO run_market_pipeline_batch: Normalized 436 records
+2026-04-16 01:24:32,370 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-prelude.csv
+2026-04-16 01:24:32,382 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-prelude_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-prelude_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-prelude_overall_summary.csv
+2026-04-16 01:24:32,394 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-prelude-kaitori-soba-2026.md
+2026-04-16 01:24:32,396 INFO run_market_pipeline_batch: Target model: honda-integra
+2026-04-16 01:24:32,396 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:24:32,396 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/2354/ (root)
+2026-04-16 01:24:34,061 INFO run_market_pipeline_batch: Parsed 1029 candidate records
+2026-04-16 01:24:34,133 INFO run_market_pipeline_batch: Normalized 1029 records
+2026-04-16 01:24:34,165 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-integra.csv
+2026-04-16 01:24:34,183 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-integra_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-integra_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-integra_overall_summary.csv
+2026-04-16 01:24:34,196 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-integra-kaitori-soba-2026.md
+2026-04-16 01:24:34,197 INFO run_market_pipeline_batch: Target model: honda-cr-x
+2026-04-16 01:24:34,198 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:24:34,198 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/3740/ (root)
+2026-04-16 01:24:34,892 INFO run_market_pipeline_batch: Parsed 164 candidate records
+2026-04-16 01:24:34,905 INFO run_market_pipeline_batch: Normalized 164 records
+2026-04-16 01:24:34,909 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-cr-x.csv
+2026-04-16 01:24:34,915 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-cr-x_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-cr-x_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-cr-x_overall_summary.csv
+2026-04-16 01:24:34,928 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-cr-x-kaitori-soba-2026.md
+2026-04-16 01:24:34,930 INFO run_market_pipeline_batch: Target model: honda-insight
+2026-04-16 01:24:34,930 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:24:34,931 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/10587/ (root)
+2026-04-16 01:24:36,475 INFO run_market_pipeline_batch: Parsed 1025 candidate records
+2026-04-16 01:24:36,558 INFO run_market_pipeline_batch: Normalized 1025 records
+2026-04-16 01:24:36,590 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-insight.csv
+2026-04-16 01:24:36,605 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-insight_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-insight_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-insight_overall_summary.csv
+2026-04-16 01:24:36,616 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-insight-kaitori-soba-2026.md
+2026-04-16 01:24:36,618 INFO run_market_pipeline_batch: Target model: honda-grace
+2026-04-16 01:24:36,618 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:24:36,619 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/22199/ (root)
+2026-04-16 01:24:38,864 INFO run_market_pipeline_batch: Parsed 1019 candidate records
+2026-04-16 01:24:38,943 INFO run_market_pipeline_batch: Normalized 1019 records
+2026-04-16 01:24:38,970 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-grace.csv
+2026-04-16 01:24:38,989 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-grace_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-grace_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-grace_overall_summary.csv
+2026-04-16 01:24:38,999 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-grace-kaitori-soba-2026.md
+2026-04-16 01:24:39,001 INFO run_market_pipeline_batch: Target model: honda-stream
+2026-04-16 01:24:39,001 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:24:39,001 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/2380/ (root)
+2026-04-16 01:24:40,554 INFO run_market_pipeline_batch: Parsed 1026 candidate records
+2026-04-16 01:24:40,642 INFO run_market_pipeline_batch: Normalized 1026 records
+2026-04-16 01:24:40,669 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-stream.csv
+2026-04-16 01:24:40,700 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-stream_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-stream_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-stream_overall_summary.csv
+2026-04-16 01:24:40,713 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-stream-kaitori-soba-2026.md
+2026-04-16 01:24:40,715 INFO run_market_pipeline_batch: Target model: honda-airwave
+2026-04-16 01:24:40,715 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:24:40,715 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/5738/ (root)
+2026-04-16 01:24:42,457 INFO run_market_pipeline_batch: Parsed 1017 candidate records
+2026-04-16 01:24:42,548 INFO run_market_pipeline_batch: Normalized 1017 records
+2026-04-16 01:24:42,574 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-airwave.csv
+2026-04-16 01:24:42,592 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-airwave_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-airwave_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-airwave_overall_summary.csv
+2026-04-16 01:24:42,604 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-airwave-kaitori-soba-2026.md
+2026-04-16 01:24:42,606 INFO run_market_pipeline_batch: Target model: toyota-crown
+2026-04-16 01:24:42,606 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:24:42,607 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/72/ (root)
+2026-04-16 01:24:44,464 INFO run_market_pipeline_batch: Parsed 1061 candidate records
+2026-04-16 01:24:44,538 INFO run_market_pipeline_batch: Normalized 1061 records
+2026-04-16 01:24:44,564 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-crown.csv
+2026-04-16 01:24:44,592 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-crown_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-crown_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-crown_overall_summary.csv
+2026-04-16 01:24:44,605 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-crown-kaitori-soba-2026.md
+2026-04-16 01:24:44,607 INFO run_market_pipeline_batch: Target model: toyota-aqua
+2026-04-16 01:24:44,607 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:24:44,607 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/21855/ (root)
+2026-04-16 01:24:46,548 INFO run_market_pipeline_batch: Parsed 1039 candidate records
+2026-04-16 01:24:46,621 INFO run_market_pipeline_batch: Normalized 1039 records
+2026-04-16 01:24:46,651 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-aqua.csv
+2026-04-16 01:24:46,673 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-aqua_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-aqua_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-aqua_overall_summary.csv
+2026-04-16 01:24:46,687 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-aqua-kaitori-soba-2026.md
+2026-04-16 01:24:46,689 INFO run_market_pipeline_batch: Target model: toyota-yaris
+2026-04-16 01:24:46,689 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:24:46,689 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/22970/ (root)
+2026-04-16 01:24:48,868 INFO run_market_pipeline_batch: Parsed 1020 candidate records
+2026-04-16 01:24:48,953 INFO run_market_pipeline_batch: Normalized 1020 records
+2026-04-16 01:24:48,979 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-yaris.csv
+2026-04-16 01:24:48,998 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-yaris_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-yaris_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-yaris_overall_summary.csv
+2026-04-16 01:24:49,008 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-yaris-kaitori-soba-2026.md
+2026-04-16 01:24:49,010 INFO run_market_pipeline_batch: Target model: toyota-yaris-cross
+2026-04-16 01:24:49,010 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:24:49,010 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/23019/ (root)
+2026-04-16 01:24:50,726 INFO run_market_pipeline_batch: Parsed 1021 candidate records
+2026-04-16 01:24:50,805 INFO run_market_pipeline_batch: Normalized 1021 records
+2026-04-16 01:24:50,835 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-yaris-cross.csv
+2026-04-16 01:24:50,851 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-yaris-cross_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-yaris-cross_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-yaris-cross_overall_summary.csv
+2026-04-16 01:24:50,859 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-yaris-cross-kaitori-soba-2026.md
+2026-04-16 01:24:50,861 INFO run_market_pipeline_batch: Target model: toyota-corolla
+2026-04-16 01:24:50,861 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:24:50,861 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/17041/ (root)
+2026-04-16 01:24:52,849 INFO run_market_pipeline_batch: Parsed 1043 candidate records
+2026-04-16 01:24:52,923 INFO run_market_pipeline_batch: Normalized 1043 records
+2026-04-16 01:24:52,949 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-corolla.csv
+2026-04-16 01:24:52,975 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-corolla_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-corolla_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-corolla_overall_summary.csv
+2026-04-16 01:24:52,987 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-corolla-kaitori-soba-2026.md
+2026-04-16 01:24:52,990 INFO run_market_pipeline_batch: Target model: toyota-corolla-touring
+2026-04-16 01:24:52,990 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:24:52,990 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/22947/ (root)
+2026-04-16 01:24:54,782 INFO run_market_pipeline_batch: Parsed 1020 candidate records
+2026-04-16 01:24:54,855 INFO run_market_pipeline_batch: Normalized 1020 records
+2026-04-16 01:24:54,879 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-corolla-touring.csv
+2026-04-16 01:24:54,902 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-corolla-touring_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-corolla-touring_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-corolla-touring_overall_summary.csv
+2026-04-16 01:24:54,913 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-corolla-touring-kaitori-soba-2026.md
+2026-04-16 01:24:54,915 INFO run_market_pipeline_batch: Target model: toyota-corolla-sport
+2026-04-16 01:24:54,915 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:24:54,915 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/22756/ (root)
+2026-04-16 01:24:56,513 INFO run_market_pipeline_batch: Parsed 1021 candidate records
+2026-04-16 01:24:56,589 INFO run_market_pipeline_batch: Normalized 1021 records
+2026-04-16 01:24:56,623 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-corolla-sport.csv
+2026-04-16 01:24:56,637 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-corolla-sport_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-corolla-sport_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-corolla-sport_overall_summary.csv
+2026-04-16 01:24:56,648 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-corolla-sport-kaitori-soba-2026.md
+2026-04-16 01:24:56,650 INFO run_market_pipeline_batch: Target model: toyota-corolla-cross
+2026-04-16 01:24:56,650 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:24:56,650 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/23165/ (root)
+2026-04-16 01:24:57,963 INFO run_market_pipeline_batch: Parsed 916 candidate records
+2026-04-16 01:24:58,029 INFO run_market_pipeline_batch: Normalized 916 records
+2026-04-16 01:24:58,052 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-corolla-cross.csv
+2026-04-16 01:24:58,063 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-corolla-cross_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-corolla-cross_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-corolla-cross_overall_summary.csv
+2026-04-16 01:24:58,073 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-corolla-cross-kaitori-soba-2026.md
+2026-04-16 01:24:58,076 INFO run_market_pipeline_batch: Target model: toyota-sienta
+2026-04-16 01:24:58,076 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:24:58,076 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/2661/ (root)
+2026-04-16 01:25:00,008 INFO run_market_pipeline_batch: Parsed 1047 candidate records
+2026-04-16 01:25:00,096 INFO run_market_pipeline_batch: Normalized 1047 records
+2026-04-16 01:25:00,122 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-sienta.csv
+2026-04-16 01:25:00,141 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-sienta_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-sienta_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-sienta_overall_summary.csv
+2026-04-16 01:25:00,152 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-sienta-kaitori-soba-2026.md
+2026-04-16 01:25:00,154 INFO run_market_pipeline_batch: Target model: toyota-roomy
+2026-04-16 01:25:00,154 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:25:00,155 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/22481/ (root)
+2026-04-16 01:25:01,655 INFO run_market_pipeline_batch: Parsed 1029 candidate records
+2026-04-16 01:25:01,732 INFO run_market_pipeline_batch: Normalized 1029 records
+2026-04-16 01:25:01,758 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-roomy.csv
+2026-04-16 01:25:01,776 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-roomy_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-roomy_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-roomy_overall_summary.csv
+2026-04-16 01:25:01,793 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-roomy-kaitori-soba-2026.md
+2026-04-16 01:25:01,794 INFO run_market_pipeline_batch: Target model: toyota-noah
+2026-04-16 01:25:01,795 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:25:01,795 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/134/ (root)
+2026-04-16 01:25:03,905 INFO run_market_pipeline_batch: Parsed 1048 candidate records
+2026-04-16 01:25:03,983 INFO run_market_pipeline_batch: Normalized 1048 records
+2026-04-16 01:25:04,008 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-noah.csv
+2026-04-16 01:25:04,030 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-noah_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-noah_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-noah_overall_summary.csv
+2026-04-16 01:25:04,044 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-noah-kaitori-soba-2026.md
+2026-04-16 01:25:04,046 INFO run_market_pipeline_batch: Target model: toyota-voxy
+2026-04-16 01:25:04,046 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:25:04,046 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/15951/ (root)
+2026-04-16 01:25:05,805 INFO run_market_pipeline_batch: Parsed 1051 candidate records
+2026-04-16 01:25:05,882 INFO run_market_pipeline_batch: Normalized 1051 records
+2026-04-16 01:25:05,908 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-voxy.csv
+2026-04-16 01:25:05,928 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-voxy_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-voxy_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-voxy_overall_summary.csv
+2026-04-16 01:25:05,940 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-voxy-kaitori-soba-2026.md
+2026-04-16 01:25:05,944 INFO run_market_pipeline_batch: Target model: toyota-alphard
+2026-04-16 01:25:05,944 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:25:05,944 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/3491/ (root)
+2026-04-16 01:25:07,782 INFO run_market_pipeline_batch: Parsed 1049 candidate records
+2026-04-16 01:25:07,864 INFO run_market_pipeline_batch: Normalized 1049 records
+2026-04-16 01:25:07,896 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-alphard.csv
+2026-04-16 01:25:07,915 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-alphard_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-alphard_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-alphard_overall_summary.csv
+2026-04-16 01:25:07,930 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-alphard-kaitori-soba-2026.md
+2026-04-16 01:25:07,932 INFO run_market_pipeline_batch: Target model: toyota-vellfire
+2026-04-16 01:25:07,932 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:25:07,932 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/21130/ (root)
+2026-04-16 01:25:09,506 INFO run_market_pipeline_batch: Parsed 1045 candidate records
+2026-04-16 01:25:09,581 INFO run_market_pipeline_batch: Normalized 1045 records
+2026-04-16 01:25:09,614 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-vellfire.csv
+2026-04-16 01:25:09,636 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-vellfire_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-vellfire_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-vellfire_overall_summary.csv
+2026-04-16 01:25:09,651 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-vellfire-kaitori-soba-2026.md
+2026-04-16 01:25:09,653 INFO run_market_pipeline_batch: Target model: toyota-harrier
+2026-04-16 01:25:09,653 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:25:09,654 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/18556/ (root)
+2026-04-16 01:25:11,624 INFO run_market_pipeline_batch: Parsed 1055 candidate records
+2026-04-16 01:25:11,704 INFO run_market_pipeline_batch: Normalized 1055 records
+2026-04-16 01:25:11,730 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-harrier.csv
+2026-04-16 01:25:11,752 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-harrier_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-harrier_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-harrier_overall_summary.csv
+2026-04-16 01:25:11,767 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-harrier-kaitori-soba-2026.md
+2026-04-16 01:25:11,768 INFO run_market_pipeline_batch: Target model: toyota-rav4
+2026-04-16 01:25:11,769 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:25:11,769 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/2410/ (root)
+2026-04-16 01:25:15,467 INFO run_market_pipeline_batch: Parsed 1041 candidate records
+2026-04-16 01:25:15,544 INFO run_market_pipeline_batch: Normalized 1041 records
+2026-04-16 01:25:15,580 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-rav4.csv
+2026-04-16 01:25:15,601 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-rav4_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-rav4_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-rav4_overall_summary.csv
+2026-04-16 01:25:15,613 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-rav4-kaitori-soba-2026.md
+2026-04-16 01:25:15,615 INFO run_market_pipeline_batch: Target model: toyota-land-cruiser-300
+2026-04-16 01:25:15,615 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:25:15,615 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/23134/ (root)
+2026-04-16 01:25:17,093 INFO run_market_pipeline_batch: Parsed 443 candidate records
+2026-04-16 01:25:17,138 INFO run_market_pipeline_batch: Normalized 443 records
+2026-04-16 01:25:17,155 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-land-cruiser-300.csv
+2026-04-16 01:25:17,184 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-land-cruiser-300_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-land-cruiser-300_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-land-cruiser-300_overall_summary.csv
+2026-04-16 01:25:17,193 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-land-cruiser-300-kaitori-soba-2026.md
+2026-04-16 01:25:17,199 INFO run_market_pipeline_batch: Target model: toyota-land-cruiser-250
+2026-04-16 01:25:17,199 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:25:17,199 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/23533/ (root)
+2026-04-16 01:25:18,223 INFO run_market_pipeline_batch: Parsed 136 candidate records
+2026-04-16 01:25:18,234 INFO run_market_pipeline_batch: Normalized 136 records
+2026-04-16 01:25:18,239 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-land-cruiser-250.csv
+2026-04-16 01:25:18,242 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-land-cruiser-250_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-land-cruiser-250_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-land-cruiser-250_overall_summary.csv
+2026-04-16 01:25:18,247 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-land-cruiser-250-kaitori-soba-2026.md
+2026-04-16 01:25:18,248 INFO run_market_pipeline_batch: Target model: toyota-land-cruiser-70
+2026-04-16 01:25:18,249 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:25:18,249 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/3662/ (root)
+2026-04-16 01:25:19,440 INFO run_market_pipeline_batch: Parsed 353 candidate records
+2026-04-16 01:25:19,468 INFO run_market_pipeline_batch: Normalized 353 records
+2026-04-16 01:25:19,477 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-land-cruiser-70.csv
+2026-04-16 01:25:19,490 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-land-cruiser-70_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-land-cruiser-70_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-land-cruiser-70_overall_summary.csv
+2026-04-16 01:25:19,501 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-land-cruiser-70-kaitori-soba-2026.md
+2026-04-16 01:25:19,504 INFO run_market_pipeline_batch: Target model: toyota-bz4x
+2026-04-16 01:25:19,505 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:25:19,505 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/23263/ (root)
+2026-04-16 01:25:20,246 INFO run_market_pipeline_batch: Parsed 79 candidate records
+2026-04-16 01:25:20,251 INFO run_market_pipeline_batch: Normalized 79 records
+2026-04-16 01:25:20,254 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-bz4x.csv
+2026-04-16 01:25:20,259 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-bz4x_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-bz4x_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-bz4x_overall_summary.csv
+2026-04-16 01:25:20,264 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-bz4x-kaitori-soba-2026.md
+2026-04-16 01:25:20,265 INFO run_market_pipeline_batch: Target model: toyota-mirai
+2026-04-16 01:25:20,266 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:25:20,266 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/22198/ (root)
+2026-04-16 01:25:21,445 INFO run_market_pipeline_batch: Parsed 242 candidate records
+2026-04-16 01:25:21,466 INFO run_market_pipeline_batch: Normalized 242 records
+2026-04-16 01:25:21,472 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-mirai.csv
+2026-04-16 01:25:21,479 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-mirai_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-mirai_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-mirai_overall_summary.csv
+2026-04-16 01:25:21,488 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-mirai-kaitori-soba-2026.md
+2026-04-16 01:25:21,490 INFO run_market_pipeline_batch: Target model: toyota-gr86
+2026-04-16 01:25:21,490 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:25:21,490 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/23174/ (root)
+2026-04-16 01:25:23,060 INFO run_market_pipeline_batch: Parsed 463 candidate records
+2026-04-16 01:25:23,096 INFO run_market_pipeline_batch: Normalized 463 records
+2026-04-16 01:25:23,109 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-gr86.csv
+2026-04-16 01:25:23,115 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-gr86_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-gr86_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-gr86_overall_summary.csv
+2026-04-16 01:25:23,121 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-gr86-kaitori-soba-2026.md
+2026-04-16 01:25:23,123 INFO run_market_pipeline_batch: Target model: toyota-supra
+2026-04-16 01:25:23,123 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:25:23,123 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/21417/ (root)
+2026-04-16 01:25:25,248 INFO run_market_pipeline_batch: Parsed 1033 candidate records
+2026-04-16 01:25:25,331 INFO run_market_pipeline_batch: Normalized 1033 records
+2026-04-16 01:25:25,360 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-supra.csv
+2026-04-16 01:25:25,378 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-supra_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-supra_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-supra_overall_summary.csv
+2026-04-16 01:25:25,390 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-supra-kaitori-soba-2026.md
+2026-04-16 01:25:25,392 INFO run_market_pipeline_batch: Target model: toyota-gr-yaris
+2026-04-16 01:25:25,392 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:25:25,392 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/23020/ (root)
+2026-04-16 01:25:26,838 INFO run_market_pipeline_batch: Parsed 633 candidate records
+2026-04-16 01:25:26,893 INFO run_market_pipeline_batch: Normalized 633 records
+2026-04-16 01:25:26,909 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-gr-yaris.csv
+2026-04-16 01:25:26,919 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-gr-yaris_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-gr-yaris_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-gr-yaris_overall_summary.csv
+2026-04-16 01:25:26,926 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-gr-yaris-kaitori-soba-2026.md
+2026-04-16 01:25:26,928 INFO run_market_pipeline_batch: Target model: toyota-gr-corolla
+2026-04-16 01:25:26,928 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:25:26,928 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/23342/ (root)
+2026-04-16 01:25:27,737 INFO run_market_pipeline_batch: Parsed 62 candidate records
+2026-04-16 01:25:27,742 INFO run_market_pipeline_batch: Normalized 62 records
+2026-04-16 01:25:27,744 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-gr-corolla.csv
+2026-04-16 01:25:27,747 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-gr-corolla_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-gr-corolla_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-gr-corolla_overall_summary.csv
+2026-04-16 01:25:27,751 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-gr-corolla-kaitori-soba-2026.md
+2026-04-16 01:25:27,753 INFO run_market_pipeline_batch: Target model: toyota-century
+2026-04-16 01:25:27,753 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:25:27,755 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/3650/ (root)
+2026-04-16 01:25:29,439 INFO run_market_pipeline_batch: Parsed 1034 candidate records
+2026-04-16 01:25:29,522 INFO run_market_pipeline_batch: Normalized 1034 records
+2026-04-16 01:25:29,558 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-century.csv
+2026-04-16 01:25:29,578 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-century_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-century_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-century_overall_summary.csv
+2026-04-16 01:25:29,593 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-century-kaitori-soba-2026.md
+2026-04-16 01:25:29,594 INFO run_market_pipeline_batch: Target model: toyota-crown-sport
+2026-04-16 01:25:29,595 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:25:29,595 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/23409/ (root)
+2026-04-16 01:25:30,479 INFO run_market_pipeline_batch: Parsed 136 candidate records
+2026-04-16 01:25:30,492 INFO run_market_pipeline_batch: Normalized 136 records
+2026-04-16 01:25:30,496 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-crown-sport.csv
+2026-04-16 01:25:30,499 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-crown-sport_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-crown-sport_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-crown-sport_overall_summary.csv
+2026-04-16 01:25:30,506 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-crown-sport-kaitori-soba-2026.md
+2026-04-16 01:25:30,508 INFO run_market_pipeline_batch: Target model: toyota-crown-sedan
+2026-04-16 01:25:30,508 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:25:30,508 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/22328/ (root)
+2026-04-16 01:25:32,629 INFO run_market_pipeline_batch: Parsed 1042 candidate records
+2026-04-16 01:25:32,707 INFO run_market_pipeline_batch: Normalized 1042 records
+2026-04-16 01:25:32,734 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-crown-sedan.csv
+2026-04-16 01:25:32,766 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-crown-sedan_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-crown-sedan_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-crown-sedan_overall_summary.csv
+2026-04-16 01:25:32,784 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-crown-sedan-kaitori-soba-2026.md
+2026-04-16 01:25:32,786 INFO run_market_pipeline_batch: Target model: toyota-crown-estate
+2026-04-16 01:25:32,787 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:25:32,787 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/3643/ (root)
+2026-04-16 01:25:34,423 INFO run_market_pipeline_batch: Parsed 803 candidate records
+2026-04-16 01:25:34,480 INFO run_market_pipeline_batch: Normalized 803 records
+2026-04-16 01:25:34,500 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-crown-estate.csv
+2026-04-16 01:25:34,514 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-crown-estate_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-crown-estate_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-crown-estate_overall_summary.csv
+2026-04-16 01:25:34,530 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-crown-estate-kaitori-soba-2026.md
+2026-04-16 01:25:34,532 INFO run_market_pipeline_batch: Target model: nissan-note
+2026-04-16 01:25:34,532 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:25:34,533 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/5517/ (root)
+2026-04-16 01:25:36,335 INFO run_market_pipeline_batch: Parsed 1037 candidate records
+2026-04-16 01:25:36,422 INFO run_market_pipeline_batch: Normalized 1037 records
+2026-04-16 01:25:36,448 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-note.csv
+2026-04-16 01:25:36,465 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-note_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-note_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-note_overall_summary.csv
+2026-04-16 01:25:36,477 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-note-kaitori-soba-2026.md
+2026-04-16 01:25:36,478 INFO run_market_pipeline_batch: Target model: nissan-note-aura
+2026-04-16 01:25:36,478 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:25:36,478 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/23141/ (root)
+2026-04-16 01:25:37,677 INFO run_market_pipeline_batch: Parsed 584 candidate records
+2026-04-16 01:25:37,717 INFO run_market_pipeline_batch: Normalized 584 records
+2026-04-16 01:25:37,732 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-note-aura.csv
+2026-04-16 01:25:37,740 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-note-aura_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-note-aura_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-note-aura_overall_summary.csv
+2026-04-16 01:25:37,746 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-note-aura-kaitori-soba-2026.md
+2026-04-16 01:25:37,747 INFO run_market_pipeline_batch: Target model: nissan-serena
+2026-04-16 01:25:37,748 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:25:37,748 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/224/ (root)
+2026-04-16 01:25:39,638 INFO run_market_pipeline_batch: Parsed 1057 candidate records
+2026-04-16 01:25:39,721 INFO run_market_pipeline_batch: Normalized 1057 records
+2026-04-16 01:25:39,746 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-serena.csv
+2026-04-16 01:25:39,765 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-serena_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-serena_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-serena_overall_summary.csv
+2026-04-16 01:25:39,776 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-serena-kaitori-soba-2026.md
+2026-04-16 01:25:39,778 INFO run_market_pipeline_batch: Target model: nissan-x-trail
+2026-04-16 01:25:39,778 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:25:39,778 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/17032/ (root)
+2026-04-16 01:25:41,508 INFO run_market_pipeline_batch: Parsed 1048 candidate records
+2026-04-16 01:25:41,589 INFO run_market_pipeline_batch: Normalized 1048 records
+2026-04-16 01:25:41,619 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-x-trail.csv
+2026-04-16 01:25:41,641 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-x-trail_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-x-trail_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-x-trail_overall_summary.csv
+2026-04-16 01:25:41,653 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-x-trail-kaitori-soba-2026.md
+2026-04-16 01:25:41,658 INFO run_market_pipeline_batch: Target model: nissan-kicks
+2026-04-16 01:25:41,658 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:25:41,658 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/21409/ (root)
+2026-04-16 01:25:43,490 INFO run_market_pipeline_batch: Parsed 1022 candidate records
+2026-04-16 01:25:43,574 INFO run_market_pipeline_batch: Normalized 1022 records
+2026-04-16 01:25:43,601 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-kicks.csv
+2026-04-16 01:25:43,616 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-kicks_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-kicks_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-kicks_overall_summary.csv
+2026-04-16 01:25:43,627 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-kicks-kaitori-soba-2026.md
+2026-04-16 01:25:43,629 INFO run_market_pipeline_batch: Target model: nissan-ariya
+2026-04-16 01:25:43,629 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:25:43,629 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/23030/ (root)
+2026-04-16 01:25:44,523 INFO run_market_pipeline_batch: Parsed 165 candidate records
+2026-04-16 01:25:44,537 INFO run_market_pipeline_batch: Normalized 165 records
+2026-04-16 01:25:44,542 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-ariya.csv
+2026-04-16 01:25:44,546 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-ariya_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-ariya_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-ariya_overall_summary.csv
+2026-04-16 01:25:44,551 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-ariya-kaitori-soba-2026.md
+2026-04-16 01:25:44,552 INFO run_market_pipeline_batch: Target model: nissan-leaf
+2026-04-16 01:25:44,553 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:25:44,553 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/21784/ (root)
+2026-04-16 01:25:46,147 INFO run_market_pipeline_batch: Parsed 1032 candidate records
+2026-04-16 01:25:46,226 INFO run_market_pipeline_batch: Normalized 1032 records
+2026-04-16 01:25:46,254 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-leaf.csv
+2026-04-16 01:25:46,272 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-leaf_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-leaf_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-leaf_overall_summary.csv
+2026-04-16 01:25:46,282 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-leaf-kaitori-soba-2026.md
+2026-04-16 01:25:46,283 INFO run_market_pipeline_batch: Target model: nissan-sakura
+2026-04-16 01:25:46,284 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:25:46,284 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/23278/ (root)
+2026-04-16 01:25:47,129 INFO run_market_pipeline_batch: Parsed 226 candidate records
+2026-04-16 01:25:47,149 INFO run_market_pipeline_batch: Normalized 226 records
+2026-04-16 01:25:47,157 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-sakura.csv
+2026-04-16 01:25:47,161 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-sakura_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-sakura_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-sakura_overall_summary.csv
+2026-04-16 01:25:47,165 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-sakura-kaitori-soba-2026.md
+2026-04-16 01:25:47,166 INFO run_market_pipeline_batch: Target model: nissan-roox
+2026-04-16 01:25:47,166 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:25:47,167 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/21697/ (root)
+2026-04-16 01:25:49,118 INFO run_market_pipeline_batch: Parsed 1027 candidate records
+2026-04-16 01:25:49,192 INFO run_market_pipeline_batch: Normalized 1027 records
+2026-04-16 01:25:49,217 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-roox.csv
+2026-04-16 01:25:49,236 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-roox_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-roox_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-roox_overall_summary.csv
+2026-04-16 01:25:49,249 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-roox-kaitori-soba-2026.md
+2026-04-16 01:25:49,250 INFO run_market_pipeline_batch: Target model: nissan-dayz
+2026-04-16 01:25:49,250 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:25:49,251 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/22025/ (root)
+2026-04-16 01:25:51,025 INFO run_market_pipeline_batch: Parsed 1035 candidate records
+2026-04-16 01:25:51,106 INFO run_market_pipeline_batch: Normalized 1035 records
+2026-04-16 01:25:51,131 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-dayz.csv
+2026-04-16 01:25:51,145 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-dayz_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-dayz_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-dayz_overall_summary.csv
+2026-04-16 01:25:51,155 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-dayz-kaitori-soba-2026.md
+2026-04-16 01:25:51,157 INFO run_market_pipeline_batch: Target model: nissan-elgrand
+2026-04-16 01:25:51,157 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:25:51,157 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/19741/ (root)
+2026-04-16 01:25:58,900 INFO run_market_pipeline_batch: Parsed 1043 candidate records
+2026-04-16 01:25:58,979 INFO run_market_pipeline_batch: Normalized 1043 records
+2026-04-16 01:25:59,008 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-elgrand.csv
+2026-04-16 01:25:59,099 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-elgrand_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-elgrand_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-elgrand_overall_summary.csv
+2026-04-16 01:25:59,112 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-elgrand-kaitori-soba-2026.md
+2026-04-16 01:25:59,114 INFO run_market_pipeline_batch: Target model: nissan-fairlady-z
+2026-04-16 01:25:59,114 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:25:59,115 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/21410/ (root)
+2026-04-16 01:26:00,901 INFO run_market_pipeline_batch: Parsed 1052 candidate records
+2026-04-16 01:26:00,982 INFO run_market_pipeline_batch: Normalized 1052 records
+2026-04-16 01:26:01,008 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-fairlady-z.csv
+2026-04-16 01:26:01,026 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-fairlady-z_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-fairlady-z_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-fairlady-z_overall_summary.csv
+2026-04-16 01:26:01,038 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-fairlady-z-kaitori-soba-2026.md
+2026-04-16 01:26:01,040 INFO run_market_pipeline_batch: Target model: nissan-skyline
+2026-04-16 01:26:01,040 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:26:01,040 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/208/ (root)
+2026-04-16 01:26:02,846 INFO run_market_pipeline_batch: Parsed 1054 candidate records
+2026-04-16 01:26:02,928 INFO run_market_pipeline_batch: Normalized 1054 records
+2026-04-16 01:26:02,956 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-skyline.csv
+2026-04-16 01:26:02,976 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-skyline_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-skyline_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-skyline_overall_summary.csv
+2026-04-16 01:26:02,989 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-skyline-kaitori-soba-2026.md
+2026-04-16 01:26:02,990 INFO run_market_pipeline_batch: Target model: nissan-caravan
+2026-04-16 01:26:02,990 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:26:02,991 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/3132/ (root)
+2026-04-16 01:26:04,934 INFO run_market_pipeline_batch: Parsed 1044 candidate records
+2026-04-16 01:26:05,021 INFO run_market_pipeline_batch: Normalized 1044 records
+2026-04-16 01:26:05,048 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-caravan.csv
+2026-04-16 01:26:05,077 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-caravan_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-caravan_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-caravan_overall_summary.csv
+2026-04-16 01:26:05,093 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-caravan-kaitori-soba-2026.md
+2026-04-16 01:26:05,096 INFO run_market_pipeline_batch: Target model: nissan-nv200-vanette
+2026-04-16 01:26:05,097 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:26:05,097 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/21773/ (root)
+2026-04-16 01:26:07,599 INFO run_market_pipeline_batch: Parsed 1026 candidate records
+2026-04-16 01:26:07,673 INFO run_market_pipeline_batch: Normalized 1026 records
+2026-04-16 01:26:07,705 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-nv200-vanette.csv
+2026-04-16 01:26:07,728 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-nv200-vanette_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-nv200-vanette_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-nv200-vanette_overall_summary.csv
+2026-04-16 01:26:07,742 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-nv200-vanette-kaitori-soba-2026.md
+2026-04-16 01:26:07,743 INFO run_market_pipeline_batch: Target model: nissan-silvia
+2026-04-16 01:26:07,744 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:26:07,744 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/17034/ (root)
+2026-04-16 01:26:09,724 INFO run_market_pipeline_batch: Parsed 1027 candidate records
+2026-04-16 01:26:09,797 INFO run_market_pipeline_batch: Normalized 1027 records
+2026-04-16 01:26:09,826 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-silvia.csv
+2026-04-16 01:26:09,858 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-silvia_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-silvia_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-silvia_overall_summary.csv
+2026-04-16 01:26:09,872 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-silvia-kaitori-soba-2026.md
+2026-04-16 01:26:09,874 INFO run_market_pipeline_batch: Target model: nissan-gt-r
+2026-04-16 01:26:09,874 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:26:09,874 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/8785/ (root)
+2026-04-16 01:26:11,389 INFO run_market_pipeline_batch: Parsed 1028 candidate records
+2026-04-16 01:26:11,463 INFO run_market_pipeline_batch: Normalized 1028 records
+2026-04-16 01:26:11,489 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-gt-r.csv
+2026-04-16 01:26:11,505 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-gt-r_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-gt-r_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-gt-r_overall_summary.csv
+2026-04-16 01:26:11,514 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-gt-r-kaitori-soba-2026.md
+2026-04-16 01:26:11,516 INFO run_market_pipeline_batch: Target model: nissan-march
+2026-04-16 01:26:11,516 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:26:11,516 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/21415/ (root)
+2026-04-16 01:26:13,021 INFO run_market_pipeline_batch: Parsed 1042 candidate records
+2026-04-16 01:26:13,096 INFO run_market_pipeline_batch: Normalized 1042 records
+2026-04-16 01:26:13,121 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-march.csv
+2026-04-16 01:26:13,198 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-march_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-march_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-march_overall_summary.csv
+2026-04-16 01:26:13,210 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-march-kaitori-soba-2026.md
+2026-04-16 01:26:13,213 INFO run_market_pipeline_batch: Target model: nissan-cube
+2026-04-16 01:26:13,213 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:26:13,213 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/18283/ (root)
+2026-04-16 01:26:15,256 INFO run_market_pipeline_batch: Parsed 1034 candidate records
+2026-04-16 01:26:15,333 INFO run_market_pipeline_batch: Normalized 1034 records
+2026-04-16 01:26:15,358 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-cube.csv
+2026-04-16 01:26:15,374 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-cube_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-cube_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-cube_overall_summary.csv
+2026-04-16 01:26:15,384 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-cube-kaitori-soba-2026.md
+2026-04-16 01:26:15,389 INFO run_market_pipeline_batch: Target model: nissan-tiida
+2026-04-16 01:26:15,390 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:26:15,390 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/5574/ (root)
+2026-04-16 01:26:17,035 INFO run_market_pipeline_batch: Parsed 1023 candidate records
+2026-04-16 01:26:17,118 INFO run_market_pipeline_batch: Normalized 1023 records
+2026-04-16 01:26:17,143 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-tiida.csv
+2026-04-16 01:26:17,165 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-tiida_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-tiida_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-tiida_overall_summary.csv
+2026-04-16 01:26:17,176 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-tiida-kaitori-soba-2026.md
+2026-04-16 01:26:17,178 INFO run_market_pipeline_batch: Target model: nissan-teana
+2026-04-16 01:26:17,179 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:26:17,179 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/2741/ (root)
+2026-04-16 01:26:19,888 INFO run_market_pipeline_batch: Parsed 1031 candidate records
+2026-04-16 01:26:19,962 INFO run_market_pipeline_batch: Normalized 1031 records
+2026-04-16 01:26:19,988 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-teana.csv
+2026-04-16 01:26:20,010 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-teana_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-teana_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-teana_overall_summary.csv
+2026-04-16 01:26:20,022 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-teana-kaitori-soba-2026.md
+2026-04-16 01:26:20,024 INFO run_market_pipeline_batch: Target model: nissan-fuga
+2026-04-16 01:26:20,024 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:26:20,024 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/6210/ (root)
+2026-04-16 01:26:22,085 INFO run_market_pipeline_batch: Parsed 1032 candidate records
+2026-04-16 01:26:22,169 INFO run_market_pipeline_batch: Normalized 1032 records
+2026-04-16 01:26:22,197 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-fuga.csv
+2026-04-16 01:26:22,220 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-fuga_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-fuga_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-fuga_overall_summary.csv
+2026-04-16 01:26:22,233 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-fuga-kaitori-soba-2026.md
+2026-04-16 01:26:22,236 INFO run_market_pipeline_batch: Target model: nissan-presage
+2026-04-16 01:26:22,236 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:26:22,236 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/3321/ (root)
+2026-04-16 01:26:24,071 INFO run_market_pipeline_batch: Parsed 1023 candidate records
+2026-04-16 01:26:24,145 INFO run_market_pipeline_batch: Normalized 1023 records
+2026-04-16 01:26:24,170 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-presage.csv
+2026-04-16 01:26:24,204 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-presage_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-presage_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-presage_overall_summary.csv
+2026-04-16 01:26:24,218 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-presage-kaitori-soba-2026.md
+2026-04-16 01:26:24,220 INFO run_market_pipeline_batch: Target model: nissan-lafesta
+2026-04-16 01:26:24,221 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:26:24,221 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/7538/ (root)
+2026-04-16 01:26:25,941 INFO run_market_pipeline_batch: Parsed 1020 candidate records
+2026-04-16 01:26:26,020 INFO run_market_pipeline_batch: Normalized 1020 records
+2026-04-16 01:26:26,047 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-lafesta.csv
+2026-04-16 01:26:26,065 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-lafesta_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-lafesta_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-lafesta_overall_summary.csv
+2026-04-16 01:26:26,077 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-lafesta-kaitori-soba-2026.md
+2026-04-16 01:26:26,078 INFO run_market_pipeline_batch: Target model: nissan-murano
+2026-04-16 01:26:26,078 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:26:26,079 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/4043/ (root)
+2026-04-16 01:26:28,015 INFO run_market_pipeline_batch: Parsed 1024 candidate records
+2026-04-16 01:26:28,092 INFO run_market_pipeline_batch: Normalized 1024 records
+2026-04-16 01:26:28,120 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-murano.csv
+2026-04-16 01:26:28,135 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-murano_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-murano_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-murano_overall_summary.csv
+2026-04-16 01:26:28,148 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-murano-kaitori-soba-2026.md
+2026-04-16 01:26:28,150 INFO run_market_pipeline_batch: Target model: nissan-juke
+2026-04-16 01:26:28,150 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:26:28,151 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/21732/ (root)
+2026-04-16 01:26:29,811 INFO run_market_pipeline_batch: Parsed 1033 candidate records
+2026-04-16 01:26:29,884 INFO run_market_pipeline_batch: Normalized 1033 records
+2026-04-16 01:26:29,909 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-juke.csv
+2026-04-16 01:26:29,937 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-juke_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-juke_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-juke_overall_summary.csv
+2026-04-16 01:26:29,953 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-juke-kaitori-soba-2026.md
+2026-04-16 01:26:29,955 INFO run_market_pipeline_batch: Target model: nissan-bluebird
+2026-04-16 01:26:29,955 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-16 01:26:29,955 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/2/2777/ (root)
+2026-04-16 01:26:30,893 INFO run_market_pipeline_batch: Parsed 93 candidate records
+2026-04-16 01:26:30,902 INFO run_market_pipeline_batch: Normalized 93 records
+2026-04-16 01:26:30,905 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/nissan-bluebird.csv
+2026-04-16 01:26:30,911 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-bluebird_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-bluebird_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/nissan-bluebird_overall_summary.csv
+2026-04-16 01:26:30,917 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/nissan-bluebird-kaitori-soba-2026.md
+2026-04-16 01:26:30,918 INFO run_market_pipeline_batch: Batch finished successfully with no failures.

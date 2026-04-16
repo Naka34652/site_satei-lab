@@ -1,0 +1,13 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+suzuki-wagon-r-rr,ワゴンR RR,,2008,2008年式,root,root,8,5.0,37.3,15.7,7.0,5.0,28.7,37.3,"2008年式 / RR DI / 36,000km / 長崎県",2008年式,RR DI,"36,000km",長崎県,manen
+suzuki-wagon-r-rr,ワゴンR RR,,2007,2007年式,root,root,51,5.0,42.4,23.6,23.8,18.0,29.8,42.4,"2007年式 / RR S リミテッド / 67,000km / 東京都",2007年式,RR S リミテッド,"67,000km",東京都,manen
+suzuki-wagon-r-rr,ワゴンR RR,,2006,2006年式,root,root,70,5.0,44.0,23.6,21.5,15.4,30.6,44.0,2006年式 / RR S リミテッド 4WD / 7万km / 富山県,2006年式,RR S リミテッド 4WD,7万km,富山県,manen
+suzuki-wagon-r-rr,ワゴンR RR,,2005,2005年式,root,root,76,4.8,42.0,21.1,20.4,12.8,29.3,42.0,"2005年式 / RR DI 4WD / 52,000km / 秋田県",2005年式,RR DI 4WD,"52,000km",秋田県,manen
+suzuki-wagon-r-rr,ワゴンR RR,,2004,2004年式,root,root,68,4.8,37.8,18.0,18.2,9.3,24.7,37.8,"2004年式 / RR DI 4WD / 71,000km / 東京都",2004年式,RR DI 4WD,"71,000km",東京都,manen
+suzuki-wagon-r-rr,ワゴンR RR,,2003,2003年式,root,root,110,4.1,37.5,17.8,18.7,9.2,24.5,37.5,"2003年式 / RR DI 4WD / 55,000km / 徳島県",2003年式,RR DI 4WD,"55,000km",徳島県,manen
+suzuki-wagon-r-rr,ワゴンR RR,,2002,2002年式,root,root,110,3.6,35.0,15.1,15.2,8.2,20.8,35.0,"2002年式 / RR DI / 26,000km / 静岡県",2002年式,RR DI,"26,000km",静岡県,manen
+suzuki-wagon-r-rr,ワゴンR RR,,2001,2001年式,root,root,59,3.6,33.1,11.3,8.6,5.0,17.3,33.1,"2001年式 / RR SWT 4WD / 44,000km / 鳥取県",2001年式,RR SWT 4WD,"44,000km",鳥取県,manen
+suzuki-wagon-r-rr,ワゴンR RR,,2000,2000年式,root,root,70,3.6,35.1,8.9,7.3,5.3,10.8,35.1,"2000年式 / RR リミテッド 4WD / 43,000km / 愛媛県",2000年式,RR リミテッド 4WD,"43,000km",愛媛県,manen
+suzuki-wagon-r-rr,ワゴンR RR,,1999,1999年式,root,root,64,3.6,20.0,7.7,6.6,5.0,9.0,20.0,"1999年式 / RR リミテッド 4WD / 21,000km / 奈良県",1999年式,RR リミテッド 4WD,"21,000km",奈良県,manen
+suzuki-wagon-r-rr,ワゴンR RR,,1998,1998年式,root,root,23,3.7,17.0,6.9,5.7,4.5,8.0,17.0,"1998年式 / RR-F / 53,000km / 奈良県",1998年式,RR-F,"53,000km",奈良県,manen
+suzuki-wagon-r-rr,ワゴンR RR,,1997,1997年式,root,root,6,3.6,8.4,4.7,4.1,3.6,4.5,8.4,"1997年式 / RR-F 4WD / 114,000km / 新潟県",1997年式,RR-F 4WD,"114,000km",新潟県,manen

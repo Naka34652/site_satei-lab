@@ -1,0 +1,13 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+nissan-bluebird,ブルーバード,,2001,2001年式,root,root,8,5.4,35.0,16.1,13.8,10.5,18.6,35.0,"2001年式 / 2.0 SSS アテーサ 4WD / 64,000km / 栃木県",2001年式,2.0 SSS アテーサ 4WD,"64,000km",栃木県,manen
+nissan-bluebird,ブルーバード,,2000,2000年式,root,root,6,5.2,13.3,9.9,9.8,9.0,12.2,13.3,"2000年式 / 2.0 SSS / 82,000km / 山形県",2000年式,2.0 SSS,"82,000km",山形県,manen
+nissan-bluebird,ブルーバード,,1999,1999年式,root,root,14,3.8,27.6,12.9,9.6,5.3,19.5,27.6,"1999年式 / 2.0 SSS-G / 58,000km / 愛媛県",1999年式,2.0 SSS-G,"58,000km",愛媛県,manen
+nissan-bluebird,ブルーバード,,1998,1998年式,root,root,13,4.2,17.9,10.3,8.8,6.1,15.0,17.9,"1998年式 / 1.8 エプリース / 6,000km / 大分県",1998年式,1.8 エプリース,"6,000km",大分県,manen
+nissan-bluebird,ブルーバード,,1997,1997年式,root,root,9,4.4,28.1,9.4,5.5,5.3,10.8,28.1,1997年式 / 2.0 SSS-Z / 9万km / 滋賀県,1997年式,2.0 SSS-Z,9万km,滋賀県,manen
+nissan-bluebird,ブルーバード,,1996,1996年式,root,root,7,4.4,25.0,10.6,5.3,5.3,5.5,25.0,"1996年式 / 2.0 SSS Sセレクション / 66,000km / 埼玉県",1996年式,2.0 SSS Sセレクション,"66,000km",埼玉県,manen
+nissan-bluebird,ブルーバード,,1995,1995年式,root,root,2,4.5,12.0,8.2,8.2,4.5,12.0,12.0,"1995年式 / 2.0 SSS アテーサ 4WD / 57,000km / 宮城県",1995年式,2.0 SSS アテーサ 4WD,"57,000km",宮城県,manen
+nissan-bluebird,ブルーバード,,1992,1992年式,root,root,1,9.6,9.6,9.6,9.6,9.6,9.6,9.6,"1992年式 / 2.0 SSS-G / 52,000km / 福岡県",1992年式,2.0 SSS-G,"52,000km",福岡県,manen
+nissan-bluebird,ブルーバード,,1991,1991年式,root,root,4,5.4,24.9,10.9,6.6,5.7,7.5,24.9,"1991年式 / 1.8 SSS / 38,000km / 岐阜県",1991年式,1.8 SSS,"38,000km",岐阜県,manen
+nissan-bluebird,ブルーバード,,1990,1990年式,root,root,5,4.6,10.8,7.0,5.8,4.8,9.2,10.8,"1990年式 / 2.0 SSS / 77,000km / 新潟県",1990年式,2.0 SSS,"77,000km",新潟県,manen
+nissan-bluebird,ブルーバード,,1989,1989年式,root,root,4,7.5,27.9,18.5,19.4,18.6,20.1,27.9,"1989年式 / 2.0 SSS アテーサX 4WD / 89,000km / 岐阜県",1989年式,2.0 SSS アテーサX 4WD,"89,000km",岐阜県,manen
+nissan-bluebird,ブルーバード,,1988,1988年式,root,root,1,52.7,52.7,52.7,52.7,52.7,52.7,52.7,"1988年式 / 1.8 SSS アテーサリミテッド 4WD / 137,000km / 埼玉県",1988年式,1.8 SSS アテーサリミテッド 4WD,"137,000km",埼玉県,manen

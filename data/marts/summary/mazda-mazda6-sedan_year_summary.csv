@@ -1,0 +1,8 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+mazda-mazda6-sedan,MAZDA6セダン,,2024,2024年式,root,root,4,199.5,294.3,250.2,253.5,240.5,266.5,294.3,"2024年式 / 2.2 XD 20thアニバーサリー エディション 4WD / 49,000km / 京都府",2024年式,2.2 XD 20thアニバーサリー エディション 4WD,"49,000km",京都府,manen
+mazda-mazda6-sedan,MAZDA6セダン,,2023,2023年式,root,root,9,138.0,300.5,245.0,273.1,237.0,286.5,300.5,"2023年式 / 2.2 XD スポーツ アピアランス / 29,000km / 大阪府",2023年式,2.2 XD スポーツ アピアランス,"29,000km",大阪府,manen
+mazda-mazda6-sedan,MAZDA6セダン,,2022,2022年式,root,root,19,77.4,289.0,210.6,213.5,180.5,235.0,289.0,2022年式 / 2.2 XD 20thアニバーサリー エディション / 2万km / 群馬県,2022年式,2.2 XD 20thアニバーサリー エディション,2万km,群馬県,manen
+mazda-mazda6-sedan,MAZDA6セダン,,2021,2021年式,root,root,39,86.3,285.2,183.5,180.5,162.0,203.5,285.2,"2021年式 / 2.5 25T ブラックトーンエディション / 1,000km / 滋賀県",2021年式,2.5 25T ブラックトーンエディション,"1,000km",滋賀県,manen
+mazda-mazda6-sedan,MAZDA6セダン,,2020,2020年式,root,root,91,54.0,277.5,167.2,168.0,125.2,208.0,277.5,2020年式 / 2.2 XD Lパッケージ / 1万km / 滋賀県,2020年式,2.2 XD Lパッケージ,1万km,滋賀県,manen
+mazda-mazda6-sedan,MAZDA6セダン,,2019,2019年式,root,root,84,56.3,268.0,178.2,172.0,144.8,230.3,268.0,"2019年式 / 2.2 XD Lパッケージ / 8,000km / 和歌山県",2019年式,2.2 XD Lパッケージ,"8,000km",和歌山県,manen
+mazda-mazda6-sedan,MAZDA6セダン,,2018,2018年式,root,root,1,49.8,49.8,49.8,49.8,49.8,49.8,49.8,"2018年式 / 2.2 XD / 39,000km / 栃木県",2018年式,2.2 XD,"39,000km",栃木県,manen

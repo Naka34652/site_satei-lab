@@ -1,0 +1,14 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+mazda-atenza-sport-wagon,アテンザスポーツワゴン,,2018,2018年式,root,root,2,9.0,10.5,9.8,9.8,9.0,10.5,10.5,"2018年式 / 2.3 23S / 86,000km / 青森県",2018年式,2.3 23S,"86,000km",青森県,manen
+mazda-atenza-sport-wagon,アテンザスポーツワゴン,,2012,2012年式,root,root,36,5.0,64.3,26.7,21.9,16.5,29.0,64.3,"2012年式 / 2.5 25S / 64,000km / 宮崎県",2012年式,2.5 25S,"64,000km",宮崎県,manen
+mazda-atenza-sport-wagon,アテンザスポーツワゴン,,2011,2011年式,root,root,100,5.0,66.5,28.8,24.8,15.9,41.3,66.5,"2011年式 / 2.5 25S 4WD / 54,000km / 群馬県",2011年式,2.5 25S 4WD,"54,000km",群馬県,manen
+mazda-atenza-sport-wagon,アテンザスポーツワゴン,,2010,2010年式,root,root,167,5.0,66.3,27.6,24.3,13.0,39.0,66.3,"2010年式 / 2.5 25S / 49,000km / 香川県",2010年式,2.5 25S,"49,000km",香川県,manen
+mazda-atenza-sport-wagon,アテンザスポーツワゴン,,2009,2009年式,root,root,158,5.0,63.0,28.0,28.6,11.5,39.0,63.0,"2009年式 / 2.5 25Z / 47,000km / 富山県",2009年式,2.5 25Z,"47,000km",富山県,manen
+mazda-atenza-sport-wagon,アテンザスポーツワゴン,,2008,2008年式,root,root,178,5.0,63.8,28.6,26.6,15.5,42.0,63.8,"2008年式 / 2.5 25S / 38,000km / 長崎県",2008年式,2.5 25S,"38,000km",長崎県,manen
+mazda-atenza-sport-wagon,アテンザスポーツワゴン,,2007,2007年式,root,root,129,5.0,62.3,26.1,22.6,11.2,39.9,62.3,"2007年式 / 2.5 25S / 45,000km / 愛媛県",2007年式,2.5 25S,"45,000km",愛媛県,manen
+mazda-atenza-sport-wagon,アテンザスポーツワゴン,,2006,2006年式,root,root,48,5.0,30.4,11.8,9.4,7.2,12.9,30.4,"2006年式 / 2.3 23Z / 77,000km / 千葉県",2006年式,2.3 23Z,"77,000km",千葉県,manen
+mazda-atenza-sport-wagon,アテンザスポーツワゴン,,2005,2005年式,root,root,73,5.0,39.7,11.3,9.6,6.8,12.9,39.7,"2005年式 / 2.0 20C / 77,000km / 埼玉県",2005年式,2.0 20C,"77,000km",埼玉県,manen
+mazda-atenza-sport-wagon,アテンザスポーツワゴン,,2004,2004年式,root,root,56,5.0,24.6,9.2,8.4,6.4,10.2,24.6,"2004年式 / 2.0 20F / 43,000km / 島根県",2004年式,2.0 20F,"43,000km",島根県,manen
+mazda-atenza-sport-wagon,アテンザスポーツワゴン,,2003,2003年式,root,root,33,5.2,29.4,8.4,7.5,5.9,9.4,29.4,"2003年式 / 2.3 23S / 36,000km / 岡山県",2003年式,2.3 23S,"36,000km",岡山県,manen
+mazda-atenza-sport-wagon,アテンザスポーツワゴン,,2002,2002年式,root,root,19,5.0,12.2,7.9,7.8,5.5,9.2,12.2,"2002年式 / 2.3 23S / 46,000km / 山形県",2002年式,2.3 23S,"46,000km",山形県,manen
+mazda-atenza-sport-wagon,アテンザスポーツワゴン,,2001,2001年式,root,root,1,5.1,5.1,5.1,5.1,5.1,5.1,5.1,"2001年式 / 2.3 23S / 119,000km / 長野県",2001年式,2.3 23S,"119,000km",長野県,manen

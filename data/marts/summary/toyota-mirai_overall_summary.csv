@@ -1,0 +1,2 @@
+model_slug,model_name,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+toyota-mirai,MIRAI,root,root,225,21.0,487.5,244.5,252.4,191.9,303.2,487.5,"2021年式 / G エグゼクティブパッケージ / 6,000km / 東京都",2021年式,G エグゼクティブパッケージ,"6,000km",東京都,manen

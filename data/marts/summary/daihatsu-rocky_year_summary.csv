@@ -1,0 +1,9 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+daihatsu-rocky,ロッキー,,2025,2025年式,root,root,7,95.8,233.8,177.7,183.5,181.5,214.6,233.8,"2025年式 / 1.0 プレミアム G 4WD / 14,000km / 静岡県",2025年式,1.0 プレミアム G 4WD,"14,000km",静岡県,manen
+daihatsu-rocky,ロッキー,,2024,2024年式,root,root,50,139.4,226.9,184.8,188.4,165.9,203.3,226.9,2024年式 / 1.0 プレミアム G 4WD / 0万km / 長野県,2024年式,1.0 プレミアム G 4WD,0万km,長野県,manen
+daihatsu-rocky,ロッキー,,2023,2023年式,root,root,134,87.1,227.0,171.4,171.0,153.8,193.0,227.0,"2023年式 / 1.0 プレミアム G 4WD / 11,000km / 千葉県",2023年式,1.0 プレミアム G 4WD,"11,000km",千葉県,manen
+daihatsu-rocky,ロッキー,,2022,2022年式,root,root,229,89.0,221.0,155.3,155.5,132.2,176.7,221.0,"2022年式 / 1.2 プレミアム G HEV / 5,000km / 福島県",2022年式,1.2 プレミアム G HEV,"5,000km",福島県,manen
+daihatsu-rocky,ロッキー,,2021,2021年式,root,root,254,88.0,220.5,162.2,164.0,147.5,178.1,220.5,"2021年式 / 1.2 プレミアム G HEV / 6,000km / 徳島県",2021年式,1.2 プレミアム G HEV,"6,000km",徳島県,manen
+daihatsu-rocky,ロッキー,,2020,2020年式,root,root,183,94.5,197.0,148.8,149.7,136.0,165.7,197.0,"2020年式 / 1.0 G 4WD / 23,000km / 秋田県",2020年式,1.0 G 4WD,"23,000km",秋田県,manen
+daihatsu-rocky,ロッキー,,2019,2019年式,root,root,141,78.4,202.5,146.0,149.5,121.5,167.5,202.5,"2019年式 / 1.0 プレミアム 4WD / 36,000km / 茨城県",2019年式,1.0 プレミアム 4WD,"36,000km",茨城県,manen
+daihatsu-rocky,ロッキー,,2018,2018年式,root,root,2,113.0,120.0,116.5,116.5,113.0,120.0,120.0,"2018年式 / 1.0 G / 44,000km / 長野県",2018年式,1.0 G,"44,000km",長野県,manen

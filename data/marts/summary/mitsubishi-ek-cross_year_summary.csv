@@ -1,0 +1,10 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+mitsubishi-ek-cross,eKクロス,,2025,2025年式,root,root,3,122.3,150.0,134.6,131.6,122.3,150.0,150.0,"2025年式 / G プレミアム 4WD / 2,000km / 福岡県",2025年式,G プレミアム 4WD,"2,000km",福岡県,manen
+mitsubishi-ek-cross,eKクロス,,2024,2024年式,root,root,16,104.5,146.5,127.6,132.2,127.0,135.5,146.5,"2024年式 / T プレミアム 4WD / 8,000km / 岡山県",2024年式,T プレミアム 4WD,"8,000km",岡山県,manen
+mitsubishi-ek-cross,eKクロス,,2023,2023年式,root,root,41,80.0,142.9,119.4,124.5,110.5,129.5,142.9,"2023年式 / G プレミアム 4WD / 4,000km / 山形県",2023年式,G プレミアム 4WD,"4,000km",山形県,manen
+mitsubishi-ek-cross,eKクロス,,2022,2022年式,root,root,75,32.5,128.0,98.9,98.2,88.8,109.8,128.0,2022年式 / T プレミアム 4WD / 1万km / 栃木県,2022年式,T プレミアム 4WD,1万km,栃木県,manen
+mitsubishi-ek-cross,eKクロス,,2021,2021年式,root,root,100,48.0,127.2,94.0,94.0,87.0,105.5,127.2,2021年式 / T 4WD / 1万km / 香川県,2021年式,T 4WD,1万km,香川県,manen
+mitsubishi-ek-cross,eKクロス,,2020,2020年式,root,root,173,31.9,126.0,85.1,86.5,70.0,99.5,126.0,2020年式 / G 4WD / 0万km / 福岡県,2020年式,G 4WD,0万km,福岡県,manen
+mitsubishi-ek-cross,eKクロス,,2019,2019年式,root,root,224,33.0,131.5,86.9,87.2,71.0,105.4,131.5,2019年式 / T / 0万km / 神奈川県,2019年式,T,0万km,神奈川県,manen
+mitsubishi-ek-cross,eKクロス,,2018,2018年式,root,root,11,94.6,130.0,114.4,114.8,109.4,123.0,130.0,2018年式 / G 4WD / 0万km / 島根県,2018年式,G 4WD,0万km,島根県,manen
+mitsubishi-ek-cross,eKクロス,,2013,2013年式,root,root,1,49.2,49.2,49.2,49.2,49.2,49.2,49.2,"2013年式 / G / 29,000km / 富山県",2013年式,G,"29,000km",富山県,manen

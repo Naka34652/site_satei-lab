@@ -1,0 +1,16 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+suzuki-hustler,ハスラー,,2026,2026年式,root,root,1,160.0,160.0,160.0,160.0,160.0,160.0,160.0,"2026年式 / タフワイルド ターボ / 1,000km / 東京都",2026年式,タフワイルド ターボ,"1,000km",東京都,manen
+suzuki-hustler,ハスラー,,2025,2025年式,root,root,15,97.0,154.7,126.1,128.4,116.5,131.0,154.7,2025年式 / タフワイルド ターボ 4WD / 0万km / 大阪府,2025年式,タフワイルド ターボ 4WD,0万km,大阪府,manen
+suzuki-hustler,ハスラー,,2024,2024年式,root,root,47,16.2,162.0,127.4,133.9,120.9,143.5,162.0,"2024年式 / タフワイルド 4WD / 2,000km / 千葉県",2024年式,タフワイルド 4WD,"2,000km",千葉県,manen
+suzuki-hustler,ハスラー,,2023,2023年式,root,root,58,87.9,159.6,126.3,127.4,113.5,138.9,159.6,"2023年式 / J スタイルII 4WD / 25,000km / 鳥取県",2023年式,J スタイルII 4WD,"25,000km",鳥取県,manen
+suzuki-hustler,ハスラー,,2022,2022年式,root,root,66,42.0,155.4,113.9,121.3,95.0,132.5,155.4,"2022年式 / J スタイルII ターボ 4WD / 6,000km / 埼玉県",2022年式,J スタイルII ターボ 4WD,"6,000km",埼玉県,manen
+suzuki-hustler,ハスラー,,2021,2021年式,root,root,85,32.3,145.1,92.4,95.2,64.8,114.8,145.1,"2021年式 / J スタイル ターボ / 33,000km / 沖縄県",2021年式,J スタイル ターボ,"33,000km",沖縄県,manen
+suzuki-hustler,ハスラー,,2020,2020年式,root,root,101,11.0,147.0,85.8,86.5,68.4,105.2,147.0,"2020年式 / J スタイル ターボ 4WD / 43,000km / 佐賀県",2020年式,J スタイル ターボ 4WD,"43,000km",佐賀県,manen
+suzuki-hustler,ハスラー,,2019,2019年式,root,root,71,5.0,114.9,67.5,65.3,51.0,85.2,114.9,"2019年式 / ハイブリッド(HYBRID) Xターボ / 39,000km / 大分県",2019年式,ハイブリッド(HYBRID) Xターボ,"39,000km",大分県,manen
+suzuki-hustler,ハスラー,,2018,2018年式,root,root,73,3.1,113.1,56.2,56.4,35.1,76.0,113.1,"2018年式 / タフワイルド / 8,000km / 鳥取県",2018年式,タフワイルド,"8,000km",鳥取県,manen
+suzuki-hustler,ハスラー,,2017,2017年式,root,root,92,5.0,101.5,47.3,47.4,28.6,66.7,101.5,"2017年式 / J スタイルII ターボ 4WD / 58,000km / 熊本県",2017年式,J スタイルII ターボ 4WD,"58,000km",熊本県,manen
+suzuki-hustler,ハスラー,,2016,2016年式,root,root,94,5.0,91.5,42.9,39.2,27.2,58.9,91.5,"2016年式 / J スタイルII 4WD / 32,000km / 宮崎県",2016年式,J スタイルII 4WD,"32,000km",宮崎県,manen
+suzuki-hustler,ハスラー,,2015,2015年式,root,root,133,5.0,88.5,33.2,30.2,18.4,43.5,88.5,"2015年式 / G ターボ 4WD / 21,000km / 秋田県",2015年式,G ターボ 4WD,"21,000km",秋田県,manen
+suzuki-hustler,ハスラー,,2014,2014年式,root,root,159,5.0,97.1,28.6,27.2,14.2,38.1,97.1,"2014年式 / X ターボ 4WD / 35,000km / 富山県",2014年式,X ターボ 4WD,"35,000km",富山県,manen
+suzuki-hustler,ハスラー,,2013,2013年式,root,root,4,21.5,48.9,34.6,34.0,30.5,37.5,48.9,"2013年式 / G / 55,000km / 島根県",2013年式,G,"55,000km",島根県,manen
+suzuki-hustler,ハスラー,,2006,2006年式,root,root,1,54.5,54.5,54.5,54.5,54.5,54.5,54.5,"2006年式 / A 4WD / 159,000km / 岐阜県",2006年式,A 4WD,"159,000km",岐阜県,manen

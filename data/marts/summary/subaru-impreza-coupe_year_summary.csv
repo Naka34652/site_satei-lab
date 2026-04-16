@@ -1,0 +1,7 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+subaru-impreza-coupe,インプレッサクーペ,,2000,2000年式,root,root,3,154.0,231.0,179.7,154.0,154.0,231.0,231.0,"2000年式 / 2.0 WRX タイプR STi バージョンVI 4WD / 143,000km / 福岡県",2000年式,2.0 WRX タイプR STi バージョンVI 4WD,"143,000km",福岡県,manen
+subaru-impreza-coupe,インプレッサクーペ,,1999,1999年式,root,root,20,94.5,525.0,242.7,205.0,163.0,300.5,525.0,"1999年式 / 2.0 WRX タイプR STi バージョンV リミテッド 4WD / 52,000km / 島根県",1999年式,2.0 WRX タイプR STi バージョンV リミテッド 4WD,"52,000km",島根県,manen
+subaru-impreza-coupe,インプレッサクーペ,,1998,1998年式,root,root,19,31.5,369.5,171.0,157.5,97.0,210.0,369.5,"1998年式 / 2.0 WRX タイプR STi バージョンIV 4WD / 65,000km / 宮崎県",1998年式,2.0 WRX タイプR STi バージョンIV 4WD,"65,000km",宮崎県,manen
+subaru-impreza-coupe,インプレッサクーペ,,1997,1997年式,root,root,21,39.8,700.0,197.3,117.0,97.7,284.5,700.0,1997年式 / 2.2 22B STiバージョン 4WD / 4万km / 大分県,1997年式,2.2 22B STiバージョン 4WD,4万km,大分県,manen
+subaru-impreza-coupe,インプレッサクーペ,,1996,1996年式,root,root,10,37.4,133.4,73.2,72.5,43.0,75.5,133.4,"1996年式 / 2.0 WRX タイプR STi バージョン 4WD / 132,000km / 神奈川県",1996年式,2.0 WRX タイプR STi バージョン 4WD,"132,000km",神奈川県,manen
+subaru-impreza-coupe,インプレッサクーペ,,1995,1995年式,root,root,1,30.1,30.1,30.1,30.1,30.1,30.1,30.1,"1995年式 / 1.5 リトナ / 146,000km / 鳥取県",1995年式,1.5 リトナ,"146,000km",鳥取県,manen

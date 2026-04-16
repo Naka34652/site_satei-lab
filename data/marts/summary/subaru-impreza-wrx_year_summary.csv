@@ -1,0 +1,23 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+subaru-impreza-wrx,インプレッサWRX,,2016,2016年式,root,root,1,241.5,241.5,241.5,241.5,241.5,241.5,241.5,"2016年式 / 2.0 WRX STI 4WD / 106,000km / 島根県",2016年式,2.0 WRX STI 4WD,"106,000km",島根県,manen
+subaru-impreza-wrx,インプレッサWRX,,2014,2014年式,root,root,25,47.8,250.5,156.9,169.8,102.5,209.0,250.5,"2014年式 / 2.0 WRX STI スペックC 4WD / 65,000km / 愛知県",2014年式,2.0 WRX STI スペックC 4WD,"65,000km",愛知県,manen
+subaru-impreza-wrx,インプレッサWRX,,2013,2013年式,root,root,55,41.5,274.5,135.0,130.6,84.5,183.5,274.5,"2013年式 / 2.0 WRX STI スペックC タイプRA-R 4WD / 47,000km / 宮城県",2013年式,2.0 WRX STI スペックC タイプRA-R 4WD,"47,000km",宮城県,manen
+subaru-impreza-wrx,インプレッサWRX,,2012,2012年式,root,root,89,11.7,283.4,116.1,107.5,78.5,142.5,283.4,2012年式 / 2.0 WRX STI スペックC 4WD / 5万km / 東京都,2012年式,2.0 WRX STI スペックC 4WD,5万km,東京都,manen
+subaru-impreza-wrx,インプレッサWRX,,2011,2011年式,root,root,113,13.0,240.5,105.1,93.4,61.6,135.5,240.5,2011年式 / 2.0 WRX STI スペックC 4WD / 5万km / 熊本県,2011年式,2.0 WRX STI スペックC 4WD,5万km,熊本県,manen
+subaru-impreza-wrx,インプレッサWRX,,2010,2010年式,root,root,101,2.0,245.5,100.6,80.5,60.6,132.8,245.5,"2010年式 / 2.0 WRX STI スペックC 4WD / 56,000km / 愛知県",2010年式,2.0 WRX STI スペックC 4WD,"56,000km",愛知県,manen
+subaru-impreza-wrx,インプレッサWRX,,2009,2009年式,root,root,57,32.5,231.0,96.5,69.0,49.5,144.0,231.0,"2009年式 / 2.0 WRX STI スペックC 4WD / 55,000km / 香川県",2009年式,2.0 WRX STI スペックC 4WD,"55,000km",香川県,manen
+subaru-impreza-wrx,インプレッサWRX,,2008,2008年式,root,root,30,56.1,217.5,113.4,106.0,69.5,141.5,217.5,"2008年式 / 2.0 WRX STI 4WD / 69,000km / 広島県",2008年式,2.0 WRX STI 4WD,"69,000km",広島県,manen
+subaru-impreza-wrx,インプレッサWRX,,2007,2007年式,root,root,61,25.5,204.4,95.2,89.5,70.1,120.5,204.4,"2007年式 / 2.0 WRX STI 4WD / 116,000km / 徳島県",2007年式,2.0 WRX STI 4WD,"116,000km",徳島県,manen
+subaru-impreza-wrx,インプレッサWRX,,2006,2006年式,root,root,56,24.8,240.5,106.2,93.8,46.6,157.0,240.5,"2006年式 / 2.0 WRX STI 4WD / 112,000km / 鳥取県",2006年式,2.0 WRX STI 4WD,"112,000km",鳥取県,manen
+subaru-impreza-wrx,インプレッサWRX,,2005,2005年式,root,root,79,10.0,232.0,117.7,119.0,63.3,167.5,232.0,"2005年式 / 2.0 WRX STI 4WD / 76,000km / 岐阜県",2005年式,2.0 WRX STI 4WD,"76,000km",岐阜県,manen
+subaru-impreza-wrx,インプレッサWRX,,2004,2004年式,root,root,79,23.5,244.0,107.4,111.5,57.8,135.8,244.0,2004年式 / 2.0 WRX STI スペックC 4WD / 11万km / 奈良県,2004年式,2.0 WRX STI スペックC 4WD,11万km,奈良県,manen
+subaru-impreza-wrx,インプレッサWRX,,2003,2003年式,root,root,56,20.5,239.3,109.1,96.0,55.0,160.5,239.3,2003年式 / 2.0 WRX STI 4WD / 7万km / 東京都,2003年式,2.0 WRX STI 4WD,7万km,東京都,manen
+subaru-impreza-wrx,インプレッサWRX,,2002,2002年式,root,root,42,20.3,181.0,117.7,120.1,98.0,141.4,181.0,"2002年式 / 2.0 WRX STI リミテッド 4WD / 88,000km / 長崎県",2002年式,2.0 WRX STI リミテッド 4WD,"88,000km",長崎県,manen
+subaru-impreza-wrx,インプレッサWRX,,2001,2001年式,root,root,35,25.2,210.5,113.8,109.5,80.5,152.0,210.5,"2001年式 / 2.0 WRX STI 4WD / 98,000km / 和歌山県",2001年式,2.0 WRX STI 4WD,"98,000km",和歌山県,manen
+subaru-impreza-wrx,インプレッサWRX,,2000,2000年式,root,root,36,18.4,252.0,115.6,94.8,71.5,152.6,252.0,"2000年式 / 2.0 WRX STI タイプRA バージョンVI リミテッド 4WD / 118,000km / 神奈川県",2000年式,2.0 WRX STI タイプRA バージョンVI リミテッド 4WD,"118,000km",神奈川県,manen
+subaru-impreza-wrx,インプレッサWRX,,1999,1999年式,root,root,32,34.5,266.5,133.3,133.5,86.5,163.0,266.5,"1999年式 / 2.0 WRX STI バージョンV 4WD / 94,000km / 群馬県",1999年式,2.0 WRX STI バージョンV 4WD,"94,000km",群馬県,manen
+subaru-impreza-wrx,インプレッサWRX,,1998,1998年式,root,root,22,32.0,267.5,133.9,137.5,80.5,167.8,267.5,"1998年式 / 2.0 WRX STI タイプRA バージョンV リミテッド 4WD / 126,000km / 福島県",1998年式,2.0 WRX STI タイプRA バージョンV リミテッド 4WD,"126,000km",福島県,manen
+subaru-impreza-wrx,インプレッサWRX,,1997,1997年式,root,root,17,27.7,267.0,131.7,115.2,67.0,198.0,267.0,"1997年式 / 2.0 WRX STI タイプRA バージョンIV 4WD / 41,000km / 宮崎県",1997年式,2.0 WRX STI タイプRA バージョンIV 4WD,"41,000km",宮崎県,manen
+subaru-impreza-wrx,インプレッサWRX,,1996,1996年式,root,root,8,38.0,174.0,96.0,76.0,58.0,144.5,174.0,1996年式 / 2.0 WRX STI 4WD / 10万km / 栃木県,1996年式,2.0 WRX STI 4WD,10万km,栃木県,manen
+subaru-impreza-wrx,インプレッサWRX,,1995,1995年式,root,root,4,51.5,157.0,107.2,110.2,83.0,137.5,157.0,"1995年式 / 2.0 WRX STI バージョンII 555 4WD / 131,000km / 愛媛県",1995年式,2.0 WRX STI バージョンII 555 4WD,"131,000km",愛媛県,manen
+subaru-impreza-wrx,インプレッサWRX,,1994,1994年式,root,root,2,61.5,70.5,66.0,66.0,61.5,70.5,70.5,"1994年式 / 2.0 WRX STI 4WD / 111,000km / 鳥取県",1994年式,2.0 WRX STI 4WD,"111,000km",鳥取県,manen

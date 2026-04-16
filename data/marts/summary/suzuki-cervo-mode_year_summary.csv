@@ -1,0 +1,9 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+suzuki-cervo-mode,セルボモード,,1997,1997年式,root,root,1,5.7,5.7,5.7,5.7,5.7,5.7,5.7,"1997年式 / クラシック / 64,000km / 東京都",1997年式,クラシック,"64,000km",東京都,manen
+suzuki-cervo-mode,セルボモード,,1996,1996年式,root,root,5,5.0,13.2,7.3,6.5,5.0,6.6,13.2,"1996年式 / クラシック / 69,000km / 栃木県",1996年式,クラシック,"69,000km",栃木県,manen
+suzuki-cervo-mode,セルボモード,,1995,1995年式,root,root,6,5.0,19.2,11.2,11.2,7.2,13.2,19.2,1995年式 / SR / 0万km / 奈良県,1995年式,SR,0万km,奈良県,manen
+suzuki-cervo-mode,セルボモード,,1994,1994年式,root,root,2,9.9,18.0,13.9,13.9,9.9,18.0,18.0,"1994年式 / SR-FOUR 4WD / 93,000km / 秋田県",1994年式,SR-FOUR 4WD,"93,000km",秋田県,manen
+suzuki-cervo-mode,セルボモード,,1992,1992年式,root,root,6,5.0,37.1,23.8,23.9,17.6,35.4,37.1,1992年式 / SR-FOUR 4WD / 0万km / 埼玉県,1992年式,SR-FOUR 4WD,0万km,埼玉県,manen
+suzuki-cervo-mode,セルボモード,,1991,1991年式,root,root,3,18.3,20.1,19.1,19.0,18.3,20.1,20.1,"1991年式 / SR / 111,000km / 千葉県",1991年式,SR,"111,000km",千葉県,manen
+suzuki-cervo-mode,セルボモード,,1990,1990年式,root,root,2,29.0,32.2,30.6,30.6,29.0,32.2,32.2,"1990年式 / SR / 77,000km / 鹿児島県",1990年式,SR,"77,000km",鹿児島県,manen
+suzuki-cervo-mode,セルボモード,,1989,1989年式,root,root,2,18.2,26.0,22.1,22.1,18.2,26.0,26.0,1989年式 / SR-FOUR 4WD / 7万km / 青森県,1989年式,SR-FOUR 4WD,7万km,青森県,manen

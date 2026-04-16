@@ -1,0 +1,7 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+mitsubishi-lancer-cedia-wagon,ランサーセディアワゴン,,2006,2006年式,root,root,1,6.9,6.9,6.9,6.9,6.9,6.9,6.9,"2006年式 / 1.8 ツーリング / 59,000km / 福岡県",2006年式,1.8 ツーリング,"59,000km",福岡県,manen
+mitsubishi-lancer-cedia-wagon,ランサーセディアワゴン,,2005,2005年式,root,root,2,4.2,5.5,4.8,4.8,4.2,5.5,5.5,"2005年式 / 1.8 ツーリング / 97,000km / 徳島県",2005年式,1.8 ツーリング,"97,000km",徳島県,manen
+mitsubishi-lancer-cedia-wagon,ランサーセディアワゴン,,2002,2002年式,root,root,3,6.6,22.8,12.2,7.2,6.6,22.8,22.8,"2002年式 / 1.8 Tツーリング スポーツエディション / 106,000km / 和歌山県",2002年式,1.8 Tツーリング スポーツエディション,"106,000km",和歌山県,manen
+mitsubishi-lancer-cedia-wagon,ランサーセディアワゴン,,2001,2001年式,root,root,27,3.6,17.4,6.0,4.5,4.0,5.9,17.4,"2001年式 / 1.8 ラリーアートエディション / 149,000km / 鳥取県",2001年式,1.8 ラリーアートエディション,"149,000km",鳥取県,manen
+mitsubishi-lancer-cedia-wagon,ランサーセディアワゴン,,2000,2000年式,root,root,27,3.4,15.0,5.0,4.0,3.8,4.8,15.0,"2000年式 / 1.8 Tツーリング スーパーパッケージ / 46,000km / 青森県",2000年式,1.8 Tツーリング スーパーパッケージ,"46,000km",青森県,manen
+mitsubishi-lancer-cedia-wagon,ランサーセディアワゴン,,1999,1999年式,root,root,7,3.6,6.9,4.7,4.0,3.9,4.2,6.9,"1999年式 / 1.8 ツーリング 4WD / 75,000km / 秋田県",1999年式,1.8 ツーリング 4WD,"75,000km",秋田県,manen

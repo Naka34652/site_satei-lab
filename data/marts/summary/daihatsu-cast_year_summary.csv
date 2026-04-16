@@ -1,0 +1,11 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+daihatsu-cast,キャスト,,2023,2023年式,root,root,24,60.0,123.5,104.8,109.3,100.0,115.0,123.5,"2023年式 / スタイル  G VS SAIII / 7,000km / 兵庫県",2023年式,スタイル  G VS SAIII,"7,000km",兵庫県,manen
+daihatsu-cast,キャスト,,2022,2022年式,root,root,44,5.0,124.7,99.0,105.5,92.0,110.5,124.7,"2022年式 / スタイル  G VS SAIII 4WD / 23,000km / 大阪府",2022年式,スタイル  G VS SAIII 4WD,"23,000km",大阪府,manen
+daihatsu-cast,キャスト,,2021,2021年式,root,root,53,25.3,115.3,81.9,85.5,67.6,96.4,115.3,"2021年式 / スタイル G プライムコレクション SAIII 4WD / 31,000km / 栃木県",2021年式,スタイル G プライムコレクション SAIII 4WD,"31,000km",栃木県,manen
+daihatsu-cast,キャスト,,2020,2020年式,root,root,97,28.4,115.5,78.7,81.0,65.0,93.0,115.5,"2020年式 / スタイル  G VS SAIII 4WD / 28,000km / 愛知県",2020年式,スタイル  G VS SAIII 4WD,"28,000km",愛知県,manen
+daihatsu-cast,キャスト,,2019,2019年式,root,root,149,5.0,123.5,68.4,71.4,55.5,81.3,123.5,"2019年式 / スポーツ SAIII / 22,000km / 宮城県",2019年式,スポーツ SAIII,"22,000km",宮城県,manen
+daihatsu-cast,キャスト,,2018,2018年式,root,root,164,3.5,112.5,61.8,64.0,48.0,77.0,112.5,"2018年式 / スポーツ SAIII / 7,000km / 茨城県",2018年式,スポーツ SAIII,"7,000km",茨城県,manen
+daihatsu-cast,キャスト,,2017,2017年式,root,root,177,5.0,100.5,46.4,43.0,31.6,60.0,100.5,"2017年式 / アクティバ G SAII 4WD / 46,000km / 埼玉県",2017年式,アクティバ G SAII 4WD,"46,000km",埼玉県,manen
+daihatsu-cast,キャスト,,2016,2016年式,root,root,172,5.0,95.6,41.7,40.5,26.3,54.6,95.6,"2016年式 / スポーツ SAII / 25,000km / 茨城県",2016年式,スポーツ SAII,"25,000km",茨城県,manen
+daihatsu-cast,キャスト,,2015,2015年式,root,root,117,5.0,88.5,40.5,39.0,27.4,53.0,88.5,"2015年式 / スポーツ SAII / 32,000km / 奈良県",2015年式,スポーツ SAII,"32,000km",奈良県,manen
+daihatsu-cast,キャスト,,2014,2014年式,root,root,3,27.2,45.0,39.1,45.0,27.2,45.0,45.0,"2014年式 / アクティバ X / 74,000km / 島根県",2014年式,アクティバ X,"74,000km",島根県,manen

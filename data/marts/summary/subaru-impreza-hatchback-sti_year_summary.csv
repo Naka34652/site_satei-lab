@@ -1,0 +1,15 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+subaru-impreza-hatchback-sti,インプレッサハッチバックSTI,,2014,2014年式,root,root,2,62.8,260.8,161.8,161.8,62.8,260.8,260.8,"2014年式 / 2.0 WRX スペックC 4WD / 68,000km / 山梨県",2014年式,2.0 WRX スペックC 4WD,"68,000km",山梨県,manen
+subaru-impreza-hatchback-sti,インプレッサハッチバックSTI,,2013,2013年式,root,root,12,27.0,267.5,152.0,153.3,86.1,217.2,267.5,"2013年式 / 2.0 R205 STIバージョン 4WD / 21,000km / 石川県",2013年式,2.0 R205 STIバージョン 4WD,"21,000km",石川県,manen
+subaru-impreza-hatchback-sti,インプレッサハッチバックSTI,,2012,2012年式,root,root,37,28.6,267.0,156.8,155.5,120.0,195.7,267.0,"2012年式 / 2.0 WRX スペックC 4WD / 25,000km / 愛知県",2012年式,2.0 WRX スペックC 4WD,"25,000km",愛知県,manen
+subaru-impreza-hatchback-sti,インプレッサハッチバックSTI,,2011,2011年式,root,root,67,5.0,257.0,144.8,143.8,105.3,186.5,257.0,"2011年式 / 2.0 R205 STIバージョン 4WD / 35,000km / 石川県",2011年式,2.0 R205 STIバージョン 4WD,"35,000km",石川県,manen
+subaru-impreza-hatchback-sti,インプレッサハッチバックSTI,,2010,2010年式,root,root,73,32.3,247.3,117.7,116.4,64.5,156.7,247.3,2010年式 / 2.0 R205 STIバージョン 4WD / 7万km / 大阪府,2010年式,2.0 R205 STIバージョン 4WD,7万km,大阪府,manen
+subaru-impreza-hatchback-sti,インプレッサハッチバックSTI,,2009,2009年式,root,root,124,19.2,269.5,111.6,108.2,80.0,136.4,269.5,"2009年式 / 2.0 R205 STIバージョン 4WD / 62,000km / 富山県",2009年式,2.0 R205 STIバージョン 4WD,"62,000km",富山県,manen
+subaru-impreza-hatchback-sti,インプレッサハッチバックSTI,,2008,2008年式,root,root,164,28.6,252.5,125.7,124.2,91.5,159.5,252.5,"2008年式 / 2.0 R205 STIバージョン 4WD / 85,000km / 熊本県",2008年式,2.0 R205 STIバージョン 4WD,"85,000km",熊本県,manen
+subaru-impreza-hatchback-sti,インプレッサハッチバックSTI,,2007,2007年式,root,root,101,37.3,230.0,128.7,131.5,101.5,165.5,230.0,"2007年式 / 2.0 R205 STIバージョン 4WD / 4,000km / 島根県",2007年式,2.0 R205 STIバージョン 4WD,"4,000km",島根県,manen
+subaru-impreza-hatchback-sti,インプレッサハッチバックSTI,,2006,2006年式,root,root,55,40.0,200.9,134.4,132.5,115.3,160.7,200.9,"2006年式 / 2.0 WRX 4WD / 19,000km / 沖縄県",2006年式,2.0 WRX 4WD,"19,000km",沖縄県,manen
+subaru-impreza-hatchback-sti,インプレッサハッチバックSTI,,2005,2005年式,root,root,4,25.2,121.0,50.8,28.5,26.9,30.1,121.0,"2005年式 / 2.0 WRX 4WD / 51,000km / 高知県",2005年式,2.0 WRX 4WD,"51,000km",高知県,manen
+subaru-impreza-hatchback-sti,インプレッサハッチバックSTI,,2004,2004年式,root,root,2,29.4,39.9,34.6,34.6,29.4,39.9,39.9,"2004年式 / 2.0 WRX 4WD / 86,000km / 島根県",2004年式,2.0 WRX 4WD,"86,000km",島根県,manen
+subaru-impreza-hatchback-sti,インプレッサハッチバックSTI,,2003,2003年式,root,root,1,29.7,29.7,29.7,29.7,29.7,29.7,29.7,"2003年式 / 2.0 WRX 4WD / 171,000km / 宮城県",2003年式,2.0 WRX 4WD,"171,000km",宮城県,manen
+subaru-impreza-hatchback-sti,インプレッサハッチバックSTI,,2002,2002年式,root,root,2,22.8,24.7,23.8,23.8,22.8,24.7,24.7,"2002年式 / 2.0 WRX 4WD / 135,000km / 山口県",2002年式,2.0 WRX 4WD,"135,000km",山口県,manen
+subaru-impreza-hatchback-sti,インプレッサハッチバックSTI,,1998,1998年式,root,root,2,12.3,80.0,46.1,46.1,12.3,80.0,80.0,"1998年式 / 2.0 R205 STIバージョン 4WD / 163,000km / 鳥取県",1998年式,2.0 R205 STIバージョン 4WD,"163,000km",鳥取県,manen

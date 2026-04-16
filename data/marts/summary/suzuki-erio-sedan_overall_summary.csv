@@ -1,0 +1,2 @@
+model_slug,model_name,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+suzuki-erio-sedan,エリオセダン,root,root,14,3.9,21.8,8.0,6.4,5.4,7.6,21.8,"2005年式 / 1.8 / 15,000km / 東京都",2005年式,1.8,"15,000km",東京都,manen

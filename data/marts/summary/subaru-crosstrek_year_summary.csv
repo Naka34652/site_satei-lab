@@ -1,0 +1,5 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+subaru-crosstrek,クロストレック,,2025,2025年式,root,root,5,212.0,294.7,247.1,249.5,222.8,256.5,294.7,"2025年式 / 2.0 リミテッド 4WD / 1,000km / 長崎県",2025年式,2.0 リミテッド 4WD,"1,000km",長崎県,manen
+subaru-crosstrek,クロストレック,,2024,2024年式,root,root,43,165.0,306.0,244.7,251.0,221.5,271.5,306.0,2024年式 / 2.0 リミテッド 4WD / 0万km / 岩手県,2024年式,2.0 リミテッド 4WD,0万km,岩手県,manen
+subaru-crosstrek,クロストレック,,2023,2023年式,root,root,83,155.5,306.5,239.5,243.5,218.0,266.5,306.5,"2023年式 / 2.0 リミテッド 4WD / 3,000km / 青森県",2023年式,2.0 リミテッド 4WD,"3,000km",青森県,manen
+subaru-crosstrek,クロストレック,,2022,2022年式,root,root,1,215.5,215.5,215.5,215.5,215.5,215.5,215.5,"2022年式 / 2.0 リミテッド / 15,000km / 和歌山県",2022年式,2.0 リミテッド,"15,000km",和歌山県,manen

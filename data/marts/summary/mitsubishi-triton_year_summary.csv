@@ -1,0 +1,10 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+mitsubishi-triton,トライトン,,2025,2025年式,root,root,2,420.5,420.5,420.5,420.5,420.5,420.5,420.5,"2025年式 / 2.4 GSR ディーゼル 4WD / 4,000km / 岐阜県",2025年式,2.4 GSR ディーゼル 4WD,"4,000km",岐阜県,manen
+mitsubishi-triton,トライトン,,2024,2024年式,root,root,7,380.3,423.3,409.3,411.0,410.0,414.0,423.3,"2024年式 / 2.4 GSR ディーゼル 4WD / 4,000km / 千葉県",2024年式,2.4 GSR ディーゼル 4WD,"4,000km",千葉県,manen
+mitsubishi-triton,トライトン,,2011,2011年式,root,root,3,57.5,131.0,86.8,71.8,57.5,131.0,131.0,"2011年式 / 3.5 4WD / 75,000km / 新潟県",2011年式,3.5 4WD,"75,000km",新潟県,manen
+mitsubishi-triton,トライトン,,2010,2010年式,root,root,11,58.5,149.0,92.6,96.4,66.4,117.5,149.0,"2010年式 / 3.5 4WD / 87,000km / 東京都",2010年式,3.5 4WD,"87,000km",東京都,manen
+mitsubishi-triton,トライトン,,2009,2009年式,root,root,22,10.8,161.3,102.7,95.5,87.5,130.5,161.3,"2009年式 / 3.5 4WD / 19,000km / 千葉県",2009年式,3.5 4WD,"19,000km",千葉県,manen
+mitsubishi-triton,トライトン,,2008,2008年式,root,root,22,40.1,161.0,93.6,91.3,65.2,125.9,161.0,"2008年式 / 3.5 4WD / 58,000km / 群馬県",2008年式,3.5 4WD,"58,000km",群馬県,manen
+mitsubishi-triton,トライトン,,2007,2007年式,root,root,43,45.0,146.0,81.4,77.4,61.0,95.5,146.0,"2007年式 / 3.5 4WD / 61,000km / 香川県",2007年式,3.5 4WD,"61,000km",香川県,manen
+mitsubishi-triton,トライトン,,2006,2006年式,root,root,28,38.5,146.5,76.1,68.2,58.0,90.5,146.5,"2006年式 / 3.5 4WD / 42,000km / 山梨県",2006年式,3.5 4WD,"42,000km",山梨県,manen
+mitsubishi-triton,トライトン,,2005,2005年式,root,root,22,56.3,150.0,84.3,78.2,64.3,99.3,150.0,"2005年式 / 3.5 4WD / 53,000km / 長野県",2005年式,3.5 4WD,"53,000km",長野県,manen

@@ -1,0 +1,12 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+mazda-mazda2,MAZDA2,,2025,2025年式,root,root,6,101.8,155.0,129.7,128.2,123.1,142.0,155.0,"2025年式 / 1.5 15BD i セレクション / 1,000km / 岩手県",2025年式,1.5 15BD i セレクション,"1,000km",岩手県,manen
+mazda-mazda2,MAZDA2,,2024,2024年式,root,root,38,117.0,168.9,145.6,149.8,139.5,156.5,168.9,"2024年式 / 1.5 XD スポルトプラス / 13,000km / 神奈川県",2024年式,1.5 XD スポルトプラス,"13,000km",神奈川県,manen
+mazda-mazda2,MAZDA2,,2023,2023年式,root,root,90,73.7,177.6,133.7,135.5,120.6,150.5,177.6,"2023年式 / 1.5 XD スポルトプラス / 1,000km / 愛知県",2023年式,1.5 XD スポルトプラス,"1,000km",愛知県,manen
+mazda-mazda2,MAZDA2,,2022,2022年式,root,root,126,47.1,153.0,115.4,118.5,103.4,126.9,153.0,2022年式 / 1.5 15S ブラックトーンエディション / 1万km / 福岡県,2022年式,1.5 15S ブラックトーンエディション,1万km,福岡県,manen
+mazda-mazda2,MAZDA2,,2021,2021年式,root,root,172,54.1,166.5,112.5,116.2,98.5,126.0,166.5,"2021年式 / 1.5 15S ブラックトーンエディション 4WD / 2,000km / 大分県",2021年式,1.5 15S ブラックトーンエディション 4WD,"2,000km",大分県,manen
+mazda-mazda2,MAZDA2,,2020,2020年式,root,root,232,44.3,175.8,106.3,109.7,89.0,123.5,175.8,"2020年式 / 1.5 15S 100周年特別記念車 / 6,000km / 千葉県",2020年式,1.5 15S 100周年特別記念車,"6,000km",千葉県,manen
+mazda-mazda2,MAZDA2,,2019,2019年式,root,root,211,46.8,163.0,103.3,105.0,86.5,121.0,163.0,2019年式 / 1.5 XD Lパッケージ / 0万km / 秋田県,2019年式,1.5 XD Lパッケージ,0万km,秋田県,manen
+mazda-mazda2,MAZDA2,,2018,2018年式,root,root,2,70.9,100.0,85.5,85.5,70.9,100.0,100.0,"2018年式 / 1.5 15S / 15,000km / 静岡県",2018年式,1.5 15S,"15,000km",静岡県,manen
+mazda-mazda2,MAZDA2,,2016,2016年式,root,root,1,64.5,64.5,64.5,64.5,64.5,64.5,64.5,"2016年式 / 1.5 XD 4WD / 79,000km / 大阪府",2016年式,1.5 XD 4WD,"79,000km",大阪府,manen
+mazda-mazda2,MAZDA2,,2014,2014年式,root,root,1,51.5,51.5,51.5,51.5,51.5,51.5,51.5,"2014年式 / 1.5 XD / 64,000km / 兵庫県",2014年式,1.5 XD,"64,000km",兵庫県,manen
+mazda-mazda2,MAZDA2,,1990,1990年式,root,root,1,76.9,76.9,76.9,76.9,76.9,76.9,76.9,"1990年式 / 1.5 15S 4WD / 99,000km / 石川県",1990年式,1.5 15S 4WD,"99,000km",石川県,manen

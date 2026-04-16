@@ -1,0 +1,11 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+suzuki-xbee,クロスビー,,2025,2025年式,root,root,2,157.0,190.5,173.8,173.8,157.0,190.5,190.5,"2025年式 / 1.0 ハイブリッド(HYBRID) MZ 4WD / 5,000km / 福井県",2025年式,1.0 ハイブリッド(HYBRID) MZ 4WD,"5,000km",福井県,manen
+suzuki-xbee,クロスビー,,2024,2024年式,root,root,24,154.0,181.1,167.0,166.5,162.0,168.0,181.1,"2024年式 / 1.0 ハイブリッド(HYBRID) MZ 4WD / 7,000km / 岐阜県",2024年式,1.0 ハイブリッド(HYBRID) MZ 4WD,"7,000km",岐阜県,manen
+suzuki-xbee,クロスビー,,2023,2023年式,root,root,107,83.7,191.0,158.4,161.5,147.5,170.3,191.0,2023年式 / 1.0 ハイブリッド(HYBRID) MZ 4WD / 0万km / 神奈川県,2023年式,1.0 ハイブリッド(HYBRID) MZ 4WD,0万km,神奈川県,manen
+suzuki-xbee,クロスビー,,2022,2022年式,root,root,110,66.0,191.0,152.1,162.5,138.4,174.0,191.0,"2022年式 / 1.0 ハイブリッド(HYBRID) MZ 4WD / 12,000km / 兵庫県",2022年式,1.0 ハイブリッド(HYBRID) MZ 4WD,"12,000km",兵庫県,manen
+suzuki-xbee,クロスビー,,2021,2021年式,root,root,148,50.9,189.0,139.6,144.2,126.3,159.0,189.0,"2021年式 / 1.0 ハイブリッド(HYBRID) MZ 4WD / 17,000km / 岩手県",2021年式,1.0 ハイブリッド(HYBRID) MZ 4WD,"17,000km",岩手県,manen
+suzuki-xbee,クロスビー,,2020,2020年式,root,root,177,43.8,177.5,127.8,129.2,115.5,146.8,177.5,"2020年式 / 1.0 ハイブリッド(HYBRID) MZ 4WD / 22,000km / 宮崎県",2020年式,1.0 ハイブリッド(HYBRID) MZ 4WD,"22,000km",宮崎県,manen
+suzuki-xbee,クロスビー,,2019,2019年式,root,root,191,33.5,168.7,117.4,116.0,102.5,137.5,168.7,"2019年式 / 1.0 ハイブリッド(HYBRID) MZ 4WD / 25,000km / 佐賀県",2019年式,1.0 ハイブリッド(HYBRID) MZ 4WD,"25,000km",佐賀県,manen
+suzuki-xbee,クロスビー,,2018,2018年式,root,root,192,36.7,157.9,104.2,110.2,88.1,123.8,157.9,"2018年式 / 1.0 ハイブリッド(HYBRID) MZ 4WD / 13,000km / 三重県",2018年式,1.0 ハイブリッド(HYBRID) MZ 4WD,"13,000km",三重県,manen
+suzuki-xbee,クロスビー,,2017,2017年式,root,root,48,35.0,158.3,101.4,110.3,75.2,119.0,158.3,"2017年式 / 1.0 ハイブリッド(HYBRID) MX 4WD / 35,000km / 岡山県",2017年式,1.0 ハイブリッド(HYBRID) MX 4WD,"35,000km",岡山県,manen
+suzuki-xbee,クロスビー,,2016,2016年式,root,root,1,60.3,60.3,60.3,60.3,60.3,60.3,60.3,"2016年式 / 1.0 ハイブリッド(HYBRID) MX / 103,000km / 山形県",2016年式,1.0 ハイブリッド(HYBRID) MX,"103,000km",山形県,manen

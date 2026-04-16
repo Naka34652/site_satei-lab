@@ -1,0 +1,10 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+subaru-justy,ジャスティ,,2023,2023年式,root,root,2,101.4,151.0,126.2,126.2,101.4,151.0,151.0,"2023年式 / 1.0 / 23,000km / 宮崎県",2023年式,1.0,"23,000km",宮崎県,manen
+subaru-justy,ジャスティ,,2022,2022年式,root,root,2,134.0,150.5,142.2,142.2,134.0,150.5,150.5,"2022年式 / 1.0 4WD / 35,000km / 沖縄県",2022年式,1.0 4WD,"35,000km",沖縄県,manen
+subaru-justy,ジャスティ,,2021,2021年式,root,root,1,113.4,113.4,113.4,113.4,113.4,113.4,113.4,"2021年式 / 1.0 L スマートアシスト / 39,000km / 大分県",2021年式,1.0 L スマートアシスト,"39,000km",大分県,manen
+subaru-justy,ジャスティ,,2020,2020年式,root,root,38,21.0,140.0,71.9,72.0,51.3,93.0,140.0,"2020年式 / 1.0 G スマートアシスト 4WD / 36,000km / 長野県",2020年式,1.0 G スマートアシスト 4WD,"36,000km",長野県,manen
+subaru-justy,ジャスティ,,2019,2019年式,root,root,86,21.8,132.1,81.1,81.8,58.6,106.5,132.1,"2019年式 / 1.0 カスタムRS スマートアシスト / 28,000km / 三重県",2019年式,1.0 カスタムRS スマートアシスト,"28,000km",三重県,manen
+subaru-justy,ジャスティ,,2018,2018年式,root,root,87,20.8,137.0,67.9,65.5,52.0,85.5,137.0,"2018年式 / 1.0 G スマートアシスト 4WD / 59,000km / 茨城県",2018年式,1.0 G スマートアシスト 4WD,"59,000km",茨城県,manen
+subaru-justy,ジャスティ,,2017,2017年式,root,root,158,11.7,140.5,70.2,66.0,45.5,96.5,140.5,"2017年式 / 1.0 カスタムRS スマートアシスト / 4,000km / 愛知県",2017年式,1.0 カスタムRS スマートアシスト,"4,000km",愛知県,manen
+subaru-justy,ジャスティ,,2016,2016年式,root,root,80,20.8,148.0,92.3,98.8,68.5,120.2,148.0,2016年式 / 1.0 カスタムR スマートアシスト 4WD / 1万km / 青森県,2016年式,1.0 カスタムR スマートアシスト 4WD,1万km,青森県,manen
+subaru-justy,ジャスティ,,2015,2015年式,root,root,17,41.7,136.5,98.9,101.1,95.0,112.4,136.5,"2015年式 / 1.0 G スマートアシスト 4WD / 11,000km / 富山県",2015年式,1.0 G スマートアシスト 4WD,"11,000km",富山県,manen

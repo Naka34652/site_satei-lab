@@ -1,0 +1,9 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+daihatsu-coo,クー,,2012,2012年式,root,root,7,9.4,18.6,13.6,12.8,10.4,16.5,18.6,"2012年式 / 1.5 CX / 106,000km / 鳥取県",2012年式,1.5 CX,"106,000km",鳥取県,manen
+daihatsu-coo,クー,,2011,2011年式,root,root,21,5.0,30.0,13.1,11.2,8.8,16.8,30.0,"2011年式 / 1.3 CX 4WD / 65,000km / 岩手県",2011年式,1.3 CX 4WD,"65,000km",岩手県,manen
+daihatsu-coo,クー,,2010,2010年式,root,root,22,5.0,31.0,14.6,11.7,7.8,19.0,31.0,"2010年式 / 1.3 CL / 24,000km / 佐賀県",2010年式,1.3 CL,"24,000km",佐賀県,manen
+daihatsu-coo,クー,,2009,2009年式,root,root,28,5.2,32.6,16.2,12.8,10.3,23.0,32.6,"2009年式 / 1.3 CX 4WD / 68,000km / 新潟県",2009年式,1.3 CX 4WD,"68,000km",新潟県,manen
+daihatsu-coo,クー,,2008,2008年式,root,root,55,4.6,26.2,14.3,12.0,9.1,21.1,26.2,"2008年式 / 1.3 CL / 82,000km / 高知県",2008年式,1.3 CL,"82,000km",高知県,manen
+daihatsu-coo,クー,,2007,2007年式,root,root,81,4.5,34.8,13.5,10.5,8.5,17.5,34.8,2007年式 / 1.3 CXリミテッド 4WD / 5万km / 秋田県,2007年式,1.3 CXリミテッド 4WD,5万km,秋田県,manen
+daihatsu-coo,クー,,2006,2006年式,root,root,123,3.6,33.5,11.5,10.0,6.9,13.6,33.5,"2006年式 / 1.3 CS / 26,000km / 群馬県",2006年式,1.3 CS,"26,000km",群馬県,manen
+daihatsu-coo,クー,,2005,2005年式,root,root,96,4.4,28.5,12.5,11.2,7.2,16.3,28.5,"2005年式 / 1.3 CL / 23,000km / 宮城県",2005年式,1.3 CL,"23,000km",宮城県,manen

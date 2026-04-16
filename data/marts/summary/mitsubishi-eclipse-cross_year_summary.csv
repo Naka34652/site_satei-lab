@@ -1,0 +1,14 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+mitsubishi-eclipse-cross,エクリプス クロス,,2025,2025年式,root,root,5,215.5,282.0,248.0,238.0,226.0,278.5,282.0,2025年式 / 1.5 P 4WD / 1万km / 秋田県,2025年式,1.5 P 4WD,1万km,秋田県,manen
+mitsubishi-eclipse-cross,エクリプス クロス,,2024,2024年式,root,root,37,103.2,335.0,255.9,257.0,244.0,273.0,335.0,"2024年式 / PHEV 2.4 P 4WD / 1,000km / 三重県",2024年式,PHEV 2.4 P 4WD,"1,000km",三重県,manen
+mitsubishi-eclipse-cross,エクリプス クロス,,2023,2023年式,root,root,73,129.7,345.5,246.0,248.8,228.5,263.3,345.5,"2023年式 / 1.5 G リミテッドエディション 4WD / 48,000km / 京都府",2023年式,1.5 G リミテッドエディション 4WD,"48,000km",京都府,manen
+mitsubishi-eclipse-cross,エクリプス クロス,,2022,2022年式,root,root,104,146.5,342.2,243.9,246.2,207.0,285.5,342.2,"2022年式 / 1.5 G プラスパッケージ 4WD / 32,000km / 埼玉県",2022年式,1.5 G プラスパッケージ 4WD,"32,000km",埼玉県,manen
+mitsubishi-eclipse-cross,エクリプス クロス,,2021,2021年式,root,root,170,98.5,339.6,245.8,244.9,210.5,288.2,339.6,"2021年式 / 1.5 G プラスパッケージ 4WD / 31,000km / 千葉県",2021年式,1.5 G プラスパッケージ 4WD,"31,000km",千葉県,manen
+mitsubishi-eclipse-cross,エクリプス クロス,,2020,2020年式,root,root,217,90.0,337.0,219.1,214.5,185.0,251.0,337.0,"2020年式 / 1.5 G プラスパッケージ 4WD / 19,000km / 鹿児島県",2020年式,1.5 G プラスパッケージ 4WD,"19,000km",鹿児島県,manen
+mitsubishi-eclipse-cross,エクリプス クロス,,2019,2019年式,root,root,212,99.5,308.0,197.6,201.5,178.4,222.5,308.0,"2019年式 / 1.5 G 4WD / 9,000km / 福井県",2019年式,1.5 G 4WD,"9,000km",福井県,manen
+mitsubishi-eclipse-cross,エクリプス クロス,,2018,2018年式,root,root,171,107.6,299.3,191.1,189.2,169.5,215.0,299.3,"2018年式 / 1.5 G プラスパッケージ 4WD / 47,000km / 東京都",2018年式,1.5 G プラスパッケージ 4WD,"47,000km",東京都,manen
+mitsubishi-eclipse-cross,エクリプス クロス,,2017,2017年式,root,root,1,210.5,210.5,210.5,210.5,210.5,210.5,210.5,"2017年式 / 1.5 G 4WD / 38,000km / 大阪府",2017年式,1.5 G 4WD,"38,000km",大阪府,manen
+mitsubishi-eclipse-cross,エクリプス クロス,,1993,1993年式,root,root,1,240.5,240.5,240.5,240.5,240.5,240.5,240.5,"1993年式 / PHEV 2.4 G リミテッド エディション 4WD / 1,000km / 香川県",1993年式,PHEV 2.4 G リミテッド エディション 4WD,"1,000km",香川県,manen
+mitsubishi-eclipse-cross,エクリプス クロス,,1992,1992年式,root,root,1,220.1,220.1,220.1,220.1,220.1,220.1,220.1,"1992年式 / PHEV 2.4 G 4WD / 5,000km / 愛媛県",1992年式,PHEV 2.4 G 4WD,"5,000km",愛媛県,manen
+mitsubishi-eclipse-cross,エクリプス クロス,,1991,1991年式,root,root,3,239.0,318.9,268.8,248.6,239.0,318.9,318.9,"1991年式 / 1.5 G プラスパッケージ 4WD / 39,000km / 京都府",1991年式,1.5 G プラスパッケージ 4WD,"39,000km",京都府,manen
+mitsubishi-eclipse-cross,エクリプス クロス,,1990,1990年式,root,root,5,189.0,302.5,230.5,208.5,201.8,250.5,302.5,"1990年式 / 1.5 G 4WD / 3,000km / 鳥取県",1990年式,1.5 G 4WD,"3,000km",鳥取県,manen

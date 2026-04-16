@@ -1,0 +1,14 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+toyota-bz4x,bZ4X,,2025,2025年式,root,root,6,162.3,350.5,256.4,257.8,171.6,338.3,350.5,"2025年式 / Z 4WD / 1,000km / 岐阜県",2025年式,Z 4WD,"1,000km",岐阜県,manen
+toyota-bz4x,bZ4X,,2024,2024年式,root,root,9,148.9,352.9,273.9,304.2,208.0,336.5,352.9,"2024年式 / Z 4WD / 1,000km / 東京都",2024年式,Z 4WD,"1,000km",東京都,manen
+toyota-bz4x,bZ4X,,2023,2023年式,root,root,13,193.0,375.6,294.6,311.0,276.1,330.0,375.6,"2023年式 / Z / 1,000km / 千葉県",2023年式,Z,"1,000km",千葉県,manen
+toyota-bz4x,bZ4X,,2022,2022年式,root,root,16,179.7,407.2,294.1,285.4,251.0,348.7,407.2,"2022年式 / Z / 2,000km / 徳島県",2022年式,Z,"2,000km",徳島県,manen
+toyota-bz4x,bZ4X,,2021,2021年式,root,root,2,187.1,190.5,188.8,188.8,187.1,190.5,190.5,"2021年式 / Z / 42,000km / 新潟県",2021年式,Z,"42,000km",新潟県,manen
+toyota-bz4x,bZ4X,,2020,2020年式,root,root,4,122.6,172.7,143.9,140.2,131.8,148.7,172.7,2020年式 / Z 4WD / 4万km / 山梨県,2020年式,Z 4WD,4万km,山梨県,manen
+toyota-bz4x,bZ4X,,2019,2019年式,root,root,4,123.4,141.1,132.8,133.3,130.7,136.0,141.1,"2019年式 / G / 25,000km / 京都府",2019年式,G,"25,000km",京都府,manen
+toyota-bz4x,bZ4X,,2015,2015年式,root,root,2,49.9,55.5,52.7,52.7,49.9,55.5,55.5,"2015年式 / Z / 66,000km / 栃木県",2015年式,Z,"66,000km",栃木県,manen
+toyota-bz4x,bZ4X,,2014,2014年式,root,root,2,24.7,47.5,36.1,36.1,24.7,47.5,47.5,"2014年式 / G / 58,000km / 埼玉県",2014年式,G,"58,000km",埼玉県,manen
+toyota-bz4x,bZ4X,,2005,2005年式,root,root,1,23.0,23.0,23.0,23.0,23.0,23.0,23.0,"2005年式 / Z / 92,000km / 東京都",2005年式,Z,"92,000km",東京都,manen
+toyota-bz4x,bZ4X,,2004,2004年式,root,root,1,23.0,23.0,23.0,23.0,23.0,23.0,23.0,"2004年式 / Z / 119,000km / 神奈川県",2004年式,Z,"119,000km",神奈川県,manen
+toyota-bz4x,bZ4X,,2001,2001年式,root,root,2,22.6,24.0,23.3,23.3,22.6,24.0,24.0,"2001年式 / Z 4WD / 122,000km / 新潟県",2001年式,Z 4WD,"122,000km",新潟県,manen
+toyota-bz4x,bZ4X,,2000,2000年式,root,root,2,22.1,22.5,22.3,22.3,22.1,22.5,22.5,"2000年式 / Z / 213,000km / 石川県",2000年式,Z,"213,000km",石川県,manen

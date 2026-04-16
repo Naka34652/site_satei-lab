@@ -1,0 +1,8 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+suzuki-sx4-s-cross,SX4 クロス,,2020,2020年式,root,root,2,131.1,157.0,144.1,144.1,131.1,157.0,157.0,"2020年式 / 1.6 4WD / 44,000km / 大阪府",2020年式,1.6 4WD,"44,000km",大阪府,manen
+suzuki-sx4-s-cross,SX4 クロス,,2019,2019年式,root,root,18,92.0,165.5,133.0,129.0,118.5,152.5,165.5,"2019年式 / 1.6 4WD / 44,000km / 長野県",2019年式,1.6 4WD,"44,000km",長野県,manen
+suzuki-sx4-s-cross,SX4 クロス,,2018,2018年式,root,root,18,68.6,155.0,108.1,99.7,96.7,118.1,155.0,"2018年式 / 1.6 4WD / 43,000km / 福井県",2018年式,1.6 4WD,"43,000km",福井県,manen
+suzuki-sx4-s-cross,SX4 クロス,,2017,2017年式,root,root,27,30.4,165.7,95.3,102.0,46.6,130.0,165.7,"2017年式 / 1.6 4WD / 8,000km / 富山県",2017年式,1.6 4WD,"8,000km",富山県,manen
+suzuki-sx4-s-cross,SX4 クロス,,2016,2016年式,root,root,28,26.5,161.0,106.0,117.0,79.3,147.7,161.0,"2016年式 / 1.6 4WD / 11,000km / 宮城県",2016年式,1.6 4WD,"11,000km",宮城県,manen
+suzuki-sx4-s-cross,SX4 クロス,,2015,2015年式,root,root,28,23.1,143.8,65.7,63.1,44.0,73.5,143.8,"2015年式 / 1.6 4WD / 1,000km / 京都府",2015年式,1.6 4WD,"1,000km",京都府,manen
+suzuki-sx4-s-cross,SX4 クロス,,2014,2014年式,root,root,20,28.6,131.0,91.0,93.3,70.3,111.7,131.0,"2014年式 / 1.6 4WD / 16,000km / 大分県",2014年式,1.6 4WD,"16,000km",大分県,manen

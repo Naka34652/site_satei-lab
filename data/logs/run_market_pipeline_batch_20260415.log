@@ -1,0 +1,72 @@
+2026-04-15 23:04:31,502 INFO run_market_pipeline_batch: Batch market pipeline started for 4 active models
+2026-04-15 23:04:31,503 INFO run_market_pipeline_batch: Target model: toyota-prius
+2026-04-15 23:04:31,503 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-15 23:04:31,503 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/155/ (root)
+2026-04-15 23:04:36,452 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/155/2y/ (year_variant)
+2026-04-15 23:04:37,054 INFO run_market_pipeline_batch: Parsed 1181 candidate records
+2026-04-15 23:04:37,151 INFO run_market_pipeline_batch: Normalized 1181 records
+2026-04-15 23:04:37,185 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-prius.csv
+2026-04-15 23:04:37,207 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-prius_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-prius_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-prius_overall_summary.csv
+2026-04-15 23:04:37,223 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-prius-kaitori-soba-2025.md
+2026-04-15 23:04:37,223 INFO run_market_pipeline_batch: Target model: honda-jade
+2026-04-15 23:04:37,224 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-15 23:04:37,224 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/22209/ (root)
+2026-04-15 23:04:39,626 INFO run_market_pipeline_batch: Parsed 1017 candidate records
+2026-04-15 23:04:39,718 INFO run_market_pipeline_batch: Normalized 1017 records
+2026-04-15 23:04:39,749 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-jade.csv
+2026-04-15 23:04:39,773 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-jade_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-jade_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-jade_overall_summary.csv
+2026-04-15 23:04:39,774 WARNING run_market_pipeline_batch: Preferred target year 2025 was not available for honda-jade. Falling back to 2020.
+2026-04-15 23:04:39,786 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-jade-kaitori-soba-2020.md
+2026-04-15 23:04:39,787 INFO run_market_pipeline_batch: Target model: honda-shuttle
+2026-04-15 23:04:39,787 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-15 23:04:39,787 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/22246/ (root)
+2026-04-15 23:04:42,887 INFO run_market_pipeline_batch: Parsed 1025 candidate records
+2026-04-15 23:04:42,971 INFO run_market_pipeline_batch: Normalized 1025 records
+2026-04-15 23:04:43,003 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-shuttle.csv
+2026-04-15 23:04:43,029 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-shuttle_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-shuttle_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-shuttle_overall_summary.csv
+2026-04-15 23:04:43,031 WARNING run_market_pipeline_batch: Preferred target year 2025 was not available for honda-shuttle. Falling back to 2023.
+2026-04-15 23:04:43,042 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-shuttle-kaitori-soba-2023.md
+2026-04-15 23:04:43,043 INFO run_market_pipeline_batch: Target model: honda-freed
+2026-04-15 23:04:43,043 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-15 23:04:43,047 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/21133/ (root)
+2026-04-15 23:04:46,959 INFO run_market_pipeline_batch: Parsed 1040 candidate records
+2026-04-15 23:04:47,045 INFO run_market_pipeline_batch: Normalized 1040 records
+2026-04-15 23:04:47,078 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-freed.csv
+2026-04-15 23:04:47,100 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-freed_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-freed_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-freed_overall_summary.csv
+2026-04-15 23:04:47,110 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-freed-kaitori-soba-2025.md
+2026-04-15 23:04:47,111 INFO run_market_pipeline_batch: Batch finished successfully with no failures.
+2026-04-15 23:23:39,752 INFO run_market_pipeline_batch: Batch market pipeline started for 4 active models
+2026-04-15 23:23:39,753 INFO run_market_pipeline_batch: Target model: toyota-prius
+2026-04-15 23:23:39,753 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-15 23:23:39,754 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/155/ (root)
+2026-04-15 23:23:42,563 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/1/155/2y/ (year_variant)
+2026-04-15 23:23:43,540 INFO run_market_pipeline_batch: Parsed 1181 candidate records
+2026-04-15 23:23:43,612 INFO run_market_pipeline_batch: Normalized 1181 records
+2026-04-15 23:23:43,638 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/toyota-prius.csv
+2026-04-15 23:23:43,664 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-prius_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-prius_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/toyota-prius_overall_summary.csv
+2026-04-15 23:23:43,676 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/toyota-prius-kaitori-soba-2026.md
+2026-04-15 23:23:43,677 INFO run_market_pipeline_batch: Target model: honda-jade
+2026-04-15 23:23:43,677 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-15 23:23:43,677 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/22209/ (root)
+2026-04-15 23:23:46,622 INFO run_market_pipeline_batch: Parsed 1017 candidate records
+2026-04-15 23:23:46,691 INFO run_market_pipeline_batch: Normalized 1017 records
+2026-04-15 23:23:46,717 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-jade.csv
+2026-04-15 23:23:46,740 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-jade_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-jade_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-jade_overall_summary.csv
+2026-04-15 23:23:46,749 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-jade-kaitori-soba-2026.md
+2026-04-15 23:23:46,749 INFO run_market_pipeline_batch: Target model: honda-shuttle
+2026-04-15 23:23:46,749 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-15 23:23:46,750 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/22246/ (root)
+2026-04-15 23:23:49,033 INFO run_market_pipeline_batch: Parsed 1025 candidate records
+2026-04-15 23:23:49,097 INFO run_market_pipeline_batch: Normalized 1025 records
+2026-04-15 23:23:49,119 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-shuttle.csv
+2026-04-15 23:23:49,135 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-shuttle_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-shuttle_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-shuttle_overall_summary.csv
+2026-04-15 23:23:49,147 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-shuttle-kaitori-soba-2026.md
+2026-04-15 23:23:49,148 INFO run_market_pipeline_batch: Target model: honda-freed
+2026-04-15 23:23:49,148 INFO run_market_pipeline_batch: Source: kurumaerabi_kaitori
+2026-04-15 23:23:49,148 INFO run_market_pipeline_batch: Fetching raw HTML from https://www.kurumaerabi.com/kaitori/marketprice/cartype/3/21133/ (root)
+2026-04-15 23:23:51,699 INFO run_market_pipeline_batch: Parsed 1040 candidate records
+2026-04-15 23:23:51,773 INFO run_market_pipeline_batch: Normalized 1040 records
+2026-04-15 23:23:51,797 INFO run_market_pipeline_batch: Exported CSV: /Users/user/Documents/Site/satei-lab/data/marts/csv/honda-freed.csv
+2026-04-15 23:23:51,811 INFO run_market_pipeline_batch: Exported summary CSVs: /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-freed_year_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-freed_mileage_summary.csv, /Users/user/Documents/Site/satei-lab/data/marts/summary/honda-freed_overall_summary.csv
+2026-04-15 23:23:51,819 INFO run_market_pipeline_batch: Generated article draft: /Users/user/Documents/Site/satei-lab/output/articles/honda-freed-kaitori-soba-2026.md
+2026-04-15 23:23:51,819 INFO run_market_pipeline_batch: Batch finished successfully with no failures.

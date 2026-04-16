@@ -1,0 +1,9 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+subaru-xv-hybrid,XVハイブリッド,,2017,2017年式,root,root,13,46.5,163.5,108.9,106.5,78.4,144.0,163.5,"2017年式 / 2.0i-L アイサイト 4WD / 42,000km / 静岡県",2017年式,2.0i-L アイサイト 4WD,"42,000km",静岡県,manen
+subaru-xv-hybrid,XVハイブリッド,,2016,2016年式,root,root,69,22.1,229.5,102.4,89.2,61.9,125.4,229.5,2016年式 / 2.0 tS 4WD / 2万km / 山形県,2016年式,2.0 tS 4WD,2万km,山形県,manen
+subaru-xv-hybrid,XVハイブリッド,,2015,2015年式,root,root,112,16.4,227.0,100.0,91.9,60.0,118.5,227.0,"2015年式 / 2.0 tS 4WD / 2,000km / 富山県",2015年式,2.0 tS 4WD,"2,000km",富山県,manen
+subaru-xv-hybrid,XVハイブリッド,,2014,2014年式,root,root,161,2.9,219.5,100.1,90.5,59.5,143.0,219.5,"2014年式 / 2.0i-L アイサイト 4WD / 8,000km / 宮崎県",2014年式,2.0i-L アイサイト 4WD,"8,000km",宮崎県,manen
+subaru-xv-hybrid,XVハイブリッド,,2013,2013年式,root,root,265,9.7,224.5,133.7,155.6,75.0,190.0,224.5,"2013年式 / 2.0i-L アイサイト 4WD / 13,000km / 沖縄県",2013年式,2.0i-L アイサイト 4WD,"13,000km",沖縄県,manen
+subaru-xv-hybrid,XVハイブリッド,,2012,2012年式,root,root,249,11.3,224.0,162.9,167.4,140.0,194.0,224.0,"2012年式 / 2.0i-L アイサイト 4WD / 13,000km / 静岡県",2012年式,2.0i-L アイサイト 4WD,"13,000km",静岡県,manen
+subaru-xv-hybrid,XVハイブリッド,,2011,2011年式,root,root,1,53.0,53.0,53.0,53.0,53.0,53.0,53.0,"2011年式 / 2.0i アイサイト 4WD / 108,000km / 三重県",2011年式,2.0i アイサイト 4WD,"108,000km",三重県,manen
+subaru-xv-hybrid,XVハイブリッド,,1987,1987年式,root,root,6,176.5,221.5,207.3,209.9,207.7,218.5,221.5,"1987年式 / 2.0i-L アイサイト 4WD / 12,000km / 沖縄県",1987年式,2.0i-L アイサイト 4WD,"12,000km",沖縄県,manen

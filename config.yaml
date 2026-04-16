@@ -1,0 +1,47 @@
+{
+  "project": {
+    "name": "satei-lab",
+    "timezone": "Asia/Tokyo"
+  },
+  "paths": {
+    "raw_api_dir": "data/raw/api",
+    "raw_html_dir": "data/raw/html",
+    "normalized_dir": "data/normalized/cars",
+    "marts_csv_dir": "data/marts/csv",
+    "marts_summary_dir": "data/marts/summary",
+    "logs_dir": "data/logs",
+    "models_master_csv": "data/normalized/reference/models_master.csv"
+  },
+  "pipeline": {
+    "default_source": "kurumaerabi_kaitori",
+    "target_model_slug": "toyota-prius",
+    "save_raw": true,
+    "export_summary": false
+  },
+  "sources": {
+    "kurumaerabi_kaitori": {
+      "type": "html",
+      "enabled": true,
+      "base_url": "https://www.kurumaerabi.com/kaitori/marketprice/",
+      "url_template": "cartype/{source_model_key}/",
+      "timeout_sec": 20,
+      "rate_limit_sec": 1.0,
+      "headers": {
+        "user_agent": "satei-lab-data-pipeline/1.0"
+      }
+    }
+  },
+  "normalization": {
+    "mileage_bands": [
+      { "min": 0, "max": 30000, "label": "3万km未満" },
+      { "min": 30000, "max": 50000, "label": "3万km台〜5万km未満" },
+      { "min": 50000, "max": 70000, "label": "5万km台〜7万km未満" },
+      { "min": 70000, "max": 100000, "label": "7万km台〜10万km未満" },
+      { "min": 100000, "max": 9999999, "label": "10万km以上" }
+    ]
+  },
+  "logging": {
+    "level": "INFO",
+    "save_file": true
+  }
+}

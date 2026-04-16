@@ -1,0 +1,17 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+daihatsu-terios-kid,テリオスキッド,,2012,2012年式,root,root,58,5.0,50.1,27.0,25.8,18.6,35.2,50.1,"2012年式 / カスタム X / 44,000km / 和歌山県",2012年式,カスタム X,"44,000km",和歌山県,manen
+daihatsu-terios-kid,テリオスキッド,,2011,2011年式,root,root,95,7.0,49.7,28.3,28.0,19.8,36.9,49.7,2011年式 / カスタム L 4WD / 5万km / 福島県,2011年式,カスタム L 4WD,5万km,福島県,manen
+daihatsu-terios-kid,テリオスキッド,,2010,2010年式,root,root,108,5.0,48.3,22.4,21.4,15.5,28.8,48.3,"2010年式 / カスタム L 4WD / 38,000km / 宮城県",2010年式,カスタム L 4WD,"38,000km",宮城県,manen
+daihatsu-terios-kid,テリオスキッド,,2009,2009年式,root,root,128,5.0,49.4,20.3,17.5,11.4,27.1,49.4,"2009年式 / カスタム X 4WD / 55,000km / 岐阜県",2009年式,カスタム X 4WD,"55,000km",岐阜県,manen
+daihatsu-terios-kid,テリオスキッド,,2008,2008年式,root,root,142,5.0,49.5,19.2,17.0,11.4,24.9,49.5,"2008年式 / カスタム L 4WD / 55,000km / 山梨県",2008年式,カスタム L 4WD,"55,000km",山梨県,manen
+daihatsu-terios-kid,テリオスキッド,,2007,2007年式,root,root,140,5.0,47.0,18.2,16.8,10.0,25.0,47.0,"2007年式 / X 4WD / 58,000km / 岐阜県",2007年式,X 4WD,"58,000km",岐阜県,manen
+daihatsu-terios-kid,テリオスキッド,,2006,2006年式,root,root,131,5.0,50.0,16.5,16.0,9.1,21.5,50.0,"2006年式 / カスタム L 4WD / 23,000km / 三重県",2006年式,カスタム L 4WD,"23,000km",三重県,manen
+daihatsu-terios-kid,テリオスキッド,,2005,2005年式,root,root,76,5.0,42.5,14.4,12.2,6.9,19.5,42.5,"2005年式 / カスタム L 4WD / 33,000km / 神奈川県",2005年式,カスタム L 4WD,"33,000km",神奈川県,manen
+daihatsu-terios-kid,テリオスキッド,,2004,2004年式,root,root,36,5.0,36.5,11.5,9.5,8.1,13.5,36.5,2004年式 / X 4WD / 1万km / 埼玉県,2004年式,X 4WD,1万km,埼玉県,manen
+daihatsu-terios-kid,テリオスキッド,,2003,2003年式,root,root,18,5.0,28.0,11.6,9.8,6.6,15.9,28.0,"2003年式 / カスタム X 4WD / 55,000km / 島根県",2003年式,カスタム X 4WD,"55,000km",島根県,manen
+daihatsu-terios-kid,テリオスキッド,,2002,2002年式,root,root,18,5.0,25.5,9.1,6.3,5.0,9.9,25.5,"2002年式 / CLリミテッド / 103,000km / 栃木県",2002年式,CLリミテッド,"103,000km",栃木県,manen
+daihatsu-terios-kid,テリオスキッド,,2001,2001年式,root,root,32,5.0,24.5,9.0,7.6,5.3,10.0,24.5,"2001年式 / カスタム メモリアルエディション 4WD / 77,000km / 青森県",2001年式,カスタム メモリアルエディション 4WD,"77,000km",青森県,manen
+daihatsu-terios-kid,テリオスキッド,,2000,2000年式,root,root,5,5.0,18.7,12.5,12.3,9.1,17.4,18.7,"2000年式 / カスタム メモリアルエディション 4WD / 69,000km / 兵庫県",2000年式,カスタム メモリアルエディション 4WD,"69,000km",兵庫県,manen
+daihatsu-terios-kid,テリオスキッド,,1999,1999年式,root,root,8,9.2,23.5,12.8,11.1,10.5,12.1,23.5,"1999年式 / エアロダウン 4WD / 25,000km / 秋田県",1999年式,エアロダウン 4WD,"25,000km",秋田県,manen
+daihatsu-terios-kid,テリオスキッド,,1998,1998年式,root,root,4,11.5,20.5,16.8,17.6,17.5,17.7,20.5,1998年式 / CLカスタム 4WD / 7万km / 山形県,1998年式,CLカスタム 4WD,7万km,山形県,manen
+daihatsu-terios-kid,テリオスキッド,,1997,1997年式,root,root,1,18.0,18.0,18.0,18.0,18.0,18.0,18.0,1997年式 / エアロダウン 4WD / 11万km / 山口県,1997年式,エアロダウン 4WD,11万km,山口県,manen

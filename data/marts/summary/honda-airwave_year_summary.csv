@@ -1,0 +1,11 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+honda-airwave,エアウェイブ,,2011,2011年式,root,root,1,17.0,17.0,17.0,17.0,17.0,17.0,17.0,"2011年式 / 1.5 ST / 101,000km / 大分県",2011年式,1.5 ST,"101,000km",大分県,manen
+honda-airwave,エアウェイブ,,2010,2010年式,root,root,40,5.0,27.1,11.8,9.8,6.6,15.7,27.1,"2010年式 / 1.5 ST 4WD / 46,000km / 沖縄県",2010年式,1.5 ST 4WD,"46,000km",沖縄県,manen
+honda-airwave,エアウェイブ,,2009,2009年式,root,root,102,5.0,28.7,12.5,10.4,8.3,16.8,28.7,"2009年式 / 1.5 ST / 69,000km / 福岡県",2009年式,1.5 ST,"69,000km",福岡県,manen
+honda-airwave,エアウェイブ,,2008,2008年式,root,root,184,4.6,28.1,12.3,10.4,7.0,16.6,28.1,"2008年式 / 1.5 M Sパッケージ / 18,000km / 静岡県",2008年式,1.5 M Sパッケージ,"18,000km",静岡県,manen
+honda-airwave,エアウェイブ,,2007,2007年式,root,root,180,0.2,28.2,10.3,8.9,6.7,12.5,28.2,"2007年式 / 1.5 ST / 33,000km / 愛媛県",2007年式,1.5 ST,"33,000km",愛媛県,manen
+honda-airwave,エアウェイブ,,2006,2006年式,root,root,191,4.3,23.2,9.0,8.3,6.2,10.2,23.2,"2006年式 / 1.5 スカイ / 54,000km / 岡山県",2006年式,1.5 スカイ,"54,000km",岡山県,manen
+honda-airwave,エアウェイブ,,2005,2005年式,root,root,195,4.5,25.7,9.3,8.2,6.2,10.5,25.7,"2005年式 / 1.5 G / 29,000km / 愛知県",2005年式,1.5 G,"29,000km",愛知県,manen
+honda-airwave,エアウェイブ,,2004,2004年式,root,root,104,4.3,24.6,8.5,7.0,5.6,9.6,24.6,"2004年式 / 1.5 L / 51,000km / 愛知県",2004年式,1.5 L,"51,000km",愛知県,manen
+honda-airwave,エアウェイブ,,1995,1995年式,root,root,1,5.2,5.2,5.2,5.2,5.2,5.2,5.2,"1995年式 / 1.5 G / 117,000km / 秋田県",1995年式,1.5 G,"117,000km",秋田県,manen
+honda-airwave,エアウェイブ,,1988,1988年式,root,root,2,6.3,6.3,6.3,6.3,6.3,6.3,6.3,"1988年式 / 1.5 M / 133,000km / 山口県",1988年式,1.5 M,"133,000km",山口県,manen

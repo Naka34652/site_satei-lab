@@ -1,0 +1,7 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+mazda-mazda6-wagon,MAZDA6ワゴン,,2023,2023年式,root,root,8,205.5,294.0,264.6,271.1,258.5,285.5,294.0,2023年式 / 2.2 XD スポーツ アピアランス / 0万km / 香川県,2023年式,2.2 XD スポーツ アピアランス,0万km,香川県,manen
+mazda-mazda6-wagon,MAZDA6ワゴン,,2022,2022年式,root,root,31,110.0,297.8,203.2,209.0,180.7,221.5,297.8,"2022年式 / 2.2 XD スポーツ アピアランス / 1,000km / 熊本県",2022年式,2.2 XD スポーツ アピアランス,"1,000km",熊本県,manen
+mazda-mazda6-wagon,MAZDA6ワゴン,,2021,2021年式,root,root,38,98.0,276.0,208.1,212.7,181.0,236.5,276.0,"2021年式 / 2.2 XD ブラックトーンエディション / 14,000km / 埼玉県",2021年式,2.2 XD ブラックトーンエディション,"14,000km",埼玉県,manen
+mazda-mazda6-wagon,MAZDA6ワゴン,,2020,2020年式,root,root,80,81.5,285.1,193.0,199.7,161.5,219.3,285.1,2020年式 / 2.2 XD Lパッケージ / 0万km / 奈良県,2020年式,2.2 XD Lパッケージ,0万km,奈良県,manen
+mazda-mazda6-wagon,MAZDA6ワゴン,,2019,2019年式,root,root,89,78.1,302.6,197.4,201.0,150.1,249.5,302.6,"2019年式 / 2.2 XD Lパッケージ 4WD / 19,000km / 鹿児島県",2019年式,2.2 XD Lパッケージ 4WD,"19,000km",鹿児島県,manen
+mazda-mazda6-wagon,MAZDA6ワゴン,,2018,2018年式,root,root,1,280.0,280.0,280.0,280.0,280.0,280.0,280.0,2018年式 / 2.2 XD Lパッケージ / 0万km / 栃木県,2018年式,2.2 XD Lパッケージ,0万km,栃木県,manen

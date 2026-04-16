@@ -1,0 +1,5 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+nissan-ariya,アリア,,2024,2024年式,root,root,21,339.7,582.0,441.4,458.5,379.0,481.0,582.0,2024年式 / NISMO B6 e-4ORCE 4WD / 0万km / 福岡県,2024年式,NISMO B6 e-4ORCE 4WD,0万km,福岡県,manen
+nissan-ariya,アリア,,2023,2023年式,root,root,50,270.9,631.5,416.7,415.2,361.4,464.0,631.5,"2023年式 / B6 e-4ORCE リミテッド 4WD / 14,000km / 兵庫県",2023年式,B6 e-4ORCE リミテッド 4WD,"14,000km",兵庫県,manen
+nissan-ariya,アリア,,2022,2022年式,root,root,81,200.5,623.5,373.0,352.6,322.5,430.5,623.5,"2022年式 / B6 e-4ORCE リミテッド 4WD / 15,000km / 島根県",2022年式,B6 e-4ORCE リミテッド 4WD,"15,000km",島根県,manen
+nissan-ariya,アリア,,2021,2021年式,root,root,2,309.8,424.5,367.1,367.1,309.8,424.5,424.5,"2021年式 / B6 リミテッド / 26,000km / 岩手県",2021年式,B6 リミテッド,"26,000km",岩手県,manen

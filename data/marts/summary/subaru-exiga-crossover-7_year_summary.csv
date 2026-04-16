@@ -1,0 +1,7 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+subaru-exiga-crossover-7,エクシーガクロスオーバー7,,2018,2018年式,root,root,34,33.1,212.5,116.2,91.8,73.1,167.3,212.5,"2018年式 / 2.5 モダンスタイル 4WD / 19,000km / 沖縄県",2018年式,2.5 モダンスタイル 4WD,"19,000km",沖縄県,manen
+subaru-exiga-crossover-7,エクシーガクロスオーバー7,,2017,2017年式,root,root,210,16.5,219.1,116.1,118.7,74.3,160.0,219.1,"2017年式 / 2.5 モダンスタイル 4WD / 6,000km / 鳥取県",2017年式,2.5 モダンスタイル 4WD,"6,000km",鳥取県,manen
+subaru-exiga-crossover-7,エクシーガクロスオーバー7,,2016,2016年式,root,root,271,14.5,241.5,108.6,99.6,53.8,165.5,241.5,"2016年式 / 2.5 アクティブスタイル 4WD / 15,000km / 長野県",2016年式,2.5 アクティブスタイル 4WD,"15,000km",長野県,manen
+subaru-exiga-crossover-7,エクシーガクロスオーバー7,,2015,2015年式,root,root,213,16.5,235.5,123.5,126.9,53.2,190.0,235.5,"2015年式 / 2.5i アイサイト 4WD / 16,000km / 兵庫県",2015年式,2.5i アイサイト 4WD,"16,000km",兵庫県,manen
+subaru-exiga-crossover-7,エクシーガクロスオーバー7,,2014,2014年式,root,root,90,20.7,235.5,185.2,201.1,161.8,220.0,235.5,"2014年式 / 2.5i アイサイト 4WD / 27,000km / 栃木県",2014年式,2.5i アイサイト 4WD,"27,000km",栃木県,manen
+subaru-exiga-crossover-7,エクシーガクロスオーバー7,,1987,1987年式,root,root,1,187.4,187.4,187.4,187.4,187.4,187.4,187.4,"1987年式 / 2.5i アイサイト 4WD / 42,000km / 長野県",1987年式,2.5i アイサイト 4WD,"42,000km",長野県,manen

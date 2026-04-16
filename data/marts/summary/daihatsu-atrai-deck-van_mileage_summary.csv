@@ -1,0 +1,6 @@
+model_slug,model_name,source_page_type,source_variant_label,mileage_band_label,mileage_min_km,mileage_max_km,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+daihatsu-atrai-deck-van,アトレーデッキバン,root,root,"1,000km",1000,1000,1,149.0,149.0,149.0,149.0,149.0,149.0,149.0,"2024年式 / ベース / 1,000km / 福岡県",2024年式,ベース,"1,000km",福岡県,manen
+daihatsu-atrai-deck-van,アトレーデッキバン,root,root,"8,000km",8000,8000,1,168.6,168.6,168.6,168.6,168.6,168.6,168.6,"2022年式 / ベース / 8,000km / 福岡県",2022年式,ベース,"8,000km",福岡県,manen
+daihatsu-atrai-deck-van,アトレーデッキバン,root,root,"22,000km",22000,22000,1,182.5,182.5,182.5,182.5,182.5,182.5,182.5,"2022年式 / ベース 4WD / 22,000km / 愛知県",2022年式,ベース 4WD,"22,000km",愛知県,manen
+daihatsu-atrai-deck-van,アトレーデッキバン,root,root,"31,000km",31000,31000,1,123.3,123.3,123.3,123.3,123.3,123.3,123.3,"2022年式 / ベース 4WD / 31,000km / 大阪府",2022年式,ベース 4WD,"31,000km",大阪府,manen
+daihatsu-atrai-deck-van,アトレーデッキバン,root,root,"85,000km",85000,85000,1,93.1,93.1,93.1,93.1,93.1,93.1,93.1,"2022年式 / ベース 4WD / 85,000km / 大阪府",2022年式,ベース 4WD,"85,000km",大阪府,manen

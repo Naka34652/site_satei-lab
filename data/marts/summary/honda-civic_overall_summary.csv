@@ -1,0 +1,2 @@
+model_slug,model_name,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+honda-civic,シビック,root,root,1000,0.2,368.5,144.0,140.7,20.2,254.5,368.5,2024年式 / 1.5 RS / 0万km / 滋賀県,2024年式,1.5 RS,0万km,滋賀県,manen

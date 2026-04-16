@@ -1,0 +1,221 @@
+2026-04-16 03:07:39,069 ERROR post_wordpress_drafts: Draft post failed: toyota-prius-kaitori-soba-2026 (HTTP 401 Unauthorized)
+2026-04-16 03:07:39,245 ERROR post_wordpress_drafts: Draft post failed: honda-jade-kaitori-soba-2026 (HTTP 401 Unauthorized)
+2026-04-16 03:07:39,386 ERROR post_wordpress_drafts: Draft post failed: honda-nsx-kaitori-soba-2026 (HTTP 401 Unauthorized)
+2026-04-16 03:07:39,387 INFO post_wordpress_drafts: Draft posting result JSON: /Users/user/Documents/Site/satei-lab/output/wordpress_drafts/wordpress_draft_payload_2026_sample_post_results.json
+2026-04-16 03:07:39,387 INFO post_wordpress_drafts: Posted=0 Failed=3
+2026-04-16 03:09:00,639 ERROR post_wordpress_drafts: Draft post failed: toyota-prius-kaitori-soba-2026 (HTTP 401 Unauthorized)
+2026-04-16 03:09:00,780 ERROR post_wordpress_drafts: Draft post failed: honda-jade-kaitori-soba-2026 (HTTP 401 Unauthorized)
+2026-04-16 03:09:00,931 ERROR post_wordpress_drafts: Draft post failed: honda-nsx-kaitori-soba-2026 (HTTP 401 Unauthorized)
+2026-04-16 03:09:00,932 INFO post_wordpress_drafts: Draft posting result JSON: /Users/user/Documents/Site/satei-lab/output/wordpress_drafts/wordpress_draft_payload_2026_sample_post_results.json
+2026-04-16 03:09:00,933 INFO post_wordpress_drafts: Posted=0 Failed=3
+2026-04-16 03:16:49,989 INFO post_wordpress_drafts: Draft posted successfully: toyota-prius-kaitori-soba-2026 -> wp_post_id=375
+2026-04-16 03:16:50,145 INFO post_wordpress_drafts: Draft posted successfully: honda-jade-kaitori-soba-2026 -> wp_post_id=376
+2026-04-16 03:16:50,564 INFO post_wordpress_drafts: Draft posted successfully: honda-nsx-kaitori-soba-2026 -> wp_post_id=377
+2026-04-16 03:16:50,565 INFO post_wordpress_drafts: Draft posting result JSON: /Users/user/Documents/Site/satei-lab/output/wordpress_drafts/wordpress_draft_payload_2026_sample_post_results.json
+2026-04-16 03:16:50,566 INFO post_wordpress_drafts: Posted=3 Failed=0
+2026-04-16 03:29:20,684 INFO post_wordpress_drafts: Draft updated successfully: toyota-prius-kaitori-soba-2026 -> wp_post_id=372
+2026-04-16 03:29:21,003 INFO post_wordpress_drafts: Draft updated successfully: honda-jade-kaitori-soba-2026 -> wp_post_id=376
+2026-04-16 03:29:22,206 INFO post_wordpress_drafts: Draft updated successfully: honda-nsx-kaitori-soba-2026 -> wp_post_id=377
+2026-04-16 03:29:22,207 INFO post_wordpress_drafts: Draft posting result JSON: /Users/user/Documents/Site/satei-lab/output/wordpress_drafts/wordpress_draft_payload_2026_sample_post_results.json
+2026-04-16 03:29:22,207 INFO post_wordpress_drafts: Posted=3 Failed=0
+2026-04-16 04:15:18,348 INFO post_wordpress_drafts: Draft updated successfully: toyota-prius-kaitori-soba-2026 -> wp_post_id=372
+2026-04-16 04:15:18,648 INFO post_wordpress_drafts: Draft updated successfully: honda-jade-kaitori-soba-2026 -> wp_post_id=376
+2026-04-16 04:15:18,925 INFO post_wordpress_drafts: Draft created successfully: honda-shuttle-kaitori-soba-2026 -> wp_post_id=382
+2026-04-16 04:15:19,199 INFO post_wordpress_drafts: Draft created successfully: honda-freed-kaitori-soba-2026 -> wp_post_id=383
+2026-04-16 04:15:19,469 INFO post_wordpress_drafts: Draft created successfully: honda-n-box-kaitori-soba-2026 -> wp_post_id=384
+2026-04-16 04:15:19,774 INFO post_wordpress_drafts: Draft created successfully: honda-n-wgn-kaitori-soba-2026 -> wp_post_id=385
+2026-04-16 04:15:20,056 INFO post_wordpress_drafts: Draft created successfully: honda-n-one-kaitori-soba-2026 -> wp_post_id=386
+2026-04-16 04:15:20,364 INFO post_wordpress_drafts: Draft created successfully: honda-n-van-kaitori-soba-2026 -> wp_post_id=387
+2026-04-16 04:15:20,658 INFO post_wordpress_drafts: Draft created successfully: honda-fit-kaitori-soba-2026 -> wp_post_id=388
+2026-04-16 04:15:20,966 INFO post_wordpress_drafts: Draft created successfully: honda-vezel-kaitori-soba-2026 -> wp_post_id=389
+2026-04-16 04:15:21,250 INFO post_wordpress_drafts: Draft created successfully: honda-wr-v-kaitori-soba-2026 -> wp_post_id=390
+2026-04-16 04:15:21,567 INFO post_wordpress_drafts: Draft created successfully: honda-zr-v-kaitori-soba-2026 -> wp_post_id=391
+2026-04-16 04:15:21,866 INFO post_wordpress_drafts: Draft created successfully: honda-cr-v-kaitori-soba-2026 -> wp_post_id=392
+2026-04-16 04:15:22,171 INFO post_wordpress_drafts: Draft created successfully: honda-step-wgn-kaitori-soba-2026 -> wp_post_id=393
+2026-04-16 04:15:22,476 INFO post_wordpress_drafts: Draft created successfully: honda-odyssey-kaitori-soba-2026 -> wp_post_id=394
+2026-04-16 04:15:22,788 INFO post_wordpress_drafts: Draft created successfully: honda-civic-kaitori-soba-2026 -> wp_post_id=395
+2026-04-16 04:15:23,090 INFO post_wordpress_drafts: Draft created successfully: honda-civic-type-r-kaitori-soba-2026 -> wp_post_id=396
+2026-04-16 04:15:23,391 INFO post_wordpress_drafts: Draft created successfully: honda-accord-kaitori-soba-2026 -> wp_post_id=397
+2026-04-16 04:15:23,819 INFO post_wordpress_drafts: Draft updated successfully: honda-nsx-kaitori-soba-2026 -> wp_post_id=377
+2026-04-16 04:15:24,134 INFO post_wordpress_drafts: Draft created successfully: honda-s660-kaitori-soba-2026 -> wp_post_id=398
+2026-04-16 04:15:24,448 INFO post_wordpress_drafts: Draft created successfully: honda-s2000-kaitori-soba-2026 -> wp_post_id=399
+2026-04-16 04:15:24,760 INFO post_wordpress_drafts: Draft created successfully: honda-beat-kaitori-soba-2026 -> wp_post_id=400
+2026-04-16 04:15:25,058 INFO post_wordpress_drafts: Draft created successfully: honda-prelude-kaitori-soba-2026 -> wp_post_id=401
+2026-04-16 04:15:25,359 INFO post_wordpress_drafts: Draft created successfully: honda-integra-kaitori-soba-2026 -> wp_post_id=402
+2026-04-16 04:15:25,664 INFO post_wordpress_drafts: Draft created successfully: honda-cr-x-kaitori-soba-2026 -> wp_post_id=403
+2026-04-16 04:15:25,964 INFO post_wordpress_drafts: Draft created successfully: honda-insight-kaitori-soba-2026 -> wp_post_id=404
+2026-04-16 04:15:26,257 INFO post_wordpress_drafts: Draft created successfully: honda-grace-kaitori-soba-2026 -> wp_post_id=405
+2026-04-16 04:15:26,574 INFO post_wordpress_drafts: Draft created successfully: honda-stream-kaitori-soba-2026 -> wp_post_id=406
+2026-04-16 04:15:26,882 INFO post_wordpress_drafts: Draft created successfully: honda-airwave-kaitori-soba-2026 -> wp_post_id=407
+2026-04-16 04:15:27,190 INFO post_wordpress_drafts: Draft created successfully: toyota-crown-kaitori-soba-2026 -> wp_post_id=408
+2026-04-16 04:15:27,487 INFO post_wordpress_drafts: Draft created successfully: toyota-aqua-kaitori-soba-2026 -> wp_post_id=409
+2026-04-16 04:15:27,787 INFO post_wordpress_drafts: Draft created successfully: toyota-yaris-kaitori-soba-2026 -> wp_post_id=410
+2026-04-16 04:15:28,094 INFO post_wordpress_drafts: Draft created successfully: toyota-yaris-cross-kaitori-soba-2026 -> wp_post_id=411
+2026-04-16 04:15:28,389 INFO post_wordpress_drafts: Draft created successfully: toyota-corolla-kaitori-soba-2026 -> wp_post_id=412
+2026-04-16 04:15:28,684 INFO post_wordpress_drafts: Draft created successfully: toyota-corolla-touring-kaitori-soba-2026 -> wp_post_id=413
+2026-04-16 04:15:28,991 INFO post_wordpress_drafts: Draft created successfully: toyota-corolla-sport-kaitori-soba-2026 -> wp_post_id=414
+2026-04-16 04:15:29,306 INFO post_wordpress_drafts: Draft created successfully: toyota-corolla-cross-kaitori-soba-2026 -> wp_post_id=415
+2026-04-16 04:15:29,655 INFO post_wordpress_drafts: Draft created successfully: toyota-sienta-kaitori-soba-2026 -> wp_post_id=416
+2026-04-16 04:15:29,946 INFO post_wordpress_drafts: Draft created successfully: toyota-roomy-kaitori-soba-2026 -> wp_post_id=417
+2026-04-16 04:15:30,321 INFO post_wordpress_drafts: Draft created successfully: toyota-noah-kaitori-soba-2026 -> wp_post_id=418
+2026-04-16 04:15:30,627 INFO post_wordpress_drafts: Draft created successfully: toyota-voxy-kaitori-soba-2026 -> wp_post_id=419
+2026-04-16 04:15:30,968 INFO post_wordpress_drafts: Draft created successfully: toyota-alphard-kaitori-soba-2026 -> wp_post_id=420
+2026-04-16 04:15:31,285 INFO post_wordpress_drafts: Draft created successfully: toyota-vellfire-kaitori-soba-2026 -> wp_post_id=421
+2026-04-16 04:15:31,602 INFO post_wordpress_drafts: Draft created successfully: toyota-harrier-kaitori-soba-2026 -> wp_post_id=422
+2026-04-16 04:15:31,894 INFO post_wordpress_drafts: Draft created successfully: toyota-rav4-kaitori-soba-2026 -> wp_post_id=423
+2026-04-16 04:15:32,202 INFO post_wordpress_drafts: Draft created successfully: toyota-land-cruiser-300-kaitori-soba-2026 -> wp_post_id=424
+2026-04-16 04:15:32,493 INFO post_wordpress_drafts: Draft created successfully: toyota-land-cruiser-250-kaitori-soba-2026 -> wp_post_id=425
+2026-04-16 04:15:32,801 INFO post_wordpress_drafts: Draft created successfully: toyota-land-cruiser-70-kaitori-soba-2026 -> wp_post_id=426
+2026-04-16 04:15:33,104 INFO post_wordpress_drafts: Draft created successfully: toyota-bz4x-kaitori-soba-2026 -> wp_post_id=427
+2026-04-16 04:15:33,419 INFO post_wordpress_drafts: Draft created successfully: toyota-mirai-kaitori-soba-2026 -> wp_post_id=428
+2026-04-16 04:15:33,733 INFO post_wordpress_drafts: Draft created successfully: toyota-gr86-kaitori-soba-2026 -> wp_post_id=429
+2026-04-16 04:15:34,122 INFO post_wordpress_drafts: Draft created successfully: toyota-supra-kaitori-soba-2026 -> wp_post_id=430
+2026-04-16 04:15:34,790 INFO post_wordpress_drafts: Draft created successfully: toyota-gr-yaris-kaitori-soba-2026 -> wp_post_id=431
+2026-04-16 04:15:35,070 INFO post_wordpress_drafts: Draft created successfully: toyota-gr-corolla-kaitori-soba-2026 -> wp_post_id=432
+2026-04-16 04:15:35,393 INFO post_wordpress_drafts: Draft created successfully: toyota-century-kaitori-soba-2026 -> wp_post_id=433
+2026-04-16 04:15:35,736 INFO post_wordpress_drafts: Draft created successfully: toyota-crown-sport-kaitori-soba-2026 -> wp_post_id=434
+2026-04-16 04:15:36,080 INFO post_wordpress_drafts: Draft created successfully: toyota-crown-sedan-kaitori-soba-2026 -> wp_post_id=435
+2026-04-16 04:15:36,402 INFO post_wordpress_drafts: Draft created successfully: toyota-crown-estate-kaitori-soba-2026 -> wp_post_id=436
+2026-04-16 04:15:36,706 INFO post_wordpress_drafts: Draft created successfully: nissan-note-kaitori-soba-2026 -> wp_post_id=437
+2026-04-16 04:15:37,055 INFO post_wordpress_drafts: Draft created successfully: nissan-note-aura-kaitori-soba-2026 -> wp_post_id=438
+2026-04-16 04:15:37,418 INFO post_wordpress_drafts: Draft created successfully: nissan-serena-kaitori-soba-2026 -> wp_post_id=439
+2026-04-16 04:15:37,722 INFO post_wordpress_drafts: Draft created successfully: nissan-x-trail-kaitori-soba-2026 -> wp_post_id=440
+2026-04-16 04:15:38,038 INFO post_wordpress_drafts: Draft created successfully: nissan-kicks-kaitori-soba-2026 -> wp_post_id=441
+2026-04-16 04:15:38,380 INFO post_wordpress_drafts: Draft created successfully: nissan-ariya-kaitori-soba-2026 -> wp_post_id=442
+2026-04-16 04:15:38,743 INFO post_wordpress_drafts: Draft created successfully: nissan-leaf-kaitori-soba-2026 -> wp_post_id=443
+2026-04-16 04:15:39,101 INFO post_wordpress_drafts: Draft created successfully: nissan-sakura-kaitori-soba-2026 -> wp_post_id=444
+2026-04-16 04:15:39,397 INFO post_wordpress_drafts: Draft created successfully: nissan-roox-kaitori-soba-2026 -> wp_post_id=445
+2026-04-16 04:15:39,767 INFO post_wordpress_drafts: Draft created successfully: nissan-dayz-kaitori-soba-2026 -> wp_post_id=446
+2026-04-16 04:15:40,151 INFO post_wordpress_drafts: Draft created successfully: nissan-elgrand-kaitori-soba-2026 -> wp_post_id=447
+2026-04-16 04:15:40,520 INFO post_wordpress_drafts: Draft created successfully: nissan-fairlady-z-kaitori-soba-2026 -> wp_post_id=448
+2026-04-16 04:15:40,893 INFO post_wordpress_drafts: Draft created successfully: nissan-skyline-kaitori-soba-2026 -> wp_post_id=449
+2026-04-16 04:15:41,281 INFO post_wordpress_drafts: Draft created successfully: nissan-caravan-kaitori-soba-2026 -> wp_post_id=450
+2026-04-16 04:15:41,624 INFO post_wordpress_drafts: Draft created successfully: nissan-nv200-vanette-kaitori-soba-2026 -> wp_post_id=451
+2026-04-16 04:15:42,002 INFO post_wordpress_drafts: Draft created successfully: nissan-silvia-kaitori-soba-2026 -> wp_post_id=452
+2026-04-16 04:15:42,306 INFO post_wordpress_drafts: Draft created successfully: nissan-gt-r-kaitori-soba-2026 -> wp_post_id=453
+2026-04-16 04:15:42,660 INFO post_wordpress_drafts: Draft created successfully: nissan-march-kaitori-soba-2026 -> wp_post_id=454
+2026-04-16 04:15:43,119 INFO post_wordpress_drafts: Draft created successfully: nissan-cube-kaitori-soba-2026 -> wp_post_id=455
+2026-04-16 04:15:43,482 INFO post_wordpress_drafts: Draft created successfully: nissan-tiida-kaitori-soba-2026 -> wp_post_id=456
+2026-04-16 04:15:44,000 INFO post_wordpress_drafts: Draft created successfully: nissan-teana-kaitori-soba-2026 -> wp_post_id=457
+2026-04-16 04:15:44,444 INFO post_wordpress_drafts: Draft created successfully: nissan-fuga-kaitori-soba-2026 -> wp_post_id=458
+2026-04-16 04:15:44,852 INFO post_wordpress_drafts: Draft created successfully: nissan-presage-kaitori-soba-2026 -> wp_post_id=459
+2026-04-16 04:15:45,163 INFO post_wordpress_drafts: Draft created successfully: nissan-lafesta-kaitori-soba-2026 -> wp_post_id=460
+2026-04-16 04:15:45,473 INFO post_wordpress_drafts: Draft created successfully: nissan-murano-kaitori-soba-2026 -> wp_post_id=461
+2026-04-16 04:15:45,807 INFO post_wordpress_drafts: Draft created successfully: nissan-juke-kaitori-soba-2026 -> wp_post_id=462
+2026-04-16 04:15:46,141 INFO post_wordpress_drafts: Draft created successfully: nissan-bluebird-kaitori-soba-2026 -> wp_post_id=463
+2026-04-16 04:15:46,145 INFO post_wordpress_drafts: Draft posting result JSON: /Users/user/Documents/Site/satei-lab/output/wordpress_drafts/wordpress_draft_payload_2026_all_post_results.json
+2026-04-16 04:15:46,145 INFO post_wordpress_drafts: Posted=85 Failed=0
+2026-04-16 06:33:47,247 INFO post_wordpress_drafts: Draft created successfully: mitsubishi-outlander-phev-kaitori-soba-2026 -> wp_post_id=464
+2026-04-16 06:33:47,553 INFO post_wordpress_drafts: Draft created successfully: mitsubishi-eclipse-cross-kaitori-soba-2026 -> wp_post_id=465
+2026-04-16 06:33:47,870 INFO post_wordpress_drafts: Draft created successfully: mitsubishi-delica-d5-kaitori-soba-2026 -> wp_post_id=466
+2026-04-16 06:33:48,180 INFO post_wordpress_drafts: Draft created successfully: mitsubishi-delica-mini-kaitori-soba-2026 -> wp_post_id=467
+2026-04-16 06:33:48,819 INFO post_wordpress_drafts: Draft created successfully: mitsubishi-ek-cross-ev-kaitori-soba-2026 -> wp_post_id=468
+2026-04-16 06:33:49,107 INFO post_wordpress_drafts: Draft created successfully: mitsubishi-ek-cross-kaitori-soba-2026 -> wp_post_id=469
+2026-04-16 06:33:49,440 INFO post_wordpress_drafts: Draft created successfully: mitsubishi-ek-wagon-kaitori-soba-2026 -> wp_post_id=470
+2026-04-16 06:33:50,763 INFO post_wordpress_drafts: Draft created successfully: mitsubishi-town-box-kaitori-soba-2026 -> wp_post_id=471
+2026-04-16 06:33:51,068 INFO post_wordpress_drafts: Draft created successfully: mitsubishi-airtrek-kaitori-soba-2026 -> wp_post_id=472
+2026-04-16 06:33:51,363 INFO post_wordpress_drafts: Draft created successfully: mitsubishi-galant-kaitori-soba-2026 -> wp_post_id=473
+2026-04-16 06:33:51,677 INFO post_wordpress_drafts: Draft created successfully: mitsubishi-galant-fortis-kaitori-soba-2026 -> wp_post_id=474
+2026-04-16 06:33:52,007 INFO post_wordpress_drafts: Draft created successfully: mitsubishi-galant-fortis-sportback-kaitori-soba-2026 -> wp_post_id=475
+2026-04-16 06:33:52,325 INFO post_wordpress_drafts: Draft created successfully: mitsubishi-grandis-kaitori-soba-2026 -> wp_post_id=476
+2026-04-16 06:33:52,623 INFO post_wordpress_drafts: Draft created successfully: mitsubishi-triton-kaitori-soba-2026 -> wp_post_id=477
+2026-04-16 06:33:52,935 INFO post_wordpress_drafts: Draft created successfully: mitsubishi-pajero-kaitori-soba-2026 -> wp_post_id=478
+2026-04-16 06:33:53,241 INFO post_wordpress_drafts: Draft created successfully: mitsubishi-pajero-io-kaitori-soba-2026 -> wp_post_id=479
+2026-04-16 06:33:53,563 INFO post_wordpress_drafts: Draft created successfully: mitsubishi-pajero-mini-kaitori-soba-2026 -> wp_post_id=480
+2026-04-16 06:33:53,897 INFO post_wordpress_drafts: Draft created successfully: mitsubishi-pajero-junior-kaitori-soba-2026 -> wp_post_id=481
+2026-04-16 06:33:54,204 INFO post_wordpress_drafts: Draft created successfully: mitsubishi-proudia-kaitori-soba-2026 -> wp_post_id=482
+2026-04-16 06:33:54,521 INFO post_wordpress_drafts: Draft created successfully: mitsubishi-mini-cab-truck-kaitori-soba-2026 -> wp_post_id=483
+2026-04-16 06:33:54,832 INFO post_wordpress_drafts: Draft created successfully: mitsubishi-mirage-kaitori-soba-2026 -> wp_post_id=484
+2026-04-16 06:33:55,151 INFO post_wordpress_drafts: Draft created successfully: mitsubishi-lancer-evolution-kaitori-soba-2026 -> wp_post_id=485
+2026-04-16 06:33:55,461 INFO post_wordpress_drafts: Draft created successfully: mitsubishi-lancer-evolution-wagon-kaitori-soba-2026 -> wp_post_id=486
+2026-04-16 06:33:55,789 INFO post_wordpress_drafts: Draft created successfully: mitsubishi-lancer-cedia-wagon-kaitori-soba-2026 -> wp_post_id=487
+2026-04-16 06:33:56,093 INFO post_wordpress_drafts: Draft created successfully: mitsubishi-lancer-cedia-kaitori-soba-2026 -> wp_post_id=488
+2026-04-16 06:33:56,422 INFO post_wordpress_drafts: Draft created successfully: mitsubishi-lancer-cargo-kaitori-soba-2026 -> wp_post_id=489
+2026-04-16 06:33:56,737 INFO post_wordpress_drafts: Draft created successfully: mitsubishi-lancer-wagon-kaitori-soba-2026 -> wp_post_id=490
+2026-04-16 06:33:57,063 INFO post_wordpress_drafts: Draft created successfully: mitsubishi-legnum-kaitori-soba-2026 -> wp_post_id=491
+2026-04-16 06:33:57,381 INFO post_wordpress_drafts: Draft created successfully: mitsubishi-colt-kaitori-soba-2026 -> wp_post_id=492
+2026-04-16 06:33:57,692 INFO post_wordpress_drafts: Draft created successfully: mitsubishi-colt-plus-kaitori-soba-2026 -> wp_post_id=493
+2026-04-16 06:33:57,984 INFO post_wordpress_drafts: Draft created successfully: mitsubishi-dion-kaitori-soba-2026 -> wp_post_id=494
+2026-04-16 06:33:58,346 INFO post_wordpress_drafts: Draft created successfully: mitsubishi-delica-space-gear-kaitori-soba-2026 -> wp_post_id=495
+2026-04-16 06:33:58,634 INFO post_wordpress_drafts: Draft created successfully: mitsubishi-delica-van-kaitori-soba-2026 -> wp_post_id=496
+2026-04-16 06:33:59,250 INFO post_wordpress_drafts: Draft created successfully: mitsubishi-diamante-kaitori-soba-2026 -> wp_post_id=497
+2026-04-16 06:33:59,547 INFO post_wordpress_drafts: Draft created successfully: mitsubishi-minica-kaitori-soba-2026 -> wp_post_id=498
+2026-04-16 06:33:59,549 INFO post_wordpress_drafts: Draft posting result JSON: /Users/user/Documents/Site/satei-lab/output/wordpress_drafts/wordpress_draft_payload_2026_mitsubishi_post_results.json
+2026-04-16 06:33:59,549 INFO post_wordpress_drafts: Posted=35 Failed=0
+2026-04-16 15:20:24,459 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-outlander-phev-kaitori-soba-2026 -> wp_post_id=464
+2026-04-16 15:20:25,626 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-eclipse-cross-kaitori-soba-2026 -> wp_post_id=465
+2026-04-16 15:20:26,018 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-delica-d5-kaitori-soba-2026 -> wp_post_id=466
+2026-04-16 15:20:26,377 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-delica-mini-kaitori-soba-2026 -> wp_post_id=467
+2026-04-16 15:20:26,711 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-ek-cross-ev-kaitori-soba-2026 -> wp_post_id=468
+2026-04-16 15:20:27,071 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-ek-cross-kaitori-soba-2026 -> wp_post_id=469
+2026-04-16 15:20:27,410 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-ek-wagon-kaitori-soba-2026 -> wp_post_id=470
+2026-04-16 15:20:27,749 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-town-box-kaitori-soba-2026 -> wp_post_id=471
+2026-04-16 15:20:28,100 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-airtrek-kaitori-soba-2026 -> wp_post_id=472
+2026-04-16 15:20:28,494 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-galant-kaitori-soba-2026 -> wp_post_id=473
+2026-04-16 15:20:28,841 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-galant-fortis-kaitori-soba-2026 -> wp_post_id=474
+2026-04-16 15:20:29,186 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-galant-fortis-sportback-kaitori-soba-2026 -> wp_post_id=475
+2026-04-16 15:20:29,635 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-grandis-kaitori-soba-2026 -> wp_post_id=476
+2026-04-16 15:20:30,004 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-triton-kaitori-soba-2026 -> wp_post_id=477
+2026-04-16 15:20:30,325 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-pajero-kaitori-soba-2026 -> wp_post_id=478
+2026-04-16 15:20:30,654 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-pajero-io-kaitori-soba-2026 -> wp_post_id=479
+2026-04-16 15:20:31,006 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-pajero-mini-kaitori-soba-2026 -> wp_post_id=480
+2026-04-16 15:20:31,348 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-pajero-junior-kaitori-soba-2026 -> wp_post_id=481
+2026-04-16 15:20:31,700 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-proudia-kaitori-soba-2026 -> wp_post_id=482
+2026-04-16 15:20:32,069 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-mini-cab-truck-kaitori-soba-2026 -> wp_post_id=483
+2026-04-16 15:20:32,423 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-mirage-kaitori-soba-2026 -> wp_post_id=484
+2026-04-16 15:20:32,767 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-lancer-evolution-kaitori-soba-2026 -> wp_post_id=485
+2026-04-16 15:20:33,142 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-lancer-evolution-wagon-kaitori-soba-2026 -> wp_post_id=486
+2026-04-16 15:20:33,490 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-lancer-cedia-wagon-kaitori-soba-2026 -> wp_post_id=487
+2026-04-16 15:20:33,851 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-lancer-cedia-kaitori-soba-2026 -> wp_post_id=488
+2026-04-16 15:20:34,201 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-lancer-cargo-kaitori-soba-2026 -> wp_post_id=489
+2026-04-16 15:20:34,523 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-lancer-wagon-kaitori-soba-2026 -> wp_post_id=490
+2026-04-16 15:20:34,872 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-legnum-kaitori-soba-2026 -> wp_post_id=491
+2026-04-16 15:20:35,223 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-colt-kaitori-soba-2026 -> wp_post_id=492
+2026-04-16 15:20:35,549 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-colt-plus-kaitori-soba-2026 -> wp_post_id=493
+2026-04-16 15:20:35,888 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-dion-kaitori-soba-2026 -> wp_post_id=494
+2026-04-16 15:20:36,254 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-delica-space-gear-kaitori-soba-2026 -> wp_post_id=495
+2026-04-16 15:20:36,628 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-delica-van-kaitori-soba-2026 -> wp_post_id=496
+2026-04-16 15:20:36,978 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-diamante-kaitori-soba-2026 -> wp_post_id=497
+2026-04-16 15:20:37,339 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-minica-kaitori-soba-2026 -> wp_post_id=498
+2026-04-16 15:20:37,342 INFO post_wordpress_drafts: Draft posting result JSON: /Users/user/Documents/Site/satei-lab/output/wordpress_drafts/wordpress_draft_payload_2026_mitsubishi_post_results.json
+2026-04-16 15:20:37,342 INFO post_wordpress_drafts: Posted=35 Failed=0
+2026-04-16 15:25:24,447 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-outlander-phev-kaitori-soba-2026 -> wp_post_id=464
+2026-04-16 15:25:24,745 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-eclipse-cross-kaitori-soba-2026 -> wp_post_id=465
+2026-04-16 15:25:25,079 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-delica-d5-kaitori-soba-2026 -> wp_post_id=466
+2026-04-16 15:25:25,408 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-delica-mini-kaitori-soba-2026 -> wp_post_id=467
+2026-04-16 15:25:25,730 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-ek-cross-ev-kaitori-soba-2026 -> wp_post_id=468
+2026-04-16 15:25:26,069 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-ek-cross-kaitori-soba-2026 -> wp_post_id=469
+2026-04-16 15:25:26,411 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-ek-wagon-kaitori-soba-2026 -> wp_post_id=470
+2026-04-16 15:25:26,754 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-town-box-kaitori-soba-2026 -> wp_post_id=471
+2026-04-16 15:25:27,079 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-airtrek-kaitori-soba-2026 -> wp_post_id=472
+2026-04-16 15:25:27,408 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-galant-kaitori-soba-2026 -> wp_post_id=473
+2026-04-16 15:25:27,792 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-galant-fortis-kaitori-soba-2026 -> wp_post_id=474
+2026-04-16 15:25:28,153 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-galant-fortis-sportback-kaitori-soba-2026 -> wp_post_id=475
+2026-04-16 15:25:28,494 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-grandis-kaitori-soba-2026 -> wp_post_id=476
+2026-04-16 15:25:28,845 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-triton-kaitori-soba-2026 -> wp_post_id=477
+2026-04-16 15:25:29,172 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-pajero-kaitori-soba-2026 -> wp_post_id=478
+2026-04-16 15:25:29,517 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-pajero-io-kaitori-soba-2026 -> wp_post_id=479
+2026-04-16 15:25:29,834 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-pajero-mini-kaitori-soba-2026 -> wp_post_id=480
+2026-04-16 15:25:30,235 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-pajero-junior-kaitori-soba-2026 -> wp_post_id=481
+2026-04-16 15:25:30,557 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-proudia-kaitori-soba-2026 -> wp_post_id=482
+2026-04-16 15:25:30,880 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-mini-cab-truck-kaitori-soba-2026 -> wp_post_id=483
+2026-04-16 15:25:31,231 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-mirage-kaitori-soba-2026 -> wp_post_id=484
+2026-04-16 15:25:31,573 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-lancer-evolution-kaitori-soba-2026 -> wp_post_id=485
+2026-04-16 15:25:31,902 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-lancer-evolution-wagon-kaitori-soba-2026 -> wp_post_id=486
+2026-04-16 15:25:32,242 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-lancer-cedia-wagon-kaitori-soba-2026 -> wp_post_id=487
+2026-04-16 15:25:32,590 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-lancer-cedia-kaitori-soba-2026 -> wp_post_id=488
+2026-04-16 15:25:32,933 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-lancer-cargo-kaitori-soba-2026 -> wp_post_id=489
+2026-04-16 15:25:33,277 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-lancer-wagon-kaitori-soba-2026 -> wp_post_id=490
+2026-04-16 15:25:33,607 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-legnum-kaitori-soba-2026 -> wp_post_id=491
+2026-04-16 15:25:33,949 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-colt-kaitori-soba-2026 -> wp_post_id=492
+2026-04-16 15:25:34,277 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-colt-plus-kaitori-soba-2026 -> wp_post_id=493
+2026-04-16 15:25:34,703 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-dion-kaitori-soba-2026 -> wp_post_id=494
+2026-04-16 15:25:35,072 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-delica-space-gear-kaitori-soba-2026 -> wp_post_id=495
+2026-04-16 15:25:35,413 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-delica-van-kaitori-soba-2026 -> wp_post_id=496
+2026-04-16 15:25:35,735 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-diamante-kaitori-soba-2026 -> wp_post_id=497
+2026-04-16 15:25:36,068 INFO post_wordpress_drafts: Draft updated successfully: mitsubishi-minica-kaitori-soba-2026 -> wp_post_id=498
+2026-04-16 15:25:36,070 INFO post_wordpress_drafts: Draft posting result JSON: /Users/user/Documents/Site/satei-lab/output/wordpress_drafts/wordpress_draft_payload_2026_mitsubishi_post_results.json
+2026-04-16 15:25:36,070 INFO post_wordpress_drafts: Posted=35 Failed=0
+2026-04-16 15:34:06,233 INFO post_wordpress_drafts: Draft updated successfully: nissan-note-aura-kaitori-soba-2026 -> wp_post_id=438
+2026-04-16 15:34:06,234 INFO post_wordpress_drafts: Draft posting result JSON: /Users/user/Documents/Site/satei-lab/output/wordpress_drafts/wordpress_draft_payload_2026_note_aura_post_results.json
+2026-04-16 15:34:06,234 INFO post_wordpress_drafts: Posted=1 Failed=0

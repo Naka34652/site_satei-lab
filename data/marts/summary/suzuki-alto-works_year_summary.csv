@@ -1,0 +1,22 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+suzuki-alto-works,アルトワークス,,2023,2023年式,root,root,1,17.4,17.4,17.4,17.4,17.4,17.4,17.4,"2023年式 / ターボ ie / 137,000km / 香川県",2023年式,ターボ ie,"137,000km",香川県,manen
+suzuki-alto-works,アルトワークス,,2021,2021年式,root,root,2,21.1,75.0,48.0,48.0,21.1,75.0,75.0,"2021年式 / ターボ ie/s 4WD / 68,000km / 群馬県",2021年式,ターボ ie/s 4WD,"68,000km",群馬県,manen
+suzuki-alto-works,アルトワークス,,2020,2020年式,root,root,2,45.8,81.1,63.5,63.5,45.8,81.1,81.1,"2020年式 / ベースグレード / 68,000km / 鳥取県",2020年式,ベースグレード,"68,000km",鳥取県,manen
+suzuki-alto-works,アルトワークス,,2019,2019年式,root,root,4,47.1,83.9,73.3,81.2,78.8,83.5,83.9,"2019年式 / ベースグレード / 71,000km / 福岡県",2019年式,ベースグレード,"71,000km",福岡県,manen
+suzuki-alto-works,アルトワークス,,2018,2018年式,root,root,2,74.4,83.3,78.8,78.8,74.4,83.3,83.3,"2018年式 / ベースグレード 4WD / 29,000km / 千葉県",2018年式,ベースグレード 4WD,"29,000km",千葉県,manen
+suzuki-alto-works,アルトワークス,,2017,2017年式,root,root,8,23.8,85.5,52.5,53.5,42.5,57.4,85.5,"2017年式 / ベースグレード 4WD / 114,000km / 香川県",2017年式,ベースグレード 4WD,"114,000km",香川県,manen
+suzuki-alto-works,アルトワークス,,2016,2016年式,root,root,19,22.1,84.9,59.6,60.4,45.9,78.0,84.9,"2016年式 / ベースグレード / 54,000km / 茨城県",2016年式,ベースグレード,"54,000km",茨城県,manen
+suzuki-alto-works,アルトワークス,,2015,2015年式,root,root,4,11.0,87.6,62.8,76.2,67.5,85.0,87.6,"2015年式 / ie / 39,000km / 愛媛県",2015年式,ie,"39,000km",愛媛県,manen
+suzuki-alto-works,アルトワークス,,2004,2004年式,root,root,1,24.2,24.2,24.2,24.2,24.2,24.2,24.2,2004年式 / RS/R 4WD / 0万km / 岐阜県,2004年式,RS/R 4WD,0万km,岐阜県,manen
+suzuki-alto-works,アルトワークス,,2000,2000年式,root,root,13,5.0,55.0,21.0,19.2,11.2,31.3,55.0,"2000年式 / RS/Z 4WD / 64,000km / 岡山県",2000年式,RS/Z 4WD,"64,000km",岡山県,manen
+suzuki-alto-works,アルトワークス,,1999,1999年式,root,root,150,3.7,65.7,20.9,18.1,13.2,27.0,65.7,"1999年式 / RS/Z 4WD / 36,000km / 愛媛県",1999年式,RS/Z 4WD,"36,000km",愛媛県,manen
+suzuki-alto-works,アルトワークス,,1998,1998年式,root,root,144,1.5,59.5,18.9,17.9,10.0,24.5,59.5,"1998年式 / RS/Z 4WD / 77,000km / 大阪府",1998年式,RS/Z 4WD,"77,000km",大阪府,manen
+suzuki-alto-works,アルトワークス,,1997,1997年式,root,root,194,3.6,84.0,19.8,17.9,10.2,25.3,84.0,"1997年式 / R 4WD / 246,000km / 三重県",1997年式,R 4WD,"246,000km",三重県,manen
+suzuki-alto-works,アルトワークス,,1996,1996年式,root,root,96,3.9,45.7,21.7,19.6,13.2,30.7,45.7,"1996年式 / RS/Z / 61,000km / 徳島県",1996年式,RS/Z,"61,000km",徳島県,manen
+suzuki-alto-works,アルトワークス,,1995,1995年式,root,root,59,4.0,46.2,20.3,20.0,8.3,28.9,46.2,"1995年式 / RS/Z / 67,000km / 香川県",1995年式,RS/Z,"67,000km",香川県,manen
+suzuki-alto-works,アルトワークス,,1994,1994年式,root,root,80,4.2,58.5,18.7,16.9,8.0,26.4,58.5,"1994年式 / RS/Z 4WD / 101,000km / 長崎県",1994年式,RS/Z 4WD,"101,000km",長崎県,manen
+suzuki-alto-works,アルトワークス,,1993,1993年式,root,root,23,4.0,65.1,23.4,22.0,16.6,30.1,65.1,"1993年式 / ターボ ie/s F リミテッド 4WD / 141,000km / 沖縄県",1993年式,ターボ ie/s F リミテッド 4WD,"141,000km",沖縄県,manen
+suzuki-alto-works,アルトワークス,,1992,1992年式,root,root,13,3.6,35.2,21.2,20.4,15.6,29.5,35.2,1992年式 / F リミテッド / 0万km / 長野県,1992年式,F リミテッド,0万km,長野県,manen
+suzuki-alto-works,アルトワークス,,1991,1991年式,root,root,8,4.2,32.5,19.1,18.6,11.4,27.9,32.5,"1991年式 / RS/R 4WD / 76,000km / 宮崎県",1991年式,RS/R 4WD,"76,000km",宮崎県,manen
+suzuki-alto-works,アルトワークス,,1990,1990年式,root,root,5,5.0,55.5,24.6,26.4,6.2,30.1,55.5,"1990年式 / RS/X / 23,000km / 秋田県",1990年式,RS/X,"23,000km",秋田県,manen
+suzuki-alto-works,アルトワークス,,1989,1989年式,root,root,2,15.6,26.6,21.1,21.1,15.6,26.6,26.6,"1989年式 / RS/R 4WD / 165,000km / 神奈川県",1989年式,RS/R 4WD,"165,000km",神奈川県,manen

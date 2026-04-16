@@ -1,0 +1,3 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+suzuki-jimny-nomade,ジムニーノマド,,2026,2026年式,root,root,4,237.9,292.0,268.1,271.1,266.6,275.7,292.0,"2026年式 / 1.5 FC 4WD / 1,000km / 東京都",2026年式,1.5 FC 4WD,"1,000km",東京都,manen
+suzuki-jimny-nomade,ジムニーノマド,,2025,2025年式,root,root,27,232.5,361.4,294.8,295.5,274.9,321.8,361.4,"2025年式 / 1.5 FC 4WD / 1,000km / 栃木県",2025年式,1.5 FC 4WD,"1,000km",栃木県,manen

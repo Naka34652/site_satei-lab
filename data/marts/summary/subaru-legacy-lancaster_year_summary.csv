@@ -1,0 +1,10 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+subaru-legacy-lancaster,レガシィランカスター,,2003,2003年式,root,root,5,5.0,28.5,17.1,17.1,14.6,20.4,28.5,"2003年式 / 3.0 6 ADA 4WD / 128,000km / 奈良県",2003年式,3.0 6 ADA 4WD,"128,000km",奈良県,manen
+subaru-legacy-lancaster,レガシィランカスター,,2002,2002年式,root,root,35,3.7,28.1,15.3,15.8,11.3,18.5,28.1,"2002年式 / 3.0 6 4WD / 56,000km / 埼玉県",2002年式,3.0 6 4WD,"56,000km",埼玉県,manen
+subaru-legacy-lancaster,レガシィランカスター,,2001,2001年式,root,root,60,3.6,28.5,13.3,12.9,6.0,18.7,28.5,"2001年式 / 2.5 S 4WD / 98,000km / 神奈川県",2001年式,2.5 S 4WD,"98,000km",神奈川県,manen
+subaru-legacy-lancaster,レガシィランカスター,,2000,2000年式,root,root,77,3.6,30.3,11.9,9.6,5.3,18.3,30.3,2000年式 / 2.5 4WD / 10万km / 青森県,2000年式,2.5 4WD,10万km,青森県,manen
+subaru-legacy-lancaster,レガシィランカスター,,1999,1999年式,root,root,37,3.9,26.5,7.3,5.6,5.0,7.0,26.5,"1999年式 / 2.5 4WD / 63,000km / 宮城県",1999年式,2.5 4WD,"63,000km",宮城県,manen
+subaru-legacy-lancaster,レガシィランカスター,,1998,1998年式,root,root,19,4.1,30.4,11.7,8.4,5.7,15.1,30.4,"1998年式 / 2.5 リミテッド 4WD / 77,000km / 京都府",1998年式,2.5 リミテッド 4WD,"77,000km",京都府,manen
+subaru-legacy-lancaster,レガシィランカスター,,1997,1997年式,root,root,12,4.3,14.4,7.3,6.5,5.2,8.6,14.4,"1997年式 / 2.5 4WD / 119,000km / 兵庫県",1997年式,2.5 4WD,"119,000km",兵庫県,manen
+subaru-legacy-lancaster,レガシィランカスター,,1996,1996年式,root,root,1,5.6,5.6,5.6,5.6,5.6,5.6,5.6,"1996年式 / 2.5 S リミテッド 4WD / 171,000km / 福岡県",1996年式,2.5 S リミテッド 4WD,"171,000km",福岡県,manen
+subaru-legacy-lancaster,レガシィランカスター,,1987,1987年式,root,root,1,4.8,4.8,4.8,4.8,4.8,4.8,4.8,"1987年式 / 2.5 4WD / 162,000km / 静岡県",1987年式,2.5 4WD,"162,000km",静岡県,manen

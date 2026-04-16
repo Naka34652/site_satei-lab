@@ -1,0 +1,6 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,,2025,2025年式,root,root,4,140.2,157.5,148.5,148.2,144.9,151.5,157.5,2025年式 / ハイブリッド(HYBRID) ZX / 0万km / 新潟県,2025年式,ハイブリッド(HYBRID) ZX,0万km,新潟県,manen
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,,2024,2024年式,root,root,42,106.2,167.9,136.2,136.2,125.0,144.9,167.9,"2024年式 / ハイブリッド(HYBRID) ZX / 18,000km / 東京都",2024年式,ハイブリッド(HYBRID) ZX,"18,000km",東京都,manen
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,,2023,2023年式,root,root,77,80.2,167.2,126.6,126.5,117.8,137.0,167.2,"2023年式 / ハイブリッド(HYBRID) ZX / 2,000km / 秋田県",2023年式,ハイブリッド(HYBRID) ZX,"2,000km",秋田県,manen
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,,2022,2022年式,root,root,90,94.0,162.0,121.0,120.0,114.5,128.0,162.0,2022年式 / ハイブリッド(HYBRID) ZX / 0万km / 群馬県,2022年式,ハイブリッド(HYBRID) ZX,0万km,群馬県,manen
+suzuki-wagon-r-custom-z,ワゴンRカスタムZ,,2021,2021年式,root,root,7,96.0,128.1,115.5,117.1,113.7,119.7,128.1,2021年式 / ハイブリッド(HYBRID) ZT / 0万km / 沖縄県,2021年式,ハイブリッド(HYBRID) ZT,0万km,沖縄県,manen

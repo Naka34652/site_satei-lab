@@ -1,0 +1,11 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+mazda-az-wagon,AZ-ワゴン,,2015,2015年式,root,root,2,34.0,34.0,34.0,34.0,34.0,34.0,34.0,"2015年式 / XS / 22,000km / 京都府",2015年式,XS,"22,000km",京都府,manen
+mazda-az-wagon,AZ-ワゴン,,2014,2014年式,root,root,4,22.1,29.7,25.9,25.9,22.1,29.7,29.7,"2014年式 / XS 4WD / 97,000km / 大阪府",2014年式,XS 4WD,"97,000km",大阪府,manen
+mazda-az-wagon,AZ-ワゴン,,2013,2013年式,root,root,18,5.0,35.7,18.2,17.0,14.0,24.0,35.7,"2013年式 / XS 4WD / 69,000km / 奈良県",2013年式,XS 4WD,"69,000km",奈良県,manen
+mazda-az-wagon,AZ-ワゴン,,2012,2012年式,root,root,312,5.0,40.2,17.1,17.2,10.9,23.0,40.2,"2012年式 / XS スペシャル / 34,000km / 滋賀県",2012年式,XS スペシャル,"34,000km",滋賀県,manen
+mazda-az-wagon,AZ-ワゴン,,2011,2011年式,root,root,198,5.0,41.0,15.0,15.7,5.0,19.6,41.0,"2011年式 / XT / 31,000km / 宮城県",2011年式,XT,"31,000km",宮城県,manen
+mazda-az-wagon,AZ-ワゴン,,2010,2010年式,root,root,206,5.0,33.0,13.5,13.2,5.0,19.0,33.0,"2010年式 / カスタムスタイル XT-L 4WD / 72,000km / 岐阜県",2010年式,カスタムスタイル XT-L 4WD,"72,000km",岐阜県,manen
+mazda-az-wagon,AZ-ワゴン,,2009,2009年式,root,root,128,5.0,28.7,13.1,12.8,5.0,18.5,28.7,"2009年式 / カスタムスタイル XT 4WD / 28,000km / 愛知県",2009年式,カスタムスタイル XT 4WD,"28,000km",愛知県,manen
+mazda-az-wagon,AZ-ワゴン,,2008,2008年式,root,root,90,5.0,36.0,11.6,9.5,5.0,16.2,36.0,"2008年式 / カスタムスタイル DI 4WD / 65,000km / 沖縄県",2008年式,カスタムスタイル DI 4WD,"65,000km",沖縄県,manen
+mazda-az-wagon,AZ-ワゴン,,2007,2007年式,root,root,24,5.0,16.9,9.1,5.8,5.0,12.6,16.9,2007年式 / FX-S スペシャル / 2万km / 千葉県,2007年式,FX-S スペシャル,2万km,千葉県,manen
+mazda-az-wagon,AZ-ワゴン,,2006,2006年式,root,root,18,5.0,13.0,6.6,5.0,5.0,5.0,13.0,"2006年式 / 車いす移動車 / 28,000km / 千葉県",2006年式,車いす移動車,"28,000km",千葉県,manen

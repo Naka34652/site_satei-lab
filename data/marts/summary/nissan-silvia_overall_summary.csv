@@ -1,0 +1,2 @@
+model_slug,model_name,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+nissan-silvia,シルビア,root,root,1000,5.0,341.5,132.5,122.5,65.4,186.2,341.5,"2002年式 / 2.0 スペックR Vパッケージ / 128,000km / 鹿児島県",2002年式,2.0 スペックR Vパッケージ,"128,000km",鹿児島県,manen

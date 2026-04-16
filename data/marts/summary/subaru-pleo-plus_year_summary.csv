@@ -1,0 +1,15 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+subaru-pleo-plus,プレオプラス,,2024,2024年式,root,root,1,46.0,46.0,46.0,46.0,46.0,46.0,46.0,"2024年式 / L 4WD / 5,000km / 埼玉県",2024年式,L 4WD,"5,000km",埼玉県,manen
+subaru-pleo-plus,プレオプラス,,2023,2023年式,root,root,7,55.2,69.0,61.2,59.9,58.0,61.1,69.0,"2023年式 / L 4WD / 3,000km / 山口県",2023年式,L 4WD,"3,000km",山口県,manen
+subaru-pleo-plus,プレオプラス,,2022,2022年式,root,root,16,23.2,69.0,56.6,59.5,55.0,66.5,69.0,2022年式 / F 4WD / 3万km / 愛媛県,2022年式,F 4WD,3万km,愛媛県,manen
+subaru-pleo-plus,プレオプラス,,2021,2021年式,root,root,25,22.1,72.0,49.9,55.3,38.9,60.9,72.0,"2021年式 / F スマートアシスト 4WD / 23,000km / 宮崎県",2021年式,F スマートアシスト 4WD,"23,000km",宮崎県,manen
+subaru-pleo-plus,プレオプラス,,2020,2020年式,root,root,58,22.1,70.0,44.9,44.2,35.0,55.4,70.0,"2020年式 / G スマートアシスト / 4,000km / 山梨県",2020年式,G スマートアシスト,"4,000km",山梨県,manen
+subaru-pleo-plus,プレオプラス,,2019,2019年式,root,root,91,5.8,70.5,36.9,36.0,27.0,44.0,70.5,"2019年式 / G スマートアシスト / 5,000km / 宮崎県",2019年式,G スマートアシスト,"5,000km",宮崎県,manen
+subaru-pleo-plus,プレオプラス,,2018,2018年式,root,root,143,15.7,71.0,37.8,36.3,27.8,45.4,71.0,2018年式 / G スマートアシスト 4WD / 4万km / 香川県,2018年式,G スマートアシスト 4WD,4万km,香川県,manen
+subaru-pleo-plus,プレオプラス,,2017,2017年式,root,root,137,1.7,71.0,32.6,30.5,21.9,38.7,71.0,"2017年式 / G スマートアシスト / 33,000km / 鳥取県",2017年式,G スマートアシスト,"33,000km",鳥取県,manen
+subaru-pleo-plus,プレオプラス,,2016,2016年式,root,root,119,5.0,51.0,23.8,21.7,17.5,31.5,51.0,2016年式 / G スマートアシスト 4WD / 4万km / 福島県,2016年式,G スマートアシスト 4WD,4万km,福島県,manen
+subaru-pleo-plus,プレオプラス,,2015,2015年式,root,root,108,5.0,61.5,22.5,21.1,15.2,28.5,61.5,"2015年式 / GA スマートアシスト 4WD / 14,000km / 栃木県",2015年式,GA スマートアシスト 4WD,"14,000km",栃木県,manen
+subaru-pleo-plus,プレオプラス,,2014,2014年式,root,root,145,5.0,49.2,19.4,18.6,13.5,25.5,49.2,"2014年式 / FA 4WD / 19,000km / 鳥取県",2014年式,FA 4WD,"19,000km",鳥取県,manen
+subaru-pleo-plus,プレオプラス,,2013,2013年式,root,root,143,5.0,40.8,17.5,17.4,11.5,22.8,40.8,2013年式 / GA 4WD / 4万km / 京都府,2013年式,GA 4WD,4万km,京都府,manen
+subaru-pleo-plus,プレオプラス,,2012,2012年式,root,root,5,9.2,27.6,15.3,11.4,11.4,17.0,27.6,2012年式 / LA 4WD / 4万km / 香川県,2012年式,LA 4WD,4万km,香川県,manen
+subaru-pleo-plus,プレオプラス,,2011,2011年式,root,root,2,15.9,30.2,23.1,23.1,15.9,30.2,30.2,"2011年式 / L 4WD / 47,000km / 岩手県",2011年式,L 4WD,"47,000km",岩手県,manen

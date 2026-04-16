@@ -1,0 +1,15 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+mazda-atenza-sport,アテンザスポーツ,,2013,2013年式,root,root,2,21.1,28.2,24.6,24.6,21.1,28.2,28.2,"2013年式 / 2.5 25S / 36,000km / 愛知県",2013年式,2.5 25S,"36,000km",愛知県,manen
+mazda-atenza-sport,アテンザスポーツ,,2012,2012年式,root,root,43,10.3,60.7,28.4,26.0,16.1,37.5,60.7,"2012年式 / 2.5 25Z / 112,000km / 山形県",2012年式,2.5 25Z,"112,000km",山形県,manen
+mazda-atenza-sport,アテンザスポーツ,,2011,2011年式,root,root,80,5.0,60.5,28.5,26.0,15.4,39.0,60.5,2011年式 / 2.5 25Z / 8万km / 滋賀県,2011年式,2.5 25Z,8万km,滋賀県,manen
+mazda-atenza-sport,アテンザスポーツ,,2010,2010年式,root,root,88,5.5,60.2,30.0,28.1,17.2,42.0,60.2,"2010年式 / 2.5 25Z / 52,000km / 鹿児島県",2010年式,2.5 25Z,"52,000km",鹿児島県,manen
+mazda-atenza-sport,アテンザスポーツ,,2009,2009年式,root,root,130,5.0,60.9,27.7,25.1,14.5,40.0,60.9,"2009年式 / 2.5 25S / 38,000km / 静岡県",2009年式,2.5 25S,"38,000km",静岡県,manen
+mazda-atenza-sport,アテンザスポーツ,,2008,2008年式,root,root,179,5.0,59.5,24.2,21.6,13.4,35.2,59.5,"2008年式 / 2.5 25Z / 99,000km / 岡山県",2008年式,2.5 25Z,"99,000km",岡山県,manen
+mazda-atenza-sport,アテンザスポーツ,,2007,2007年式,root,root,126,5.0,51.3,20.5,17.8,10.6,27.9,51.3,"2007年式 / 2.5 25S / 32,000km / 青森県",2007年式,2.5 25S,"32,000km",青森県,manen
+mazda-atenza-sport,アテンザスポーツ,,2006,2006年式,root,root,83,5.0,44.2,14.2,11.2,7.0,17.7,44.2,2006年式 / 2.3 23S / 2万km / 佐賀県,2006年式,2.3 23S,2万km,佐賀県,manen
+mazda-atenza-sport,アテンザスポーツ,,2005,2005年式,root,root,91,5.0,51.0,13.9,10.5,7.3,18.5,51.0,"2005年式 / 2.3 23Z / 6,000km / 茨城県",2005年式,2.3 23Z,"6,000km",茨城県,manen
+mazda-atenza-sport,アテンザスポーツ,,2004,2004年式,root,root,74,5.0,28.8,11.7,10.2,7.3,15.0,28.8,"2004年式 / 2.3 23S / 79,000km / 大阪府",2004年式,2.3 23S,"79,000km",大阪府,manen
+mazda-atenza-sport,アテンザスポーツ,,2003,2003年式,root,root,58,5.0,28.5,10.4,8.4,6.8,12.0,28.5,"2003年式 / 2.3 23S / 55,000km / 神奈川県",2003年式,2.3 23S,"55,000km",神奈川県,manen
+mazda-atenza-sport,アテンザスポーツ,,2002,2002年式,root,root,38,5.0,18.0,8.7,8.1,5.6,10.4,18.0,"2002年式 / 2.3 23S / 44,000km / 福井県",2002年式,2.3 23S,"44,000km",福井県,manen
+mazda-atenza-sport,アテンザスポーツ,,2001,2001年式,root,root,7,5.1,16.2,7.6,6.3,5.4,6.4,16.2,"2001年式 / 2.3 23S / 51,000km / 鳥取県",2001年式,2.3 23S,"51,000km",鳥取県,manen
+mazda-atenza-sport,アテンザスポーツ,,1944,1944年式,root,root,1,29.8,29.8,29.8,29.8,29.8,29.8,29.8,"1944年式 / 2.3 23Z / 69,000km / 埼玉県",1944年式,2.3 23Z,"69,000km",埼玉県,manen

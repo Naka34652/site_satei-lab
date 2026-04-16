@@ -1,0 +1,11 @@
+maker_name,input_model_name,model_slug,normalized_lookup_name,reason
+スズキ,SX4 ワゴン,suzuki-sx4-wagon,SX4 ワゴン,取得元に独立モデルが見当たらない（SX4 / SX4 Sクロス / SX4セダンは確認）
+スズキ,ハスラー タフワイルド,suzuki-hustler-tough-wild,ハスラー タフワイルド,取得元では独立モデルではなくグレード系の可能性が高い
+スズキ,ラパン LC,suzuki-lapin-lc,ラパン LC,取得元に独立モデルが見当たらない（アルトラパンは確認）
+ダイハツ,ハイゼットトラック ジャンボ,daihatsu-hijet-truck-jumbo,ハイゼットトラック ジャンボ,取得元では独立モデルではなくグレード系の可能性が高い
+スバル,トレイルシーカー,subaru-trailseeker,トレイルシーカー,取得元にモデルが見当たらない
+スバル,WRX S4,subaru-wrx-s4,WRX S4,取得元に同名モデルが複数あり世代の切り分けが確定できない
+スバル,WRX S4 ２代目,subaru-wrx-s4-2nd,WRX S4 ２代目,取得元に世代を識別できる独立モデル名が見当たらない
+スバル,WRX S4 STI Sport,subaru-wrx-s4-sti-sport,WRX S4 STI Sport,取得元では独立モデルではなくグレード系の可能性が高い
+マツダ,フレアワゴン カスタムスタイル,mazda-flare-wagon-custom-style,フレアワゴン カスタムスタイル,取得元では独立モデルではなくグレード系の可能性が高い
+マツダ,フレアワゴン タフスタイル,mazda-flare-wagon-tough-style,フレアワゴン タフスタイル,取得元では独立モデルではなくグレード系の可能性が高い

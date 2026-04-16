@@ -1,0 +1,16 @@
+model_slug,model_name,generation_label,target_year,target_year_label,source_page_type,source_variant_label,sample_count,price_min,price_max,price_avg,price_median,price_common_min,price_common_max,high_price,high_price_case,high_price_year,high_price_grade,high_price_mileage,high_price_prefecture,price_unit
+honda-n-one,N-ONE,,2025,2025年式,root,root,9,76.0,161.5,120.1,121.5,108.9,132.2,161.5,2025年式 / RS / 0万km / 群馬県,2025年式,RS,0万km,群馬県,manen
+honda-n-one,N-ONE,,2024,2024年式,root,root,23,87.4,166.3,129.6,130.9,121.0,137.5,166.3,"2024年式 / RS / 11,000km / 東京都",2024年式,RS,"11,000km",東京都,manen
+honda-n-one,N-ONE,,2023,2023年式,root,root,57,63.0,171.5,132.9,130.4,119.7,158.2,171.5,2023年式 / RS / 2万km / 長崎県,2023年式,RS,2万km,長崎県,manen
+honda-n-one,N-ONE,,2022,2022年式,root,root,62,11.5,171.3,117.0,116.7,105.3,133.5,171.3,"2022年式 / RS / 22,000km / 長崎県",2022年式,RS,"22,000km",長崎県,manen
+honda-n-one,N-ONE,,2021,2021年式,root,root,72,14.8,159.9,112.4,115.8,92.2,128.0,159.9,"2021年式 / RS / 17,000km / 奈良県",2021年式,RS,"17,000km",奈良県,manen
+honda-n-one,N-ONE,,2020,2020年式,root,root,54,24.6,171.0,103.8,105.8,84.1,129.0,171.0,"2020年式 / RS / 13,000km / 宮城県",2020年式,RS,"13,000km",宮城県,manen
+honda-n-one,N-ONE,,2019,2019年式,root,root,51,18.5,145.7,76.2,82.8,61.5,93.0,145.7,"2019年式 / RS / 101,000km / 宮崎県",2019年式,RS,"101,000km",宮崎県,manen
+honda-n-one,N-ONE,,2018,2018年式,root,root,78,19.5,127.0,60.7,59.3,41.2,79.0,127.0,"2018年式 / RS / 9,000km / 青森県",2018年式,RS,"9,000km",青森県,manen
+honda-n-one,N-ONE,,2017,2017年式,root,root,75,10.7,96.0,47.9,46.5,29.0,60.8,96.0,"2017年式 / セレクト ツアラー / 32,000km / 静岡県",2017年式,セレクト ツアラー,"32,000km",静岡県,manen
+honda-n-one,N-ONE,,2016,2016年式,root,root,81,11.8,101.0,48.0,45.5,33.1,61.4,101.0,"2016年式 / モデューロX / 43,000km / 京都府",2016年式,モデューロX,"43,000km",京都府,manen
+honda-n-one,N-ONE,,2015,2015年式,root,root,110,5.0,76.8,33.1,28.6,23.0,43.7,76.8,"2015年式 / モデューロX / 62,000km / 山梨県",2015年式,モデューロX,"62,000km",山梨県,manen
+honda-n-one,N-ONE,,2014,2014年式,root,root,106,5.0,75.0,24.4,24.3,17.0,32.2,75.0,"2014年式 / プレミアム ツアラー 4WD / 46,000km / 佐賀県",2014年式,プレミアム ツアラー 4WD,"46,000km",佐賀県,manen
+honda-n-one,N-ONE,,2013,2013年式,root,root,161,5.0,81.0,17.0,14.3,5.0,24.4,81.0,"2013年式 / プレミアム ツアラー Lパッケージ / 22,000km / 静岡県",2013年式,プレミアム ツアラー Lパッケージ,"22,000km",静岡県,manen
+honda-n-one,N-ONE,,2012,2012年式,root,root,59,5.0,54.0,22.3,24.0,15.8,29.7,54.0,"2012年式 / プレミアム ツアラー Lパッケージ / 34,000km / 長崎県",2012年式,プレミアム ツアラー Lパッケージ,"34,000km",長崎県,manen
+honda-n-one,N-ONE,,2011,2011年式,root,root,2,23.1,52.5,37.8,37.8,23.1,52.5,52.5,"2011年式 / プレミアム ツアラー Lパッケージ 4WD / 65,000km / 三重県",2011年式,プレミアム ツアラー Lパッケージ 4WD,"65,000km",三重県,manen
